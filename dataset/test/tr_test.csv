@@ -1,0 +1,2975 @@
+id,label,label_text,text,lang
+7730,calendar,calendar,gelecek pazartesiyi işaretlemene ihtiyacım var,tr
+3492,play,play,benim en çok dinlediğim şarkı listesini aç,tr
+1205,alarm,alarm,öğleden sonra üç alarmını iptal et,tr
+2985,alarm,alarm,alarmı iptal et,tr
+6725,calendar,calendar,öğleden sonraki programımı hatırlat,tr
+9689,play,play,kitabı durdur,tr
+702,iot,iot,ışıkları azalt lütfen,tr
+1449,datetime,datetime,iki bin on sekizde kurban bayramı ne zaman olacak,tr
+3590,audio,audio,yüksek sesle konuş,tr
+10048,cooking,cooking,nasıl hindi pişiririm,tr
+16029,email,email,lütfen iş arkadaşıma yeni bir eposta oluştur,tr
+9138,qa,qa,şampiyonluk maçı resmi olarak ne zaman başlıyor,tr
+12606,transport,transport,eskişehir'den kütahya'ya bir tren bileti almalıyım,tr
+11067,lists,lists,bakkaliye listeme portakallar ekle lütfen,tr
+11177,lists,lists,alışveriş listesine bir kol saati ekle,tr
+11442,play,play,lütfen en son mesut süre podcast ını çal,tr
+10105,cooking,cooking,orta az pişmiş olması için bifteği ne kadar pişirmeliyim,tr
+6103,weather,weather,bugün los angeles california'da hava nasıl olacak,tr
+261,audio,audio,seni zar zor duyabiliyorum,tr
+11953,recommendation,recommendation,en yakın koçtaş nerede,tr
+5544,music,music,bu şarkının müzik yönetmeni kim,tr
+15214,news,news,bugün ne haberler var,tr
+5082,alarm,alarm,sabah altı için yeni alarm,tr
+9942,cooking,cooking,yaş pastaya konulacakların tümü neler,tr
+11455,play,play,bir sonraki bölüme git,tr
+6561,general,general,online bilgi araştırmak,tr
+7087,calendar,calendar,benim yarınki toplantımı takvimimden sil,tr
+2498,datetime,datetime,siri bugün hangi tarih,tr
+11744,recommendation,recommendation,bu hafta sonu açılan hangi yeni drama filmleri var,tr
+12159,transport,transport,benim için bir uber rezerve edebilir misin,tr
+16353,email,email,sedat'tan gelen e-postaları kontrol et,tr
+4998,play,play,bu şarkıyı sonraki çalan şarkıya ekle,tr
+1014,datetime,datetime,ankara da şu anda saat kaç,tr
+4502,datetime,datetime,hey ankarada saat kaç,tr
+15970,email,email,annemden gelen son e-postanın konusu neydi,tr
+3138,iot,iot,bana tuzlu karamel aromalı kremalı bir kahve yap,tr
+3605,news,news,fox t. v.'deki son haberler neler,tr
+10848,lists,lists,bu listeyi diğerlerinden kaldır,tr
+4412,weather,weather,bursa'da hava nasıl,tr
+17116,email,email,son e-postalar ı göster,tr
+1264,alarm,alarm,alarmım yarın sabaha mı kuruldu,tr
+4482,weather,weather,bu sabah yolumdaki karları temizlemem lazım mı,tr
+14118,qa,qa,piramitler in coğrafi detaylarını göster,tr
+4909,play,play,kardeş türküler den şarkılar çal,tr
+4689,weather,weather,hava durumunu biliyor musun,tr
+2062,play,play,biraz jazz müzik çalınmasını istiyorum,tr
+16005,email,email,yusuf et gmail nokta koma mail gönder,tr
+7955,calendar,calendar,bu etkinliği benim takvimimdeki tekrarlanan sıraya koy,tr
+355,datetime,datetime,bir nisan hangi gün,tr
+6304,general,general,bugün nasıl hissediyorsun,tr
+6646,general,general,bugün google da en üst seviye araştırmalar hangileri,tr
+7680,calendar,calendar,takvimimde bu ayın tüm golf ekinliklerini sil,tr
+4928,play,play,oynatma listemi çal,tr
+5953,weather,weather,yaşamak için şehir daha mı ucuz daha mı pahalı,tr
+1318,play,play,müzik uygulamalarını başlat ve benim için bir şarkı çal,tr
+10027,cooking,cooking,yemek yapmak için talimatlar,tr
+5996,weather,weather,bu öğleden sonra kar botlarıma ihtiyacım olacak mı,tr
+15796,email,email,chelsea'ye e-posta gönder,tr
+10776,lists,lists,hazır bir market listem var mı,tr
+16201,email,email,lütfen hasan için yeni mail yükle ve şimdi mesaj gönder,tr
+2271,play,play,lütfen satın alıp favori yaptığım şarkılar çal,tr
+2205,audio,audio,iki saat sessizlik,tr
+1483,alarm,alarm,ben hangi alarmları kurdum,tr
+14412,general,general,yeni futbol oyun kurallarını tanımla,tr
+10403,play,play,oyunlar aç,tr
+6366,recommendation,recommendation,bana amerikada ziyaret edilecek en iyi turistik yerlerden bazılarını söyle,tr
+254,play,play,olly benim favori fenerbahçe oyuncumdan güzel bir bölüm oynat,tr
+16377,email,email,anneme şimdi bir e-posta gönder,tr
+6116,weather,weather,bu haftaki hava durumu hakkında bilgi,tr
+2441,iot,iot,kilerdeki ışığı kapat,tr
+12736,transport,transport,yol tafiği,tr
+15829,email,email,kişilere git ve yeni bir e-posta adresi gir,tr
+16911,email,email,lütfen yeni eposta adresimi kişiye ekle,tr
+11341,play,play,en son disney podcast'ini bul,tr
+9855,play,play,tekrar alacakaranlık kuşağı nın sesli pleybekini başlat,tr
+14742,qa,qa,şu an euro abd doları kuru ne,tr
+6293,general,general,hey olly bugün eski bir sınıf arkadaşıma rastladım,tr
+10357,play,play,oyun oyna,tr
+86,datetime,datetime,bugün günlerden ne,tr
+6550,general,general,bugün terfi aldım çok iyi hissettiriyor,tr
+10430,lists,lists,listedeki ilk öğeyi sil,tr
+13312,qa,qa,alexa benim bu ay için on dolarım var bu ay her gün ne kadar harcamam gerekiyor,tr
+14169,qa,qa,şeyma subaşı üniversiteye nerede gitti,tr
+5017,iot,iot,lütfen bana bir kahve yapabilir misin,tr
+14658,qa,qa,euro ve doların döviz kuru nedir,tr
+16791,email,email,yeni bir email oluştur ama bu kez burak örnek nokta com diye yeni bir adres aldım,tr
+5697,iot,iot,süpürmeye başla,tr
+4913,general,general,bu fıkrayı biliyor musun,tr
+13853,qa,qa,dünyada en çok volkan olan yer neresidir,tr
+576,play,play,tüm çalma listesini çal,tr
+16859,email,email,son e-postamda susan'a ne söyledim,tr
+16385,email,email,lütfen yeni epostaları oku,tr
+13412,qa,qa,dört artı beş nedir,tr
+15618,social,social,şişecam'a tweet at ve berbat olduklarını söyle,tr
+12413,transport,transport,mevcut trafik durumu nedir,tr
+89,takeaway,takeaway,bu gece akşam yemeği için sushi söyler misin,tr
+2201,news,news,c. n. n. başlıkları,tr
+3883,iot,iot,ışıkların parlaklığını arttır,tr
+12264,transport,transport,istanbul,tr
+15995,email,email,seline bütçe toplantısı hakkında eposta gönder,tr
+3096,weather,weather,new jersey'de hava nasıl,tr
+1677,music,music,şu anda hangi müzik çalıyor,tr
+16609,email,email,hiç okunmamış yeni emailim varsa bana söyle,tr
+14414,qa,qa,bilgisayar hard disk tanımı yap,tr
+12874,transport,transport,tren bileti lütfen,tr
+13591,qa,qa,hatayın başkenti neresidir,tr
+13679,qa,qa,bir ineğin kaç midesi olduğunu söyler misin,tr
+5671,datetime,datetime,izmir'de saat kaç,tr
+7892,calendar,calendar,bugünkü bir sonraki etkinliği dil,tr
+3686,play,play,benim rock müzik için hazırladığım çalma listemi aç,tr
+2868,iot,iot,lütfen kahve makinesine bana biraz kahve yaptır,tr
+16049,email,email,aileme bir e-posta göndermek istiyorum bana yardım eder misin,tr
+16947,email,email,e-postayı cevapla,tr
+6181,general,general,hey olly seni özledim,tr
+13636,qa,qa,cüneyt arkının doğum günü ne,tr
+12797,transport,transport,benim bulunduğum yerden konuma tren saatleri,tr
+4178,news,news,başkanlık hakkında herhangi bir haber var mı,tr
+4268,music,music,listedeki bir sonraki şarkıya geç,tr
+6241,general,general,bugün bir fakire yardım ettim olly,tr
+7293,calendar,calendar,cumartesiye bir saatlik bir randevu ayarla,tr
+1509,audio,audio,sabah alarmına kadar ses çıkartma,tr
+2960,iot,iot,elektrik süpürgesini başlat,tr
+4290,weather,weather,bu gece yanıma bir ceket almalı mıyım,tr
+11914,iot,iot,olly bir içeceğe ihtiyacım var,tr
+3581,audio,audio,sesi kapat,tr
+14683,qa,qa,mehmet ali alaboranın hobileri nelerdir,tr
+1666,news,news,son altı saatteki en temiz haberler neler,tr
+13486,general,general,tüm son komutlarımın listesini bana gösterir misin,tr
+2480,takeaway,takeaway,paket servis için ara,tr
+15318,social,social,herkese doğum günü dilekleri için teşekkür etmek istiyorum,tr
+1778,iot,iot,lütfen ışıkları kıs,tr
+9754,play,play,olly kiralık konak ı dinleyelim,tr
+16624,email,email,hizmet sorunlarım hakkında kırcılara gönderilecek bir epostaya ihtiyacım var,tr
+11261,play,play,sıradaki,tr
+15862,email,email,annemden gelen email kontrol et,tr
+9856,play,play,çalıkuşu kitabını oynat,tr
+14449,qa,qa,tülin şahinin yeni bir bebeği mi var,tr
+46,general,general,naber olly,tr
+7046,calendar,calendar,ayın yirmi birinde saat yedi de veli toplantısı ekle,tr
+1042,takeaway,takeaway,lütfen uygulamalar klasörünü aç,tr
+1756,iot,iot,ışıkları parlaklaştır,tr
+6220,general,general,lütfen bu soruya ne yazdığını gör,tr
+7975,calendar,calendar,etkinlikte vale servisi var mı,tr
+14306,qa,qa,hindistanın coğrafi konumunu açıkla,tr
+8044,calendar,calendar,bugün benim programım nedir,tr
+8230,calendar,calendar,salı günü öğle yemeği toplantım ne kadar sürecek,tr
+6023,weather,weather,aşırı nemli bir gece mi olacak,tr
+897,iot,iot,akşam altı da ev ışıklar amber yap,tr
+3624,news,news,star t. v.' den haberler,tr
+5481,audio,audio,sesi kes,tr
+16275,email,email,yeni eposta için oylamayı başlat,tr
+10503,lists,lists,postaneyi cumartesi yapılacak işler listeme ekle,tr
+16410,email,email,eposta oluştur,tr
+12263,transport,transport,ankara,tr
+424,news,news,flaş haberler ne,tr
+10077,cooking,cooking,bu akşam için bir yemek tarifi bul,tr
+13359,qa,qa,on iki artı yüz doksan altı kaç eder,tr
+2965,iot,iot,ofis ışıklarını kapat,tr
+12604,transport,transport,internetten nasıl tren bileti alırım,tr
+12235,transport,transport,lütfen bu hafta sonu için bir tren bileti al,tr
+2134,alarm,alarm,beni uyandır,tr
+13854,qa,qa,zeki müren ne zaman öldü,tr
+7151,calendar,calendar,her tek sayılı pazar günü için hatırlatma kur,tr
+9720,play,play,puslu kıtalar atlasını kaldığı yerden devam ettir,tr
+15661,social,social,benim edevlet de twitter a en son girişimi postla,tr
+1722,weather,weather,istanbul için en düşük sıcaklık kaç derece,tr
+730,iot,iot,ışıkları kapat,tr
+16170,email,email,okunmamış e-postaları kontrol etmek için gelen kutusunu aç,tr
+11257,play,play,olly sonraki kaydı çal,tr
+7609,calendar,calendar,salı günündeki toplantı hatırlatmasını kaldır,tr
+11164,lists,lists,listeden kaldır,tr
+7563,calendar,calendar,yarınki toplantımı bana bir saat önceden hatırlat,tr
+16873,email,email,nefise'ye doğum günü için e-posta gönder,tr
+826,weather,weather,dışarıda anlık sıcaklık nedir,tr
+16375,email,email,barana eposta oluştur,tr
+10527,lists,lists,listeyi kaldır,tr
+10451,lists,lists,bugün ne yapacağım,tr
+5497,datetime,datetime,doğu anadolu ve trakya arasındaki saat farkı ne kadar,tr
+9182,calendar,calendar,anne babamı havaalanından alma planlarımı iptal et,tr
+3570,iot,iot,bahçe avlusundaki ışıkları kapat,tr
+400,play,play,çalmaya başla,tr
+10824,lists,lists,olly listeyi temizle,tr
+10226,cooking,cooking,makarna hazırlama tarifi verir misin,tr
+2906,iot,iot,parlaklık yüzde doksan,tr
+614,play,play,çalma listesi başlat,tr
+16701,email,email,sarah'ın e-postasını yanıtlamak isterim,tr
+15626,social,social,lütfen kötü müşteri hizmetleri için denizcasta şikayet tweeti at,tr
+6774,calendar,calendar,cuma günü için bir etkinlik ayarla,tr
+15177,social,social,lütfen bu paylaşımı twitterda tekrar paylaş,tr
+6159,iot,iot,yerleri temizler,tr
+5758,weather,weather,başkentte hava nasıl,tr
+8771,calendar,calendar,yirmi üç mart için planladığım alışveriş seyahatini sil,tr
+15010,qa,qa,ingilterede bir amerikan doları ne kadar,tr
+6936,calendar,calendar,bana ilacımı sabah dokuzda almamı hatırlat,tr
+13546,qa,qa,özcan deniz en son hangi filmdeydi,tr
+3,audio,audio,sessiz,tr
+11157,lists,lists,lütfen yeni liste oluştur,tr
+3034,weather,weather,bana sıcaklığı söyle,tr
+15732,social,social,samsunga tweet at ve ürünleriyle insanları öldürmeyi bırakmalarını söyle,tr
+12582,transport,transport,ilk metro sabah saat kaçta geliyor,tr
+15983,email,email,melek'in e-posta adresi ne,tr
+14083,qa,qa,cüneyt arkın şu an nerede yaşıyor,tr
+11773,recommendation,recommendation,altın kelebek adayı bir film bul,tr
+8056,calendar,calendar,benim cuma günü bir randevum var mı,tr
+15942,email,email,en son e-postaları yanıtlamak için bu e-postayı gönder,tr
+2908,takeaway,takeaway,taco hut adrese teslim yapıyor mu bana söyle,tr
+9941,cooking,cooking,nasıl tereyağlı tavuk pişireyim,tr
+17179,email,email,eser bana bir email gönderdi mi,tr
+10709,lists,lists,bunu listeye ekle,tr
+9542,play,play,radyoda en son haber programını dinleyeyim,tr
+10718,lists,lists,bu öğeyi listeden kaldırabilir misin,tr
+9630,play,play,benim için ntv radyo'yu aç,tr
+14115,qa,qa,kaya kumu ile ilgili bilgiler ver,tr
+8570,calendar,calendar,yarın öğleden sonra saat ikide beni meşgul olarak işaretler misin,tr
+12212,transport,transport,havaalanı na taksi çağır,tr
+8343,datetime,datetime,bugün çarşamba mı,tr
+13896,qa,qa,dolar dan euro ya,tr
+2545,weather,weather,hava nasıl,tr
+2412,datetime,datetime,bana londra'da saat kaç söyler misin,tr
+3734,iot,iot,ışıkları kırmızı renge çevir,tr
+362,play,play,mirkelam şarkılarından ikinci şarkıyı çal,tr
+726,weather,weather,haftanın hava durumu ayrıntılarını özetleyin,tr
+6633,play,play,video oyunları,tr
+5339,weather,weather,düşük soğutma modu,tr
+11476,play,play,önceki podcasti çal,tr
+14644,qa,qa,hisse senedi fiyatı,tr
+4524,weather,weather,olly bugün hava durumu nasıl,tr
+14011,qa,qa,nazan öncelin doğum günü nedir,tr
+10804,lists,lists,market listemi oku,tr
+6101,alarm,alarm,şu anda hiç ayarlanmış alarm var mı,tr
+3298,iot,iot,akıllı prizi kapat,tr
+5040,weather,weather,hava şimdi nasıl,tr
+14044,qa,qa,bu bölgedeki döviz kurları nedir,tr
+6992,calendar,calendar,gelecekteki etkinlikleri göster,tr
+9471,play,play,amerikan folk müziği müzik istasyonu aç,tr
+11306,play,play,dün dinlediğim podcasti oynat,tr
+7902,calendar,calendar,yarın öğleden sonra iki de şahsımla ali arasında bir toplantı kur,tr
+1043,takeaway,takeaway,teslimat yapan en yakın tayland restoranını ara,tr
+16148,email,email,nihata hızlı cevap ver bu yüzden lütfen bir mail gönder,tr
+11296,play,play,benim bütün podcast imi yükle,tr
+7161,calendar,calendar,ileride bu etkinliği hatırlat,tr
+11628,recommendation,recommendation,kartal'da eczane nerede,tr
+6059,play,play,rap müzik çal,tr
+3080,takeaway,takeaway,abur cubur zamanı,tr
+12838,transport,transport,trafik şu an nasıl,tr
+6382,general,general,hey son zamanlarda sporda hangi ilginç şeyler oldu,tr
+5131,datetime,datetime,lütfen bana trabzon daki saati söyle,tr
+5919,news,news,new york köprüsü teklifi için en son güncelleme nedir,tr
+9669,play,play,sabahattin ali 'den kürk mantolu madonna 'yı dinlemek istiyorum,tr
+6594,general,general,bugün gittiğim yer,tr
+2156,datetime,datetime,şu an saatin kaç olduğunu bilmem gerekiyor nedir,tr
+5985,news,news,bm'den en son haberleri göster,tr
+348,weather,weather,yarın yağmur var mı,tr
+16045,email,email,ismail e ofis açılış saatlerini içeren bir posta gönder,tr
+10887,lists,lists,listemi sil,tr
+13457,calendar,calendar,bana zamanlanmış bir etkinliğe ne zaman gitmem gerektiğini söyle böylece zamanında gelebileyim,tr
+11146,lists,lists,kişi listeme çalışma kişileri ekle,tr
+4116,play,play,karışık çalma listesini çal lütfen,tr
+9212,play,play,birileri radyo açsın,tr
+15326,social,social,lütfen facebook akışımı oku,tr
+14509,qa,qa,ismet inönü nerede doğdu,tr
+3841,iot,iot,roombayı etkinleştir,tr
+5635,alarm,alarm,sabah altı da uyandığımdan emin ol,tr
+12073,recommendation,recommendation,yerel güncel olaylar öner,tr
+15968,email,email,eğer oldukça bilindik bir yerdense önemli olarak işaretle,tr
+3146,play,play,benim sezen aksu çalma listemden bir nolu şarkıyı çal,tr
+9632,play,play,radyo lütfen,tr
+12672,transport,transport,şehirde trafik nasıl,tr
+13619,recommendation,recommendation,bugün bölgemde ücretsiz etkinlik var mı,tr
+11328,play,play,philadelphia eagles content için podcasti aç,tr
+14437,qa,qa,amerikan doları için pound döviz kurunu bul,tr
+14746,qa,qa,kazakistanın başkenti neresidir,tr
+9694,play,play,o adındaki bir çocuk blaybackine devam et,tr
+14820,qa,qa,daha fazla hisse fiyatı,tr
+14453,qa,qa,dolar ile avronun döviz kuru,tr
+5286,news,news,t.r.t haberden göç haberleri göster,tr
+16781,email,email,bu maili benim kişilerime ekle ve email gönder,tr
+16591,email,email,bill den yeni bir email aldım ve hemen cevap vermem lazım,tr
+15459,social,social,twitter şikayeti gönder,tr
+13929,general,general,şimdi bana kar olan bir yer söyle,tr
+13847,qa,qa,tl döviz karşılığı nedir,tr
+12289,transport,transport,benim istikametimde trafik sıkışık mı,tr
+7278,calendar,calendar,bana rümeysanın doğum gününü yirmi dört saat önceden hatırlat,tr
+12281,transport,transport,ankaradan eskişehire bir tren bileti ayırt lütfen,tr
+9918,cooking,cooking,nasıl pizza yaparım,tr
+2859,datetime,datetime,olly bu şehirde saat kaç,tr
+15963,email,email,ben kazım dan herhangi bir yeni email aldım mı,tr
+651,iot,iot,oda ışıklarını kapat,tr
+15445,social,social,bana instagram'da neler oluyor söyle,tr
+5678,datetime,datetime,on beş ağustos haftanın hangi günü,tr
+12824,transport,transport,ny için tren saatlerini listele,tr
+3614,weather,weather,bugün güneşli değil mi,tr
+2472,datetime,datetime,bulunduğum yer için saat şu anda doğru mu,tr
+8043,calendar,calendar,bir sonraki randevum saat kaçta,tr
+16698,email,email,annemin e-postasına cevap yaz,tr
+10699,lists,lists,listedeki öğeler hakkında beni bilgilendir,tr
+15249,social,social,az önce paylaştığım fotoğrafımı beğenen var mı,tr
+11424,play,play,enes batur,tr
+5840,takeaway,takeaway,papa john's dan biraz yemek siparişine ihtiyacım var,tr
+4362,datetime,datetime,istanbul da saat kaç,tr
+16317,email,email,azimeden yeni epostalar aldım mı,tr
+8042,calendar,calendar,sonraki toplantıma kaç kişi katılıyor,tr
+17119,email,email,amazon'dan gelen herhangi bir postayı kontrol et,tr
+2690,iot,iot,prizi kapat,tr
+3060,news,news,tgrt den yeni haberler nelerdir,tr
+9358,play,play,sekiz yüz seksen dokuz radyo kanalını başlat,tr
+16874,email,email,brenden için bende kaç telefon numarası mevcut,tr
+13044,general,general,cumartesi gecesi konseri için satılan biletleri görmek istiyorum,tr
+8968,calendar,calendar,bana bu hafta hatırlayacağım bir şey söyle,tr
+13871,qa,qa,mutlu bir doğum gününü nasıl tarif edersin,tr
+2387,music,music,bu şarkıyı kim yazmış,tr
+7556,calendar,calendar,takvimimi bana her cuma alışveriş yapmamı hatırlatacak şekilde ayarla,tr
+6151,weather,weather,bugünün havasını bilmek istiyorum,tr
+10177,cooking,cooking,peynirli makarna nasıl yapılır,tr
+13031,recommendation,recommendation,en yakın pizzacı nedir,tr
+13580,qa,qa,ağrı dağı ne kadar yüksek,tr
+10285,play,play,lütfen clash of clans oynat,tr
+4017,alarm,alarm,şu anki alarmlarımı ortadan kaldır,tr
+1982,alarm,alarm,sabah altı buçuğa alarm kur,tr
+5917,iot,iot,bir kahve yap lütfen,tr
+10979,lists,lists,şu an listende ne var,tr
+412,general,general,bana komik bir fıkra anlat,tr
+6069,weather,weather,bugün fırtına bekleniyor mu,tr
+4201,iot,iot,akıllı soket açık,tr
+10268,play,play,hadi tavla oynayalım,tr
+2704,play,play,biraz indie rock dinleyelim olur mu,tr
+13982,qa,qa,şu andaki dolar kuru,tr
+14243,qa,qa,kişi hakkında detaylar,tr
+9930,cooking,cooking,yumurtayı ne kadar süre haşlamalıyım,tr
+4436,weather,weather,nasıl bir ceket giymeliyim,tr
+14,iot,iot,ve karanlık çöktü,tr
+1423,news,news,bana trump hakkında konuş,tr
+6819,calendar,calendar,olly bu gece dokuzda jazz barda çok güzel bir müzik grubu çalıyor gitmek istiyorum,tr
+712,news,news,c. n. n. den son haberleri duymak istiyorum,tr
+13411,qa,qa,bana bu sorunun cevabını göster iki yüz kırk altı artı altı yüz elli dört,tr
+11802,recommendation,recommendation,buralarda hiç iyi pizzacı var mı,tr
+8085,calendar,calendar,bu hafta için bir randevu oluşturmak istiyorum,tr
+15039,qa,qa,olly toros dağları nerede başlar,tr
+13178,calendar,calendar,vakit geçmeden altı ay içinde görüşmediğim eski arkadaşlarımla iletişime geçmemi hatırlat,tr
+2400,music,music,bu hoş bir şarkı değil mi lütfen bunu benim için kaydet,tr
+12789,transport,transport,bana trafik durumunu söyleyebilir misin,tr
+1866,weather,weather,şu anda hava raporu ne,tr
+13186,general,general,annemle konuşmam gerek,tr
+12856,transport,transport,yol tarifi lütfen,tr
+6337,general,general,olly sana günümü anlatmak zorundayım,tr
+3507,weather,weather,tahminde kar var mı,tr
+17020,email,email,son alınan e-postayı yanıtla,tr
+4155,audio,audio,ses seviyesini yüzde otuz beşe getir,tr
+6533,general,general,mutlu musun,tr
+2824,datetime,datetime,on üç aralık hangi gün,tr
+13175,general,general,ünlüleri bilgileriyle ara,tr
+16529,email,email,annemin numarasını kontrol et,tr
+6134,music,music,bu şarkının hangi şarkı olduğunu bul ve bana adını söyle,tr
+10985,lists,lists,bu hafta yapılacakları sil,tr
+7266,calendar,calendar,bekleyen işlerim neler,tr
+158,iot,iot,ışıkları kıs,tr
+428,iot,iot,banyo ışıklarını kapat,tr
+4988,iot,iot,benim için bir kahve hazırla,tr
+7660,calendar,calendar,bugün öğleden sonra üçten itibaren olan tüm randevularımı iptal et ve beni detaylı bilgilendir,tr
+9952,cooking,cooking,bana pişirme dersleri ver,tr
+10339,play,play,lütfen seninle oynamayı isteyeceğim bir satranç oyunu aç,tr
+12817,transport,transport,alışveriş merkezine nasıl gidebilirim,tr
+7596,calendar,calendar,lütfen öğleyin pastahanede emre ile bir buluşma programla,tr
+11343,play,play,murat meriç'in bir sonraki bölümüne geç,tr
+14419,qa,qa,meryem bu sene yeni bir film çekecek mi,tr
+7894,calendar,calendar,bana bir saat içinde seçimle ilgili bilgi ver,tr
+3037,news,news,ön sayfa haberleri lütfen,tr
+5085,weather,weather,cumartesi günü için hava tahmini nasıl,tr
+16318,email,email,epostaya cevap ver,tr
+891,play,play,biraz dini müzik çal,tr
+2098,news,news,bugünlerde dünyada neler oluyor,tr
+4189,music,music,dinlediğimiz bu müzik türüne ne ad verirsin,tr
+12339,transport,transport,bu salı sabah dokuz için bana tek yön tren bileti ayırt,tr
+4119,news,news,kaliforniya daki barajın yıkılmasıyla ilgili her şeyi bilmek istiyorum,tr
+10440,lists,lists,listemdeki herhangi bir özel etkinlik,tr
+1072,iot,iot,lütfen ekran parlaklığını sonuna kadar aç,tr
+16890,email,email,yeni email ne diyor,tr
+6980,calendar,calendar,bana yapılacaklar listesini ver,tr
+10224,cooking,cooking,lezzetli olmalı,tr
+484,music,music,şarkı nın sanatçısı kim,tr
+2396,play,play,tarkan şarkılarını başlat,tr
+15700,social,social,son pazarda süresi dolmuş ürünler,tr
+2795,audio,audio,hoparlörleri sustur,tr
+16560,email,email,patronumun epostasına akşam dörtte geleceğim sözüyle cevap ver,tr
+14925,qa,qa,migros hissesinin fiyatı arttı mı azaldı mı,tr
+2975,iot,iot,lütfen ışık renklerini kırmızıya çevir,tr
+11154,lists,lists,son yapılacaklar listesini kontrol et,tr
+16749,email,email,bugün benim için hiç yeni e-posta var mı,tr
+6426,general,general,teknoloji,tr
+15333,social,social,insta'da yeni bir şeyler var mı,tr
+6506,general,general,genel bilgi soruları sor,tr
+13863,qa,qa,mantığın tanımı nedir,tr
+6926,calendar,calendar,cuma mı,tr
+14928,qa,qa,bana dirhem e karşı bir rupi nin takas döviz oranını bildir,tr
+11643,recommendation,recommendation,yakında gerçekleşecek etkinlikler hangileri,tr
+3175,audio,audio,hoparlörleri kapat,tr
+5396,iot,iot,lütfen soketi kapat,tr
+8284,calendar,calendar,takvimden doğum gününü kaldır,tr
+389,iot,iot,akıllı prizi aç,tr
+533,alarm,alarm,sabah dokuza alarm kur,tr
+12963,qa,qa,adlinin tanımı nedir,tr
+3460,audio,audio,sessiz zaman,tr
+13372,general,general,hokey maçları bu akşam kaçta,tr
+15289,social,social,mesajı şimdi paylaş,tr
+11345,play,play,podcastte sonraki bölümü aç,tr
+10276,play,play,battleship oynayalım,tr
+3280,iot,iot,ışıkları kıs lütfen,tr
+17081,email,email,yakın zamanda kaydettiğim belgelerle şirket çalışanım için bir e-posta oluştur,tr
+11250,lists,lists,market listemi tekrar bana oku,tr
+9853,play,play,alexa mahalle kahvesi son bölümünü başlat,tr
+3320,iot,iot,lütfen cezvemi benim için çalıştır,tr
+4638,audio,audio,ses ayarlarını negatif olarak değiştir alexa,tr
+13124,qa,qa,evren ne kadar büyüktür,tr
+5122,alarm,alarm,varsayılan alarmın ayarlanıp ayarlanmadığını kontrol et,tr
+13740,qa,qa,çin için döviz kuru nedir,tr
+4953,news,news,tren kazası haberleri,tr
+3631,play,play,hey google benim için biraz jazz müzik çal,tr
+1379,takeaway,takeaway,pizza hut adrese teslimat yapıyor mu,tr
+2298,iot,iot,şimdi ışıkları kapat,tr
+12618,transport,transport,adana'ya gidiş dönüş tren bileti ne kadar,tr
+10931,lists,lists,çalma listemde ne var,tr
+10954,lists,lists,kişilerde kaç tane listem var,tr
+1537,datetime,datetime,bana türkiyedeki şu anki saati göster,tr
+7524,calendar,calendar,bugün saat akşam beşyirmide yapılan toplantıda osman şirketime ne kadar yatırım yapmak ister,tr
+14368,general,general,yirmi yıl sonra dünya nüfusu ne kadar olacak,tr
+15187,social,social,arkadaş gönderisinde paylaş,tr
+6446,general,general,sadece kediler için kuaför var mı,tr
+11634,recommendation,recommendation,ben bugün hangi filmi seyredeyim,tr
+14239,qa,qa,amerikan doları sterlin karşısında ne kadar,tr
+4589,calendar,calendar,spor maçları için bir uyarı kur,tr
+5411,news,news,fox t. v.'deki en popüler haberler neler,tr
+13252,qa,qa,namık kemalin ilk romanının adı neydi,tr
+2564,alarm,alarm,lütfen haftaya cuma sabah altı buçuğa alarmı kur,tr
+16518,email,email,berna durdu için yeni bir eposta ekle,tr
+7686,calendar,calendar,murat ve engin'i festival takvimine ekle,tr
+964,iot,iot,daha loş ışıklar istiyorum,tr
+15382,social,social,samsung ile iletişime geçip çamaşır makinemin yandığını söyleyebilir misin,tr
+2350,iot,iot,evde açık renkler yerine koyu renkleri koy,tr
+10171,cooking,cooking,balık çorbasının tarifi nedir,tr
+16693,email,email,mersin narlıkuyuda yer alan lowes hardwarei email kişilerime ekle,tr
+13536,general,general,netflix izyleytakılmak ister misin,tr
+5047,iot,iot,alexa evdeki ışıkları kapat lütfen,tr
+8992,calendar,calendar,toplantıları göster,tr
+393,play,play,benim çalma listemden tekrar bir şarkı aç,tr
+12150,transport,transport,olly bana bu hafta sonu paris 'e eurostar 'dan bir bilet ayırt,tr
+13043,lists,lists,mahalle pastanesinden tatlı patates turtası istiyorum,tr
+16056,email,email,e-postayı yanıtla,tr
+15503,social,social,tüketici hizmetlerine yeni tweet,tr
+16956,email,email,yeni irtibat kişisine e-posta gönder,tr
+5593,play,play,ferdi tayfur 'dan sen ağlama çal,tr
+15213,news,news,şimdi trend ne,tr
+10213,cooking,cooking,meşhur pilav tarifleri listesi,tr
+10125,cooking,cooking,fırınlama ve kızartma arasındaki fark nedir,tr
+6039,weather,weather,yarın yağmurlu bir gün mü olacak,tr
+2775,iot,iot,ışıkları kullanmayı bırak,tr
+8206,calendar,calendar,kız kardeşime hediye almayı unutmama izin verme,tr
+168,takeaway,takeaway,paket servis yapıyorlar mı,tr
+7879,calendar,calendar,gelecek üç etkinliğim neler,tr
+16961,email,email,ile cevap ver,tr
+15311,social,social,bana facebookta neler olduğunu söyle,tr
+9305,play,play,radyo d çal,tr
+8289,calendar,calendar,bugün dörtteki fakülte buluşması içi hatırlatıcı kur,tr
+11770,recommendation,recommendation,bu hafta sonu muş'ta etkinlik var mı,tr
+14995,qa,qa,durum ne demek,tr
+1108,play,play,benim arzum biraz country müzik dinlemek,tr
+12329,transport,transport,sarı taksi çağır,tr
+10216,cooking,cooking,internette kek kalıbı ara,tr
+16891,email,email,burak meriçe gönder ve email,tr
+14475,qa,qa,hisse senedi fiyatı bilgisi,tr
+13984,qa,qa,eylemlerin sonuçları,tr
+2365,music,music,radyoda hangi şarkı çalıyor,tr
+2334,alarm,alarm,yarın sabah saat altı için bir alarm ekle,tr
+8029,calendar,calendar,bugün hangi etkinlikler yaklaşıyor,tr
+1252,datetime,datetime,bana mevcut saati söyle,tr
+6568,general,general,sen bilinçli olursan bana ne olur,tr
+15747,email,email,bu kişinin e-postasını ekle,tr
+16888,email,email,yeni posta var mı,tr
+11107,lists,lists,benim şu an geçerli listem neler,tr
+10868,lists,lists,olly listede başka herhangi bir şey kaldı mı,tr
+12437,transport,transport,tiyatroya gidiş zamanı nedir,tr
+14684,qa,qa,rusya başbakanı kim,tr
+14555,qa,qa,bu şirket hissesinin hisse fiyatları çıktığında veya indiğinde bana bildir,tr
+10031,cooking,cooking,benim alışveriş listemdeki malzemelerden bir tarif istiyorum,tr
+16038,email,email,can son zamanlarda bana hiç e-posta gönderdi mi,tr
+12366,transport,transport,londradan parise bağlantı treni var mı ve saat kaçta,tr
+5552,takeaway,takeaway,hangisi ten kısa sürede teslimat veriyor,tr
+10097,cooking,cooking,çizburger rica ederim,tr
+12957,qa,qa,incelikleyi tanımla,tr
+3098,iot,iot,ışıkları kapalı yap,tr
+8642,calendar,calendar,bugün için hatırlatıcılarıma öğleden sonra dörtteki konferans bağlantısını ekle,tr
+8269,calendar,calendar,salı günü toplantı için otuz dakikalık hatırlatma,tr
+9175,calendar,calendar,takvimim son on dakikada güncellendi mi,tr
+15994,email,email,john a bir e-posta gönder ve ona toplantı için ne zaman çalışacağını sor,tr
+4183,datetime,datetime,new york için mevcut zaman,tr
+6112,takeaway,takeaway,tavuk dünyası dan patates kızartması ve kanat söyle,tr
+9912,cooking,cooking,olly yumurtaları ne kadar süre haşlamam gerekiyor,tr
+6962,calendar,calendar,önümüzdeki cumartesi akşam altıda ne yapmam gerektiğini öğrenebilir miyim,tr
+397,play,play,kurban dan herhangi bir şarkı çal,tr
+12182,transport,transport,on dokuzuncu caddede trafik koşulları nasıl,tr
+14874,qa,qa,eti gıda için hisse senedi fiyatını kontrol et,tr
+12982,qa,qa,türbülans ne demek,tr
+2801,datetime,datetime,girne de saat kaç,tr
+16052,email,email,outlook'u kontrol et,tr
+10571,lists,lists,android,tr
+6294,general,general,olly arabamı daha yeni temizledim,tr
+1098,datetime,datetime,on beş mart haftanın hangi gününe denk gelir,tr
+16384,email,email,hey hiç yeni maillerim var mı,tr
+4376,weather,weather,bugün dışarıda hava nasıl,tr
+4560,music,music,bu şarkı hangisi,tr
+14504,qa,qa,olly ismet inönü kaç görüşmeye girdi,tr
+10119,cooking,cooking,altı kiloluk bir hindiyi ne kadar süre pişirirsin,tr
+8579,calendar,calendar,bugünkü toplantılarım için hangi bilgileri bilmeliyim,tr
+6909,calendar,calendar,öğleden sonra birden sonra ve üçten önce neler oluyor,tr
+263,iot,iot,hadi ışıkları mavi yapalım,tr
+5619,play,play,önceki şarkıyı çal,tr
+6243,general,general,bugün çok mutluyum konser için bilet aldım,tr
+17156,email,email,can'dan gelen yeni bir e-posta için e-postamı kontrol et,tr
+5871,weather,weather,bugün mersin'de hava nasıl,tr
+15200,social,social,bana facebooktaki en güncel gelişmeleri göster,tr
+6041,iot,iot,hey olly lütfen ışığı kapat,tr
+15185,social,social,doğum günü dilekleri,tr
+16010,email,email,gelen kutumda hiç yeni mesajlar olup olmadığını söyle,tr
+2770,play,play,olly caz türü müzik çal,tr
+944,datetime,datetime,türkiye ile japonya arasındaki saat farkı ne,tr
+8119,calendar,calendar,meleğin doğum günü partisi nerede yapılıyor,tr
+6221,general,general,bu soruyu nasıl cevaplayabileceğimi bilmiyorum bir kaç kelime eksik bırakmışsın,tr
+3276,takeaway,takeaway,guşgana kebapçısı adrese teslim yapıyor mu olly,tr
+3184,iot,iot,dur meyve suyunu başlat,tr
+5127,news,news,i̇şte birinin bütçesine göre yemekler hakkındaki gerçek,tr
+10636,lists,lists,müsait bir liste oluşturun,tr
+8535,calendar,calendar,bana iki saat içindeki diş randevumu hatırlatır mısın,tr
+7061,calendar,calendar,emine ile cuma toplantımdan yirmi dört saat önce bana bir hatırlatma ver,tr
+540,play,play,hadise den prenses şarkı sını aç,tr
+4253,datetime,datetime,doğu standart saat diliminde şu an saat kaç,tr
+9924,cooking,cooking,bana tarifini söyle,tr
+9352,play,play,radyo çal lütfen,tr
+16438,email,email,bu emailin şu an gönderilmesine ihtiyacım var,tr
+14481,general,general,güneşe gidebilir miyiz,tr
+14418,general,general,obama günlük hayatında neler yapıyor,tr
+15890,email,email,babamdan hiç yeni e-posta alıp almadığımı kontrol et,tr
+8431,calendar,calendar,tüm planlanmış etkinliklerimden kurtul,tr
+5229,music,music,müziği seviyorum,tr
+2733,iot,iot,bir demlik kahve başlat lütfen,tr
+2384,news,news,dünyada neler oluyor,tr
+9706,play,play,sen ağlama 'yı çal,tr
+5997,datetime,datetime,ulusal zaman diliminde saat kaç,tr
+6083,alarm,alarm,bugün sabah on için bir alarm oluştur,tr
+7287,calendar,calendar,bana yıldönümümü bir gün önceden hatırlat,tr
+16627,email,email,en güncel e-postaları kontrol et,tr
+15094,qa,qa,mersin içelde yaşayan insan sayısına bak,tr
+1962,play,play,merhaba google benim gaana uygulamamda wacky playlist'i çal,tr
+1581,datetime,datetime,geçerli gün ay ve yıl nedir,tr
+5278,play,play,lütfen sadece karışık pop müzik çal,tr
+2527,play,play,klasik rock çal,tr
+12800,transport,transport,halk kütüphanesi nerede,tr
+17015,email,email,yanıtı başla,tr
+16271,email,email,gelen kutumu yenile ve beni yeni epostalar hakkında bilgilendir,tr
+5574,iot,iot,oturma odasındaki ışıkları aydınlat,tr
+9640,play,play,spotify ve egzersiz aç,tr
+1812,iot,iot,lütfen bana tatlandırıcısız kahve yap,tr
+9956,cooking,cooking,tereyağı ne ile değiştirilebilir,tr
+2432,takeaway,takeaway,siparişim ne alemde,tr
+9795,play,play,kanunlar gibi yi kaldığı yerden devam ettir,tr
+2330,datetime,datetime,şu an için ağrı yerel saatini görüntüle,tr
+16320,email,email,uğur özkanın epostasını yanıtlamak istiyorum,tr
+12051,recommendation,recommendation,bir hediye bulmalıyım birkaç kilometre çapında hangi mağazalar var,tr
+625,play,play,lütfen radyoda hande yener çal,tr
+4249,iot,iot,ev evdeki bütün ışıkları mavi yap,tr
+3503,weather,weather,eskişehir'de hava nasıl,tr
+11844,recommendation,recommendation,körfez bölgesinde ilginç bir şeyler oluyor mu,tr
+2094,music,music,şu anda çalan müzik ne,tr
+10565,lists,lists,tüm listeleri sil,tr
+10621,lists,lists,menü kartına kuru fasulye ekle,tr
+11335,play,play,tüm slow müzik şarkılarını çal ve karıştır,tr
+4077,iot,iot,mutfak ışıklarını kapat,tr
+12248,transport,transport,olly en yakın bir uber bul,tr
+7216,general,general,iyi bir ilk izlenim,tr
+14440,qa,qa,meksikanın başkenti neresidir,tr
+12310,transport,transport,bana istanbul kars arası uygun tren biletlerinin listesini ver,tr
+12629,transport,transport,şikagodan ilk tren ne zaman kalkıyor,tr
+5158,play,play,karma albümünden en son şarkıyı çal,tr
+2578,iot,iot,veranda ışığını kapat,tr
+14116,qa,qa,kaya kumunu tarif et,tr
+3204,music,music,lütfen not et jazz seviyorum ve diskodan nefret ediyorum,tr
+11867,recommendation,recommendation,mersin 'de yarın bir spor etkinliği var mı,tr
+12623,transport,transport,üsküdar ist için tren saatleri var mı,tr
+9062,calendar,calendar,ahmet'in doğum gününü yirmi iki hazirana koyar mısın,tr
+10938,lists,lists,lütfen market listeme şeker ekleyin,tr
+4614,weather,weather,yarın sıcaklık kırktan yüksek mi olacak,tr
+12972,qa,qa,dünyanın en yüksek zirvesi hangisidir,tr
+3513,play,play,sadece benim listemi çal,tr
+14126,qa,qa,hadisenin biyografisini göster,tr
+10858,lists,lists,yeni liste,tr
+10772,calendar,calendar,bugünün planlarından dişçi randevusunu kaldır,tr
+13172,qa,qa,iki ile ikinin çarpımını hesapla,tr
+6433,general,general,lütfen bil ki bugün cemil ile bir toplantım randevum,tr
+11904,recommendation,recommendation,bu haftasonu burada neler oluyor,tr
+9153,calendar,calendar,lütfen cumartesi günü canan ile akşam yemeği takvimime ekle,tr
+9732,play,play,davinci şifresi sesli kitabını aç,tr
+2408,play,play,bana gruptan daha fazla şarkılar ara,tr
+11706,recommendation,recommendation,bu civarda hangi mağazalar var,tr
+11563,recommendation,recommendation,edirnede ne yapabilirim,tr
+11600,recommendation,recommendation,mersinde sinemada bu gece hangi filmi izleyebilirim,tr
+2258,weather,weather,bugün kazak giymem gerekir mi,tr
+13439,qa,qa,halide edip adıvar kaç yaşında,tr
+14622,qa,qa,kürenin ne olduğunu açıkla,tr
+7316,calendar,calendar,hiç randevum var mı,tr
+12251,transport,transport,bana söke için yerel tren zamanını söyle,tr
+6177,weather,weather,bugün şemsiyeye ihtiyacım olacak mı,tr
+15825,email,email,babama cevap ver geç kalacağımı yaz,tr
+779,play,play,teoman 'dan paramparça 'yı dinlemek istiyorum,tr
+11751,recommendation,recommendation,on mil içinde dükkanlar neler,tr
+4073,datetime,datetime,ayın beşi hangi gün,tr
+9301,play,play,trt fm aç,tr
+11505,play,play,benim en son çaldığım podcastimi yeniden oynat,tr
+10427,lists,lists,lütfen alışveriş listemi temizle,tr
+3671,takeaway,takeaway,bu restoran da paket servis alabilir miyim,tr
+2890,weather,weather,şu anki hava durumu,tr
+2075,iot,iot,daha fazla ışık istiyorum,tr
+16765,email,email,dünkü e-postanın görüşme saati ne kadar,tr
+7467,calendar,calendar,etkinliklerin saatlerini ver,tr
+13706,qa,qa,bir rotoru tarif et,tr
+16666,email,email,hiç gelen e-postam var mı,tr
+6045,play,play,seçilmiş bir şarkı ekle,tr
+5410,news,news,bana en sonki hürriyet manşetlerini oku,tr
+9827,play,play,ezhel in sesli kitap ından bir şarkıyı kaldığı yerden devam ettir,tr
+7170,calendar,calendar,bugün annemin doğum günü bana her yıl bu tarihte bir bildirim gönder,tr
+12930,transport,transport,yakınımdaki mağazalar için haritaya bak,tr
+6503,general,general,beni köpek kovaladı,tr
+7528,calendar,calendar,haziranın on üçü seçim sonuçları günü lütfen bunu ayarla,tr
+8618,calendar,calendar,bana her salı perşembe ve cumartesi günleri bitkilerimi sulamamı hatırlat,tr
+2255,takeaway,takeaway,licari's den paket sipariş edebilir miyim,tr
+6322,general,general,lütfen bana maçın skorunu söyle,tr
+6353,general,general,benzin almam lazım,tr
+7876,news,news,son iki aydır neler oluyor,tr
+15593,social,social,arçeliğe şikayet tweeti at,tr
+1489,play,play,göksel den en yeni şarkılar çal,tr
+15792,calendar,calendar,bugün kiminle buluşacağım,tr
+3894,play,play,onu yeniden oku,tr
+14857,qa,qa,bana fahiş kelimesinin anlamını açıklar mısın lütfen,tr
+8345,calendar,calendar,toplantının ne zaman gerçekleşeceğini bana haber ver,tr
+16754,email,email,email dikte et,tr
+15565,social,social,deltaya onları bir daha asla kullanmayacağımı söyler misin,tr
+5501,iot,iot,lütfen bütün ışıkları aç,tr
+3546,play,play,caz müzik dinlemek isterim,tr
+6489,general,general,web aramaları,tr
+12536,transport,transport,bana ankara'ya bir tren bileti ayırtın lütfen,tr
+5043,alarm,alarm,alarmımı öğlen on ikiye kur,tr
+5970,play,play,benim için bohemian raphsody çalmanı istiyorum,tr
+2113,recommendation,recommendation,benim semtteki bütün etkinlikleri söyle bana,tr
+13310,qa,qa,iki artı iki nedir,tr
+7140,calendar,calendar,öğle yemeği buluşmasından bir saat önce beni bilgilendirmek için bir hatırlatıcı ayarla,tr
+11266,play,play,benim kütüphanemden bir podcast çal,tr
+379,music,music,müziğin kayıt edilmesinin istiyorum benim için onu yapar mısın,tr
+14223,qa,qa,üç kere dördün cevabı,tr
+7956,calendar,calendar,bu etkinliği tekrarlayan olarak çevirir misin,tr
+10568,lists,lists,eski müzik listesini kaldır,tr
+4917,weather,weather,dışarıdaki sıcaklık,tr
+7690,calendar,calendar,neyim var,tr
+4968,qa,qa,bu yıl başkanlık seçimini kim kazandı,tr
+4580,datetime,datetime,ankara da saat kaç,tr
+9569,play,play,ok google yüz altı nokta yedi 'yi aç,tr
+16398,email,email,lütfen epostayı cihana gönder,tr
+3212,calendar,calendar,o zaman bana bir şey yapmamı hatırlat,tr
+6789,calendar,calendar,joanna ile cumartesi günü öğleden sonra dörde görüşme ayarla,tr
+1256,general,general,bildiğin en komik fıkra ne,tr
+6798,calendar,calendar,sonraki etkinliğimi kaldır,tr
+1784,iot,iot,yemek salonunu kapat,tr
+4491,news,news,tayyip erdoğan ile ilgili son haberler neler,tr
+1127,play,play,karışık üzerinden şarkılar çal,tr
+5820,play,play,model pembe mezarlık,tr
+12162,transport,transport,bir tren bileti ayırtır mısın,tr
+8672,calendar,calendar,öpücük konseri nerede,tr
+3326,iot,iot,fişi kapat,tr
+9107,calendar,calendar,üç hazirandaki tarkan konseri kaçta başlıyor,tr
+590,weather,weather,anlık hava durumu nedir,tr
+3021,takeaway,takeaway,paket servis müsait louies,tr
+3474,audio,audio,lütfen müzik sesini kıs,tr
+6901,calendar,calendar,bana yarın sabah onda toplantıyı hatırlat,tr
+15225,social,social,bana en son bildirimleri göster,tr
+6897,calendar,calendar,bana ayın yedisinde akşam saat beşte leyla 'yı almamı hatırlat,tr
+11453,play,play,n. f. l. üzerinden podcastleri başlat,tr
+8308,news,news,dün öğle saatlerinde taksim meydanında ki protesto ne hakkındaydı,tr
+451,news,news,bim stok fiyatı ile ilgili en son haberleri getir,tr
+4848,alarm,alarm,beni yarım saat içinde uyandır,tr
+11215,lists,lists,liste,tr
+14706,qa,qa,hülya avşar nerede yaşıyor,tr
+13177,calendar,calendar,kilo almamak için hareket etmemi hatırlat,tr
+5579,audio,audio,ses seviyesini değiştirir misin,tr
+6865,calendar,calendar,yarınki toplantı için saat onda bir bildirim ayarla,tr
+9457,play,play,let it go şarkısını çal,tr
+1511,iot,iot,bana mevcut ışık renklerini göster,tr
+6074,iot,iot,akşam dokuz buçukta yatak odası ışıklarını kapat,tr
+14620,qa,qa,yabancı çeviri kurları,tr
+16024,email,email,cahite yarın meşgulüm diye bir eposta gönder,tr
+9964,cooking,cooking,yemek süreci hakkında bilgi,tr
+6172,weather,weather,güneş gözlükleri bugün için iyi bir seçim mi,tr
+13506,datetime,datetime,bana saati söyler misin,tr
+4088,iot,iot,tepe ışığını kapat,tr
+17069,email,email,outlookta hiç yeni e-postalar var mı,tr
+7152,calendar,calendar,her gün öğle yemeğini on iki buçuğa ayarla,tr
+16158,email,email,bu epostayı hatırla,tr
+14549,lists,lists,hande yener konser programı hakkında bir liste yapın,tr
+9881,play,play,sesli kitap aç,tr
+969,news,news,belirli bir konuda haber makaleler i,tr
+6918,calendar,calendar,etkinlikleri takvimden sil,tr
+6815,calendar,calendar,bana annemin doğum gününü bir hafta önce hatırlat,tr
+12716,transport,transport,bana macide için bir taksi ara,tr
+14063,qa,qa,zeki mürenin doğum günü ne zamandı,tr
+4951,datetime,datetime,şu an saatin kaç olduğunu bilmek istiyorum,tr
+4309,datetime,datetime,istanbul türkiye de gece yarısı kaçta oluyor,tr
+9629,play,play,radyo dinlemem için bana yardımcı olabilir misin lütfen,tr
+9772,play,play,sesli kitabı okumaya devam et lütfen,tr
+7502,calendar,calendar,öğleden sonra dörtte ali ile yapacağım toplantıya dair ajandada ne var,tr
+665,iot,iot,ışıkları kısar mısın,tr
+8916,calendar,calendar,gün için programım nedir,tr
+5176,weather,weather,bu hafta nasıl bir hava beklemeliyim,tr
+17170,email,email,yusuf bana eposta gönderdiğinde bana haber ver,tr
+16955,email,email,yeni kişiye e-posta at,tr
+10132,cooking,cooking,biftek orta kıvamda olsun diye ne kadar süre pişirmeliyim,tr
+4882,datetime,datetime,bir şehir de saat kaç,tr
+8449,calendar,calendar,kızlarımın doğum günü için bir hatırlatma ayarla,tr
+3741,music,music,şu anda hangi şarkı çalıyor,tr
+10956,lists,lists,kişilerimde hangi gruplar listeleniyor,tr
+16694,email,email,gratis'e giden e-postayı bul ve onu kişi listeme koy,tr
+862,alarm,alarm,alarm ayarları,tr
+8670,calendar,calendar,takvimden etkinlikleri kaldır,tr
+9726,play,play,sesli kitabı durdur,tr
+16630,email,email,son epostaya yanıt gönder,tr
+14767,qa,qa,bir topu nasıl tanımlarsın,tr
+13869,qa,qa,lütfen ağrı dağı ile ilgili bilgi ve lokasyon google la,tr
+10493,lists,lists,yapılacaklar listemde ne var,tr
+13966,qa,qa,yenin değeri ne kadar,tr
+2774,iot,iot,ışıkları kapat,tr
+10501,lists,lists,market listeme brokoli ekle,tr
+13777,qa,qa,bir kredi kartını tarif edebilir misin,tr
+16406,email,email,alexa eposta başlat,tr
+15348,social,social,kim şu anda facebook canlı yayın yapıyor,tr
+16797,email,email,taksi beyin telefon numarası ne kişilerimde kayıtlı,tr
+781,play,play,destina 'yı çal,tr
+2168,alarm,alarm,alarmımı kapa,tr
+14545,qa,qa,bana türkiyenin yerini söyle,tr
+9768,play,play,sesli kitap okumaya devam et,tr
+1703,iot,iot,elektrikli süpürgem her gün sabah on ile on bir arasında başlamalı,tr
+3161,alarm,alarm,yarın sabah altıya ayarlanmış herhangi bir alarmım var mı,tr
+8732,calendar,calendar,tüm tarihleri ​​sil,tr
+1065,audio,audio,ses ayarı nerede,tr
+12166,transport,transport,istanbul'dan ankara'ya tren biletimi ayırt,tr
+491,weather,weather,dışarısı soğuk mu,tr
+16758,email,email,son sefer den beri herhangi bir yeni eposta,tr
+5683,play,play,benim parti şarkıları çalma listemi çal,tr
+7189,calendar,calendar,planladığım herhangi bir şey var mı,tr
+3864,music,music,şu an dinlediğim şarkıyı kim söylüyor,tr
+8568,calendar,calendar,ebru ve ahmet'e salı sabah on birdeki brunch için bir takvim daveti gönderir misin,tr
+11764,recommendation,recommendation,cisco sistemi,tr
+761,music,music,bu şarkı hakkında bilgi almak istiyorum,tr
+2264,iot,iot,çalışma odası için açık renk,tr
+10256,play,play,super mario indir,tr
+15987,email,email,bu emaili iletişimle birlikte ekle,tr
+80,iot,iot,ışıkların parlaklığını daha yüksek ayarla,tr
+14429,qa,qa,kaftan nedir,tr
+3554,play,play,aşk çalma listesi ni açar mısın,tr
+3742,music,music,çalan şarkının adını biliyor musun,tr
+10981,lists,lists,listeyi bana bildir,tr
+11839,recommendation,recommendation,çevremde neler oluyor,tr
+11607,recommendation,recommendation,bu civardaki tiyatroların listesini ver,tr
+15133,qa,qa,teknosa nasıl gidiyor,tr
+1630,audio,audio,mevcut müziğin sesini yükselt,tr
+10381,play,play,bizim için competitive crossword başlat,tr
+11339,play,play,benim en çok izlenen podcast ımı oynat,tr
+5321,weather,weather,hava durumunu göster,tr
+2870,alarm,alarm,olly bana alarmlarımı söyle,tr
+9680,play,play,geçen sefer dinlemeyi bıraktığım yerden harry potterı devam ettir,tr
+1745,music,music,şarkıyı beğendin,tr
+5157,iot,iot,olly oturma odasındaki ışıkları kapat,tr
+6477,general,general,beyzbol skorları,tr
+4026,iot,iot,kapat,tr
+9619,play,play,araba radyosunda radyo dumanı çal,tr
+9330,play,play,çal,tr
+13774,qa,qa,muğla nın aydın a uzaklığı ne kadar,tr
+7039,calendar,calendar,bana gelecek salı sabah on birde semra ile bir toplantı ayarla,tr
+5245,news,news,çevre haberleri bildirimi ayarla,tr
+15933,email,email,yeni maillerimde ne var,tr
+13900,qa,qa,yaşamın tanımı,tr
+951,weather,weather,şu anda new york'ta hava nasıl,tr
+6495,general,general,lütfen tavsiyede bulun,tr
+14038,qa,qa,moldovanın yeri nerede,tr
+281,news,news,amerikan doları ingiliz sterlini oranları nedir,tr
+15686,social,social,merhaba birinden aldığım ürün bozuldu,tr
+5038,weather,weather,bu hafta hava nasıl olacak,tr
+4452,play,play,şarkılar çal,tr
+4086,music,music,güzel şarkı sözleri,tr
+7712,calendar,calendar,hey olly iki mart için benim tüm randevularımı ve aramaları iptal et çünkü o gün jim'in doğum günü bu etkinliği takvime kaydet,tr
+15655,social,social,google müşteri hizmetlerine tweet at yeni nexus telefonum çalışmayı durdurdu yardım lütfen,tr
+3993,iot,iot,ışıkları kapatabilir misin,tr
+11861,recommendation,recommendation,yeni çıkmış filmlerden hangisi en yüksek puana sahip,tr
+12160,transport,transport,bana yarın uber tutabilir misin,tr
+3837,audio,audio,müziği sessize al,tr
+525,takeaway,takeaway,siparişi acilen hazırlayın,tr
+7774,calendar,calendar,takvimime yarın için alışveriş ekle,tr
+8404,calendar,calendar,bu etkinlik hakkında daha fazla bilgi edinmek istiyorum,tr
+10563,lists,lists,benim için bir liste yapabilir misin,tr
+8653,calendar,calendar,bana takvimimdeki etkinliği hatırlat,tr
+13083,general,general,arabayı sür ve arkadaşlarımı getir,tr
+10247,play,play,benimle bir oyun oyna,tr
+9059,calendar,calendar,etkinlik sırasında beni uyar,tr
+3447,weather,weather,hava durumu cumartesi için yağmur ihtimali veriyor mu,tr
+4171,iot,iot,mutfaktaki ışıkları kapat,tr
+13102,qa,qa,bir artı bir kaç eder,tr
+2338,takeaway,takeaway,bir paket erişte siparişi ver ve onu al götür siparişi yap,tr
+10790,lists,lists,öğeyi listeden sil,tr
+13521,general,general,dünya niye yuvarlak,tr
+10365,play,play,ikinci oyuncu olarak bir contra oyunu aç,tr
+8035,calendar,calendar,arabanın yağını değiştirmemi hatırlat,tr
+7808,calendar,calendar,bana perşembe sabah on birde annemi kuaföre götürmem gerektiğini hatırlat,tr
+6928,calendar,calendar,tüm etkinlikler iptal,tr
+11916,recommendation,recommendation,yakındaki tema parkları nelerdir,tr
+13140,qa,qa,bana kasırga hakkında her şeyi anlat,tr
+9011,calendar,calendar,şükran günü etkinliği bu ayın on dördünde mi,tr
+15532,social,social,olly şahin kuruyemişe tweetle ve onlara müşteri hizmetlerinin korkunç olduğunu söyle,tr
+8116,calendar,calendar,bir şubat ve on altı mart aralığındaki süreçte hangi toplantılar yer aldı,tr
+12066,recommendation,recommendation,hangi dükkanlar bana yakın,tr
+15511,social,social,bana en son sosyal medya etkinliğimi göster,tr
+15138,social,social,sosyal ağlarımı kontrol et,tr
+16356,email,email,silah kontrolü konusunda tarıka eposta gönderdim mi,tr
+4212,weather,weather,bu akşam çim biçmem mümkün olacak mı,tr
+9940,cooking,cooking,bana çikolatalı pasta tarifi bul,tr
+4266,weather,weather,bugün için hava durumu nedir,tr
+12607,transport,transport,adana'dan istanbul'a aktarmalı tren biletine ihtiyacım var,tr
+11376,play,play,podcast dinlemek istiyorum,tr
+6162,alarm,alarm,alarmı kaldır,tr
+2840,datetime,datetime,gelecek ayın ikisi hangi gün,tr
+9194,calendar,calendar,lütfen bu etkinliği takvimimden kaldır,tr
+1554,iot,iot,lambaları söndür,tr
+10579,lists,lists,konum listemi sıfırla,tr
+6744,calendar,calendar,yarın sabah on için mehmet ile bir toplantı koy,tr
+11845,recommendation,recommendation,olly karataşta olan heyecanlı etkinlikleri bana bildir,tr
+6517,general,general,tarih,tr
+3822,news,news,bana arabalar hakkında bilgi bul,tr
+7751,calendar,calendar,her pazartesi çöpleri çıkarmayı hatırlat,tr
+8280,calendar,calendar,on beş marta hatırlatıcı ayarlamam gerekiyor,tr
+10753,lists,lists,migros listesine ne koydum,tr
+15880,email,email,lütfen maillerimi kontrol et,tr
+14308,qa,qa,leonardo dicaprionun mal varlığı nedir,tr
+8261,calendar,calendar,bir sonraki randevumdan bir saat önce bana bir uyarı gönder,tr
+8914,calendar,calendar,dört nisandaki randevum saat kaçta,tr
+16711,email,email,kişilerim çoğunlukla kadın mı erkek mi,tr
+2566,iot,iot,wemo prizini kapat,tr
+9316,play,play,benim için kiss f. m. çal,tr
+4240,iot,iot,roombayı aç,tr
+3576,news,news,fox haberler de son olaylar ne,tr
+9363,play,play,radyoda hitleri çalalım,tr
+4145,alarm,alarm,bugün hangi alarmları kurdum,tr
+15095,qa,qa,alanya hangi bölgededir,tr
+2573,play,play,benim spotify dans listemi çal,tr
+3128,general,general,olly bu ay kaç hortum olacak,tr
+6937,calendar,calendar,öğlen için patronla öğle yemeği anımsatıcısı kur,tr
+8520,calendar,calendar,takvim uygulamasına etkinlik ekle,tr
+11267,play,play,en son arabesk şampiyonlar ligi ile ilgili ilginç bir podcast bul,tr
+11554,play,play,podcast çalmanı istiyorum,tr
+9746,play,play,senden önce ben'i aç,tr
+9323,play,play,pandora başlat,tr
+6403,transport,transport,bir yere nasıl gidilir,tr
+13288,qa,qa,müebbet kelimesinin anlamı nedir,tr
+8904,calendar,calendar,yeni tarihli etkinlikler hakkında bilgi ver,tr
+13799,qa,qa,boyun eğdirenin tanımı nedir,tr
+8598,calendar,calendar,bana mahmutu saat akşam altıda havaalanından almamı hatırlat,tr
+5623,alarm,alarm,alarm sabah on,tr
+11858,recommendation,recommendation,iyi yorum almış filmler,tr
+9402,play,play,number one turk radyo istasyonunu aç,tr
+804,audio,audio,hey siri hoparlörlerin sesini kıs,tr
+15181,social,social,yeni arkadaşlık isteğim var mı,tr
+861,alarm,alarm,kurduğum alarmlar,tr
+2773,takeaway,takeaway,benim sipariş ne kadar sürede hazır olur,tr
+9875,play,play,bana daha çok latife tekin kitabı oku,tr
+6166,audio,audio,lütfen beş dakika sessize al,tr
+15723,social,social,facebookta mutlu olma durumunu ayarla,tr
+13318,recommendation,recommendation,yakınımdaki hangi süpermarketin glutensiz ekmekte en iyi fiyata sahip olduğunu bilmek istiyorum,tr
+9155,calendar,calendar,cuma gününe saat üçte dişçi randevusu ekle lütfen,tr
+7970,calendar,calendar,bana zamanında bir hediye almam için düğünü hatırlat,tr
+8347,calendar,calendar,dört aralıkta programımda ne var,tr
+16652,email,email,betül'ün e-postasında ek var mıydı,tr
+2708,play,play,olly canım dans etmek istiyor bana biraz rock çal,tr
+4439,weather,weather,san francisco'da hava nasıl,tr
+4166,audio,audio,ses seviyesini maksimuma değiştir,tr
+9124,calendar,calendar,gelecek hafta için çalışma takvimimdeki etkinlikleri göster,tr
+8245,calendar,calendar,pazarları saat on birde kilise hizmetlerinden haberdar olmam gerekiyor,tr
+15906,email,email,john'a teşekkür cevabı yolla,tr
+13986,general,general,en iyi model araba,tr
+12846,transport,transport,lütfen yarın sabah kayseri 'den kars 'a bir tren bileti ayırt,tr
+10263,play,play,satranç aplikasyonunu aç ve oynamaya başla,tr
+8388,calendar,calendar,akşam sekizde çamaşır yıkamak istiyorum hatırlatma oluştur,tr
+16032,email,email,lütfen yarınki toplantıyla ilgili olarak selin'e bir e-posta gönderin,tr
+14544,qa,qa,lütfen microsoftun nasdaqdaki hisse fiyatını bul,tr
+3434,play,play,en iyi rap müzik,tr
+8461,calendar,calendar,mayıs ayı için planlarım neler,tr
+14648,cooking,cooking,tarif lütfen,tr
+7767,calendar,calendar,kuğulu parkta dört şubata öğleden sonra ikiye takvime bir alıştırma ekle,tr
+9620,play,play,yatak odasındaki radyoda balkonumdan yıldızlar 'ı dinleyebilir miyim,tr
+13460,qa,qa,on sekiz üssü otuz birin kaç olduğunu söyle,tr
+1071,iot,iot,koridor daki ışıkları daha da aydınlat,tr
+8140,calendar,calendar,bekir ile öğle yemeği yiyeceğim için on üçüne bir hatırlatıcı ayarla,tr
+12019,recommendation,recommendation,yakınlarda glutensiz fırın bul,tr
+5727,iot,iot,koridor ışık parlaklığını artır,tr
+16519,email,email,kişilerime yeni bir eposta eklemem gerekiyor,tr
+16459,email,email,newmail at gmail nokta com adresine yeni mesaj gönder,tr
+11318,play,play,podcast te sıradaki bölümü çal,tr
+14653,qa,qa,rusyanın nüfusu nedir,tr
+14354,qa,qa,kainat a cevap ne,tr
+10678,lists,lists,masraflar listeme beş lira harcadığımı ekle,tr
+6025,weather,weather,bu öğleden sonra güneş kremine ihtiyacım olacak mı,tr
+5837,weather,weather,bana bu haftaki hava durumunu söyle,tr
+3337,weather,weather,otuz üç bin yedi yüz yetmiş için hava raporu,tr
+6439,general,general,yenilerde hiç güzel bir müzik dinledin mi,tr
+10442,lists,lists,etkinlikleri listemden kaldır,tr
+10893,lists,lists,bir market listesi yap lütfen,tr
+5577,weather,weather,akşam çok fırtınalı olursa her yerimi kapatan bir ceket lazım olacak,tr
+5261,music,music,bu şarkı ece mumayın mı,tr
+6746,calendar,calendar,takvimimde haziranın ilk haftasını tatil olarak ayarla,tr
+16668,email,email,bugün saat dört ten beri gelen email var mı hiç,tr
+15092,qa,qa,samsung t. v. ile ilgili tanım bul,tr
+13363,general,general,kıyamet ne zaman kopacak,tr
+1121,play,play,tarkandan ölürüm sana çal,tr
+14117,qa,qa,piramitler nerede bulunur,tr
+1760,news,news,terörizm hakkında son haberler,tr
+13181,recommendation,recommendation,bulunduğum yerde yeni çıkan bir film için tüm sinema fiyatlarını ve müsaitlik durumunu kontrol et,tr
+10600,lists,lists,lütfen market listemi bir galon yüzde iki sütle güncelle,tr
+14787,qa,qa,roma ve gregoryen takvimi arasındaki farklar nelerdir,tr
+10755,lists,lists,yapılacaklar listemi at lütfen,tr
+5414,play,play,müzik açacak mısın,tr
+10019,cooking,cooking,bana on iki adet yulaf ezmeli kurabiyeyi nasıl pişireceğimi söyler misin,tr
+15457,social,social,burgerimle ilgili bir sorunum var burger kinge tweet atabilirmisin,tr
+10214,cooking,cooking,bir saatte pişebilecek yemek tarifleri,tr
+7477,calendar,calendar,bana her yılın beş martında evlilik yıldönümü hediyeleri hazırlamamı hatırlat,tr
+14228,qa,qa,bir abd doları kanada da ne kadar,tr
+9594,play,play,doksan dokuz nokta dört f. m. şarkılar,tr
+1374,audio,audio,sesini yükseltir misin,tr
+7654,calendar,calendar,yirmi nisanı erkek kardeşimin doğum günü olarak işaretle,tr
+6650,general,general,alexa beni ne kadar tanıyorsun,tr
+967,takeaway,takeaway,uludağ kebap tan gel al ımı alabilir miyim,tr
+6371,general,general,veganizm,tr
+14981,qa,qa,iphone yedi açıklama,tr
+13099,qa,qa,britanyanın şu anki başbakanı kim,tr
+9844,play,play,dinlemekte olduğum sesli kitabın son bölümüne devam et,tr
+9966,cooking,cooking,makarna pişirmenin en kolay yolu nedir,tr
+8442,calendar,calendar,lütfen takvimimi bu etkinlikle birlikte değiştir,tr
+7014,calendar,calendar,bana bugünkü etkinliklerin programını ver,tr
+13974,qa,qa,laos nerededir,tr
+2016,iot,iot,mutfaktaki ışıkları kıs,tr
+14567,qa,qa,dünyadaki en büyük aktif yanardağ hangisidir,tr
+12468,transport,transport,aydın a bir tren bileti bul,tr
+3809,audio,audio,hoparlör sesini yavaşlat,tr
+8774,calendar,calendar,yedi temmuz için benim program tamamen açık mı,tr
+4921,alarm,alarm,ilk alarmımı kapat,tr
+16430,email,email,lütfen anne ve babaya nasıl olduklarını soran bir e-posta gönder,tr
+10915,lists,lists,yeni liste başlat,tr
+16228,email,email,bu ay tanıdığım birinin doğum günü var mı,tr
+4672,music,music,bu gelmiş geçmiş en iyi grup,tr
+1547,weather,weather,bu hafta lokasyonumda hava nasıl olacak,tr
+4058,play,play,biraz rap müzik dinlemek istiyorum,tr
+9562,play,play,bu programı benim için çalabilir misin,tr
+14601,qa,qa,abraham lincoln kaç yıl boyunca amerika birleşik devletleri başkanıydı,tr
+11029,lists,lists,listeye ekle,tr
+12008,recommendation,recommendation,izmir'de bugün eğlenceli bir etkinlik var mı,tr
+8631,calendar,calendar,bunu takvimimden sil,tr
+10099,cooking,cooking,risotto nasıl yapılır biliyor musun,tr
+15693,social,social,çikolata paketinde böcek olduğuna dair tweet at,tr
+11426,lists,lists,en çok görüntülenen liste,tr
+14347,qa,qa,hipotez nedir,tr
+2208,general,general,woooo,tr
+14268,qa,qa,dokuz artı ikiyi yapabilir misin,tr
+6500,social,social,sosyal medya,tr
+3539,play,play,lütfen tarkan 'dan ölürüm sana çal,tr
+7843,calendar,calendar,bana iki saat önceden adana müzik merkezindeki keman dersi için öğleden sonra dörtte çıkmam gerektiğini bildir,tr
+16183,email,email,işimle ilgili epostayı kontrol et,tr
+13494,qa,qa,motivasyonun tanımını ver,tr
+177,news,news,bana biraz iş dünyası haberlerini söyle,tr
+4659,audio,audio,konuşma,tr
+8414,calendar,calendar,bana cuma beşte dave ile akşam yemeğine çıkacağımı hatırlat,tr
+6621,general,general,sinemada en son çıkan filmler,tr
+8290,calendar,calendar,salı günü gelecek haftanın yöneticiler toplantısı hakkında bir hatırlatıcı aç,tr
+11361,play,play,ebru gündeş podcasti onu çal,tr
+12866,transport,transport,doğu ekspresinin zamanlaması nedir,tr
+10608,lists,lists,öğeyi ara,tr
+6457,general,general,zeki misin,tr
+5688,news,news,lütfen bana haber başlıklarını söyle,tr
+1862,alarm,alarm,alarmım ne zaman çalar,tr
+1007,play,play,benim rock çalma listemden sezen aksu çal,tr
+16883,email,email,jerry'ye bu gece kaçta evde olacağını soran bir e-posta gönder,tr
+14142,qa,qa,ingiliz sterlini ne kadar,tr
+12308,transport,transport,bana bir tren bileti ayırt,tr
+15274,social,social,lütfen sosyal medyamı tara ve bana neler olduğunu söyle,tr
+10426,lists,lists,günlükte başka ne eksik,tr
+10696,lists,lists,değiştir,tr
+8084,calendar,calendar,etkinlik programı nedir,tr
+6388,general,general,günüm harika geçti,tr
+3669,datetime,datetime,bana bir yerdeki saati söyle,tr
+1593,news,news,dünya haberlerinden bildirim ayarla,tr
+3418,iot,iot,kahve makinemi bana sabah yedide kahve yapacak şekilde ayarlar mısın,tr
+189,audio,audio,sesi kapat,tr
+8730,calendar,calendar,lütfen takvimime yirmi beş marttaki toplantım için bir hatırlatıcı ayarla,tr
+17123,email,email,bölgesel başkan yardımcısı için email oluştur,tr
+751,audio,audio,ben istemeden konuşma,tr
+9902,play,play,bana aşk içeren rasgele bir sesli kitap çal,tr
+3835,takeaway,takeaway,çin yemeği paket servis siparişi yapmak istiyorum,tr
+13298,qa,qa,ünlüler ne yapar,tr
+8251,calendar,calendar,önümüzdeki haftanın öğle yemeğinin takvime konulması lazım,tr
+9303,play,play,eskiler istasyonu nu oynat,tr
+8005,calendar,calendar,ayın yirmisi pazartesi günü serdar ile hafta sonu gezimiz hakkında konuşmam gerekiyor,tr
+1440,play,play,dört veya üzeri puanlı güncel rock şarkılarını çal,tr
+15276,social,social,facebookta güzel havanın tadını çıkardığımı söyleyen yeni bir durum paylaş,tr
+5270,news,news,mevcut flaş haberler nedir,tr
+5050,iot,iot,tüm akıllı cihazları kapat,tr
+782,play,play,ceza 'dan evin delisi 'ni aç,tr
+3911,play,play,bu yıl grammy almış bazı şarkılar çal,tr
+13630,recommendation,recommendation,bulunduğum yere en yakın hayvanat bahçesi hangisi,tr
+5401,play,play,müzik,tr
+10333,play,play,saga aç,tr
+10217,cooking,cooking,nefisyemektarifleri uygulaması içinde acuka tarifini bul,tr
+11204,lists,lists,önemli ev bilgileri,tr
+10827,lists,lists,yiyecekler listesini sil,tr
+14919,qa,qa,alcatel hisseleri geçen hafta nasıldı,tr
+494,general,general,iyi bir espri nasıl olur,tr
+7820,calendar,calendar,takvimdeki tüm etkinlikleri sil,tr
+9236,play,play,yüz altı nokta dokuz kanal ına git,tr
+17011,email,email,adresine e-posta gönderebilir misin,tr
+12707,transport,transport,yol tarifi ara,tr
+14884,qa,qa,tüm amerikada en az kasırga olan eyalet nedir,tr
+4960,play,play,müzik mor ve ötesi,tr
+9269,play,play,sekiz yüz doksan yedi f. m. aç,tr
+3727,play,play,hande yener den yalanın batsın çal,tr
+14378,qa,qa,hızın tanımı,tr
+1804,iot,iot,daha fazla ışık lütfen,tr
+10760,lists,lists,iki gün önce yazdığım listeyi söyle,tr
+2540,iot,iot,odayı açık mavi yap,tr
+5149,iot,iot,kahve makinesini açık konuma getir,tr
+15075,qa,qa,olly ilk amerikalılar nereye yerleşti,tr
+15707,social,social,hadi bir tweet atalım,tr
+3214,news,news,erdoğanın rusya ile ilişkilerine yönelik soruşturma nın şu anki durumu nedir,tr
+9601,play,play,ülke radyosu 'nu aç,tr
+14163,qa,qa,konumu ara,tr
+8853,calendar,calendar,bir sonraki aktivitemi temizle,tr
+6072,takeaway,takeaway,çiya'dan yemeğimi almak için kaç dakika daha beklemem gerekiyor,tr
+13689,qa,qa,sandalye nedir,tr
+12104,recommendation,recommendation,recep ivedik üç,tr
+864,iot,iot,oturma odasını temizle şimdi,tr
+13908,qa,qa,şaşırmışın ne demek olduğunu söyler misin,tr
+14189,qa,qa,turkcell hisse fiyatı ne kadar,tr
+10182,cooking,cooking,omlet için kaç yumurta lazım,tr
+10825,lists,lists,listeyi temizle,tr
+2678,weather,weather,bu gece yağmur yağıyor mu,tr
+1158,general,general,şaka yap,tr
+3400,play,play,sıla 'nın canlı bir versiyonunu çal,tr
+9896,play,play,yaban da beşinci bölüme başla,tr
+12581,transport,transport,bugün tarsus treni kaçta kalkıyor,tr
+4241,audio,audio,lütfen konuşma,tr
+13823,qa,qa,güneş ne ​​kadar uzaklıkta,tr
+3050,iot,iot,benim ışık rengimi maviye çevir ve mutfak ışığını kapat lütfen,tr
+11862,recommendation,recommendation,bana bir film tavsiye et,tr
+1202,datetime,datetime,mardin de saat kaç şu an,tr
+14229,qa,qa,aslı enver hangi filmlerde rol aldı,tr
+1401,weather,weather,arada bir bakarım,tr
+10525,lists,lists,araba ödememi takvimimden kaldır,tr
+13762,general,general,kartal kalkar dal sarkar dal sarkar kartal kalkar,tr
+11942,recommendation,recommendation,bana yakın olan bir mobilyacı bulabilir misin,tr
+14382,qa,qa,empire state binası ne kadar büyüklükte,tr
+7120,calendar,calendar,bugün benim programım nasıl,tr
+10081,cooking,cooking,bana köfte pişirmeyi anlat,tr
+2026,iot,iot,şimdi kahve yap,tr
+7666,calendar,calendar,onur ile yarın üçte toplantım olduğunu işaretler misin,tr
+15467,social,social,arçelike onlardan nefret ettiğimi söyle,tr
+16096,email,email,amy bana hiç yeni email attı mı,tr
+475,general,general,genellikle yaptığın hatalar nelerdir,tr
+13690,qa,qa,sandalyeler ne renk,tr
+50,datetime,datetime,olly gmt artı beş in kaç olduğunu söyle bana,tr
+6073,iot,iot,sundurma ışıklarını kapat,tr
+6194,weather,weather,bugün hava nasıl,tr
+3002,play,play,tarkan 'dan şarkılar çal,tr
+15548,social,social,samsung'a mobil şikayet tweet'i at,tr
+3960,datetime,datetime,saati söyle,tr
+6319,general,general,sence bugün tiyatro ya gideyim mi,tr
+7294,calendar,calendar,takvimimden ali kaya ile olan randevuyu kaldır,tr
+6060,iot,iot,lütfen kahve cezvesini çalıştır,tr
+3834,iot,iot,ışıkları kıs,tr
+12189,transport,transport,bilet için tren istasyonuna nasıl gidebilirim,tr
+2174,music,music,martılar sanatçısı kim,tr
+4224,takeaway,takeaway,çin yemeğim ne zaman gelecek,tr
+13297,qa,qa,kim ünlüdür,tr
+16851,email,email,e-posta bildirimleri,tr
+3193,music,music,beş puan ver,tr
+16028,email,email,hey siri iş arkadaşına bir mail başlat,tr
+15610,social,social,şu tweet'i gönder a. b. c. şirketi'nden memnun değilim benim hesabımın takipleri çok kötü,tr
+1048,audio,audio,hoparlör sesini kıs,tr
+3838,audio,audio,sesi kapat,tr
+14817,general,general,zor kelimesi uygun şekilde sıralandı,tr
+2220,weather,weather,paris'te hava durumu,tr
+8559,calendar,calendar,bugün için programlanmış bir şeyim var mı,tr
+7971,calendar,calendar,etkinliğin ilk iki günü için bir anımsatıcı kut,tr
+15849,email,email,patronuma bir e-posta gönder,tr
+3829,alarm,alarm,hafta içi dokuza ayarlanmış alarmı kaldır lütfen,tr
+11515,play,play,hadi podcast te onuncu yıl marşı nı dinleyelim,tr
+5614,music,music,şu an radyoda ne var,tr
+8430,calendar,calendar,tüm randevularımı iptal et,tr
+14465,transport,transport,disney lande yol tarifi,tr
+7496,calendar,calendar,bugün randevum var mı,tr
+588,news,news,bugünün yeni haberleri neler,tr
+15998,email,email,epostalarımda isimden bir şey olup olmadığını kontrol et,tr
+16496,email,email,tekrar epostası gönder,tr
+2164,takeaway,takeaway,ne zaman yiyebiliriz,tr
+2320,weather,weather,bu cuma hava nasıl,tr
+9676,play,play,burak göral 'dan benim sesli kitabımı kaldığı yerden devam ettir,tr
+15350,social,social,metro'dan memnun değilim lütfen bana yardım eder misin,tr
+1655,weather,weather,yarın öğlen kar var mı,tr
+16361,email,email,son bir saat içinden hiç yeni epostalarım var mı,tr
+11085,lists,lists,sütü alışveriş listesinden çıkar,tr
+11570,recommendation,recommendation,şehrimde devam eden bir şeyler var mı,tr
+16413,email,email,patronumdan bana gönderilen tüm mailleri göster,tr
+7559,calendar,calendar,bana bu akşam sekizde kuru temizlemeden kıyafetlerimi almayı hatırlat,tr
+8541,calendar,calendar,lütfen bana hatırlat,tr
+2163,takeaway,takeaway,yemek siparişi nasıl gidiyor,tr
+15789,email,email,olly hiç yeni emailler im var mı,tr
+10667,lists,lists,planlar listesini yenile,tr
+7598,calendar,calendar,sonraki müsait olan toplantı gününe aliyle terörizmi tartışma toplantısı ayarla lütfen,tr
+6946,calendar,calendar,çarşamba için oluşturulmuş bir toplantı var mı,tr
+11340,play,play,mynet in yeni podcast i var mı,tr
+4187,datetime,datetime,hey siri saat kaç,tr
+4854,audio,audio,sesi kapat,tr
+3859,play,play,lütfen benim favorim rap müzik çalma listem i çal,tr
+15721,social,social,mcdonalds hakkında iğrenmiş yüz suratı tweet'i at,tr
+4391,news,news,c. n. n. deki manşetler neler,tr
+4833,audio,audio,verileri temizle,tr
+8460,calendar,calendar,bana etkinliklerimi göster,tr
+10898,lists,lists,lütfen parti için alınacakların listesini ekle,tr
+680,news,news,bitcoin fiyatı hakkında beni haberdar tut,tr
+15205,social,social,bana her üç saatte bir facebook güncellememi ver,tr
+11286,play,play,isimsiz podcast ını çal,tr
+9895,play,play,suyu arayan adam ı oynatmayı sürdür,tr
+14342,qa,qa,akbank hisse senedi fiyatı ne kadar,tr
+14530,qa,qa,ingiliz sterlini abd doları karşısında istediğim orana gelince beni uyar,tr
+14585,qa,qa,japonya dan güney kore ye seyahat ne kadar sürecek,tr
+1831,takeaway,takeaway,pizza hut dan bir pizza sipariş et,tr
+10743,lists,lists,o öğeyi kaldır,tr
+7111,calendar,calendar,otuz bir mart taki doktor randevusu saat kaçta,tr
+3253,weather,weather,bu öğlen yağmur bekleniyor mu,tr
+6617,general,general,gelecek hakkında ne düşünüyorsun,tr
+3433,play,play,yeni pop müzik,tr
+5027,datetime,datetime,en yakın on üçüncü cuma ne zaman,tr
+11272,play,play,bir sonrakini çal,tr
+13685,qa,qa,dolar arttı mı,tr
+16987,email,email,john'dan gelen herhangi bir yeni e-posta,tr
+13618,general,general,bugün cemiyetime yardımcı olmak için neler yapabileceğimi söyle,tr
+441,news,news,en son haber ana başlıkları nelerdir,tr
+6578,general,general,aşk,tr
+12693,transport,transport,iş yerine benim her zamanki istikametimde trafik nasıl,tr
+15401,social,social,twitter'ı aç mesaj at,tr
+1404,weather,weather,yarın bodrum için hava tahminini öğrenebilir miyim,tr
+527,general,general,hiç bildiğin fıkralar var mı,tr
+3980,play,play,lütfen tarkan dan ölürüm sana çal,tr
+16838,email,email,emaili yeni e-posta kimliği ne gönderebilir misin,tr
+11969,recommendation,recommendation,civarda olan özel bir şeyler var mı,tr
+12873,transport,transport,tren bileti,tr
+15765,email,email,pawel'ın e-postasına cevap ver,tr
+9156,calendar,calendar,hatırlatmak,tr
+17143,email,email,hey cana mail gönder,tr
+2798,play,play,alexa sen ağlama parçasını çal,tr
+8948,calendar,calendar,mustafa ile toplantı için bir etkinlik ekle,tr
+13255,qa,qa,lütfen bana alparslan türkeş hakkında bilgi verin,tr
+6997,calendar,calendar,sonraki etkinliği kaldır,tr
+1266,datetime,datetime,eğer istanbulda saat sabah beş ise burada saat kaç olur,tr
+5615,music,music,çaldığın parçanın adı ne,tr
+13067,general,general,benim için bir şekersiz diyet ve malzemeler için de bir alışveriş listesi oluşturabilir misin,tr
+13738,qa,qa,amerika birleşik devletleri ve çin arasındaki döviz kurları ne kadar,tr
+9812,play,play,harrypotter sesli kitabını aç ve en son çaldığımız yerden başlat,tr
+15055,qa,qa,hangi kutup daha soğuk güney mi kuzey mi,tr
+13888,qa,qa,antakya hatayda sıcaklık nedir,tr
+8390,calendar,calendar,bana toplantımı hatırlat,tr
+13487,qa,qa,olly kaliforniyanın başkenti neresidir,tr
+5347,play,play,tekno müzik çal,tr
+4319,alarm,alarm,yarın onda kalkmam gerek,tr
+4375,alarm,alarm,tüm alarmları gözden geçir,tr
+1960,iot,iot,ışığı pembe renge çevir,tr
+14700,qa,qa,kompozit diş dolgusu tam olarak ne anlama geliyor,tr
+15911,email,email,susan için e-posta hazırla,tr
+6708,general,general,arkadaş güncellemeleri,tr
+7194,calendar,calendar,yarın toplantım var kur bunu,tr
+5557,play,play,reggae istiyorum,tr
+1156,news,news,uluslararası kadınlar günü hakkında son haberler,tr
+2093,music,music,bana şu anki müziğin adını söyle,tr
+2447,takeaway,takeaway,öğle yemeği için çorba sipariş etmek istiyorum beykoz restoran dan bir tavuk çorba iste,tr
+1675,alarm,alarm,sabah dokuzdaki salı alarmını kaldır,tr
+6331,general,general,sezon öncesi beyzbol biletleri aldım,tr
+12844,transport,transport,ofise gitmek için bana bir taksi ayırtır mısın,tr
+9326,play,play,lütfen şimdi radyo d'yi oynat,tr
+5590,weather,weather,sıcaklık açık,tr
+13342,general,general,bu ay ne sıklıkta yemek yediğim gibi benim için yaptığın şeyler hakkında istatistikler söylemeni istiyorum,tr
+16975,email,email,lütfen hüsey adına bana bir kişi numarası bul ve söyle,tr
+3295,takeaway,takeaway,yakınlardaki tadım pizza teslimat yapıyor mu,tr
+1671,play,play,bin dokuz yüz doksan ile iki bin yılları arasında yayınlanmış tüm müzik parçalarını çal,tr
+2684,takeaway,takeaway,son sipariş hazır mı,tr
+182,play,play,benim rock çalma listemi çal,tr
+12233,transport,transport,google ankara 'ya tren saatleri,tr
+1777,play,play,sıradaki şarkı,tr
+2703,play,play,lütfen folk müzik çal,tr
+3582,audio,audio,sessize al lütfen,tr
+17151,email,email,arkadaşım can bana yeni aldığı evine bir davetiye gönderdi email kimliğinden ona teşekkürler de,tr
+6370,calendar,calendar,önümüzdeki haftam nasıl görünüyor,tr
+15345,social,social,lütfen twitterda hakkında en çok konuşulan konuları kontrol et,tr
+4784,weather,weather,bir cekete ihtiyacım var mı,tr
+4174,iot,iot,hey olly mevcut ışık ayarlarını değiştir,tr
+1527,music,music,o şarkıyı sevdiğimi bana hatırlat,tr
+5062,play,play,lütfen bana seksenlerden şarkılar çal,tr
+13524,general,general,onun fikirleri analiz etmesine katkıda bulunacağım,tr
+16669,email,email,paul'den bir e-posta aldım mı,tr
+85,datetime,datetime,bana bugünkü tarihi bildir,tr
+4764,weather,weather,pazartesi günü yağmur yağacak mı,tr
+14026,qa,qa,bir kalem dört dolar ve bir kitap on dolarsa iki kalem ve üç kitap alırsam ne kadar öderim,tr
+11081,lists,lists,defterimde hangi listeler var,tr
+12548,transport,transport,ev için bir araç lazım bana,tr
+16145,email,email,bana en yeni e-postaları göster,tr
+6645,general,general,n. s. a. için mi çalışıyorsun,tr
+13895,qa,qa,bana hakan şükürden bahseder misin,tr
+10321,play,play,fifa on yedi oynamak istiyorum,tr
+16245,email,email,hazal et a ü nokta kom a eposta gönder,tr
+560,alarm,alarm,sabah sekiz alarmını kapa,tr
+12354,transport,transport,bana tren zamanlarını söyle,tr
+5465,weather,weather,bugün sandaletlerimi giyebilir miyim,tr
+3178,music,music,bu şarkı ne zaman çıktı,tr
+9656,play,play,bana hoparlöründen hareketli bir şarkı çal,tr
+6267,general,general,adın ne,tr
+3228,datetime,datetime,kurban bayramı bu yıl haftanın hangi gününe denk geliyor,tr
+9216,play,play,benim istasyonumu aç,tr
+11644,recommendation,recommendation,antalya 'da bana etkinlikler göster,tr
+6726,calendar,calendar,sonraki toplantıyı iptal et,tr
+506,play,play,tarkan dan şarkılar aç,tr
+3039,news,news,haberlerde ne yeni,tr
+16886,email,email,bu postayı cevapla,tr
+16712,email,email,hiç yeni e-postam var mı,tr
+4227,weather,weather,önümüzdeki hafta için yapılan tahminlerde yağmur var mı,tr
+15413,social,social,bana en kısa zamanda bir kişi bul,tr
+4334,social,social,facebook akışım nasıl görünüyor,tr
+783,play,play,aşk şarkıları çal,tr
+14794,qa,qa,mirkelamın favori arabası nedir,tr
+16072,email,email,patronuma acil bir durum nedeniyle bugün geç kalacağımı e-posta ile gönder ve toplantıyı kaçırdığım için ondan özür dile,tr
+2296,news,news,beni bugünün süper lig sonuçları ylagüncel tut,tr
+12376,transport,transport,kartal a ilk metro saat kaçta,tr
+4402,weather,weather,bugün bir şemsiye taşımam gerekecek mi,tr
+7262,calendar,calendar,yarınki toplantı için bir bildirim hatırlatıcısı oluştur,tr
+1796,datetime,datetime,bugün günlerden ne,tr
+837,news,news,yaklaşan abd seçimleri için b. b. c. anket tahminleri nelerdir,tr
+1276,iot,iot,bir kahve istiyorum,tr
+16589,email,email,beni son arayan kişi kim,tr
+9074,calendar,calendar,lütfen o etkinliği iptal et,tr
+6806,calendar,calendar,bana bu cuma öğleden sonra ki takvim etkinliğimi göster,tr
+9897,play,play,ahmet ümit 'ten polisiye romanları geri çal,tr
+8276,calendar,calendar,bir sonraki planlanmış randevumu kaldır lütfen,tr
+13516,qa,qa,balinalar neden büyük,tr
+16061,email,email,son on dakikada hiç e-posta aldım mı,tr
+16471,email,email,veliden gelen epostaları kontrol et,tr
+6288,general,general,kalkar kalkmaz yemek yedim,tr
+16892,email,email,başlat ve john smith'e e-posta gönder,tr
+7570,calendar,calendar,bugün plan nedir,tr
+16354,email,email,işverenimden gelen e-postaları kontrol et,tr
+10338,play,play,benim için harry potter ve sırlar odası oyununu aç,tr
+4767,news,news,meksika amerika sınır duvarı nı içeren yeni bir bilgi var mı,tr
+13404,general,general,yarın hangi mağazada indirim var,tr
+5888,iot,iot,elektriği kapat lütfen,tr
+4487,weather,weather,perşembe yağmur yağacak mı,tr
+19,iot,iot,olly yatak odasındaki ışıkları kapat,tr
+1995,play,play,mor ve ötesi çal,tr
+8358,calendar,calendar,bana bunu hatırlat,tr
+5010,iot,iot,her zamankinden yap,tr
+4400,news,news,sabah gazetesinde hakkında en çok konuşulan makaleler nelerdir,tr
+3542,iot,iot,oturma odasının ışıklarını yeşil ve kırmızıya çevir,tr
+1377,iot,iot,lütfen oğlumun odasının ışığını kapat,tr
+15186,social,social,düğün dilekleri,tr
+14473,qa,qa,hisse fiyatlarını adlarıyla aç,tr
+7199,calendar,calendar,gelecek haftanın ingilizce finalinden önce üç iki ve bir saat için bir bildiri ayarla,tr
+7025,calendar,calendar,yeni yılı takvimden kaldır,tr
+169,takeaway,takeaway,onlar teslimat yapabiliyorlar mı,tr
+10366,play,play,yüksek hızda araba yarışı oynamalıyız,tr
+171,takeaway,takeaway,olly eve teslimat yapıyorlar mı,tr
+16992,email,email,jane doe bana e-posta göndermiş mi,tr
+3426,weather,weather,dışarısı kaç derece,tr
+6596,general,general,bu yerden döndüğümde,tr
+5349,iot,iot,olly bana biraz loş ışık ver,tr
+2030,music,music,şu an çalan şarkı var ya o hangisi,tr
+790,weather,weather,ılıman veya sert hava,tr
+3870,alarm,alarm,bu haftasonu benim uçuş um için uyanmak üzere ben hangi saat için alarm ımı ayarladım,tr
+2336,takeaway,takeaway,bir paket makarna al götür yap,tr
+3031,play,play,şarkıyı tekrar çalmak istiyorum,tr
+17144,email,email,hey maili kontrol et,tr
+5225,datetime,datetime,gelecek çarşamba ayın kaçı,tr
+4550,music,music,hey olly ben ege 'den müzik istiyorum,tr
+14179,qa,qa,kanada şu an bulunduğum konumdan ne kadar uzaklıkta,tr
+9871,play,play,benim favori kitabımı çal lütfen,tr
+7718,calendar,calendar,hey bu cuma günü toplantı için semih beye davet gönder ve cuma günü öğleden sonrası için takvimimi engelle,tr
+16662,email,email,oğulcan'dan herhangi bir yeni e-posta aldım mı,tr
+14879,qa,qa,anlamı,tr
+5292,alarm,alarm,alarmı kur,tr
+2638,news,news,bana erdoğan hakkında haberler göster,tr
+4601,alarm,alarm,öğleden sonra beş olduğunda haber ver,tr
+4554,iot,iot,biraz kahve yapar mısın,tr
+3364,general,general,tak tak,tr
+10999,lists,lists,listeyi söyle,tr
+9263,play,play,radyo uygulamalarını aç,tr
+12446,transport,transport,aydın a giden bir tren için bana tüm saatleri verebilir misin,tr
+9568,play,play,sıla 'dan canlı konser serileri aç,tr
+16002,email,email,yeni email varmı diye kontrol et,tr
+6923,calendar,calendar,hatırlatıcıyı salı sabahı dokümanların çıktısını alacak şekilde ayarla,tr
+16677,email,email,bugün gelen kutumda hiç yeni eposta var mı,tr
+5584,iot,iot,lütfen ışıkları kapat,tr
+6014,music,music,bu hangi şarkıcı,tr
+12869,transport,transport,trafik raporu,tr
+6417,general,general,günüm iyi gidiyor bir not ekle,tr
+1427,iot,iot,ışıkları maviye değiştir olly,tr
+11322,play,play,günün en iyi podcastleri hangileri,tr
+17075,email,email,bugün saat dörtten sonra alınan yeni bir e-posta var mı,tr
+14370,qa,qa,bana ünlünün mesleğini söyle,tr
+411,general,general,bana bir fıkra anlatır mısın,tr
+7980,calendar,calendar,bana ne zaman bir etkinliğim olduğunu söyle,tr
+12537,transport,transport,bana ispanyaya giden en ucuz tren biletini bul,tr
+16296,email,email,anneme denizin doğum günü partisinin pazar günü olduğunu söylemek için bir email gönder,tr
+9857,play,play,benim seçimim baştan bir ses çalmak,tr
+2673,alarm,alarm,sonraki doktor randevum için anımsatıcı alarm kurmayı hatırladım mı,tr
+5026,iot,iot,lütfen ışıkları doğal yap,tr
+7463,calendar,calendar,grubuma yeni toplantı tarihinin yarın olduğunu bildir,tr
+10156,cooking,cooking,biber dolması nasıl yapılır öğrenmem lazım,tr
+8769,calendar,calendar,yaklaşan etkinliği sil,tr
+8824,calendar,calendar,on dokuzu için öğleden sonra iki de programlanmış neyim var,tr
+2917,weather,weather,haftalık hava raporu,tr
+4283,iot,iot,bu odadaki parlaklığı artır,tr
+7044,calendar,calendar,öğleden sonra beş te hazırlanmaya başlamamı anımsat lütfen,tr
+8667,calendar,calendar,son üç ayda mr. richards ile kaç toplantı yaptım,tr
+11932,recommendation,recommendation,bugün ben ne seyredeyim,tr
+4442,iot,iot,üçte kahve yap,tr
+6720,general,general,seneye istanbul da gerçekleşecek olan istanbul komedi festivali ile ilgili neler biliyorsun,tr
+16248,email,email,lütfen postamı kontrol et,tr
+2311,iot,iot,alexa ışıkları yediye indir,tr
+1692,play,play,benim için biraz hafif arabesk bul,tr
+9793,play,play,romantik şarkılar çal,tr
+10828,lists,lists,hepsini sil,tr
+13165,qa,qa,salınım ne demek,tr
+10206,cooking,cooking,pilav nasıl hazırlanır,tr
+7908,calendar,calendar,bugün yapmam gereken bir şey var mı,tr
+15062,qa,qa,banu alkan hakkında bilgi lütfen,tr
+3915,music,music,bu iyi bir melodi lütfen dosyayı buna göre not et,tr
+10100,cooking,cooking,pilav tarifi biliyor musun,tr
+10970,lists,lists,son cümleyi sil,tr
+8415,calendar,calendar,salı günü öğleden sonra üç için ali ile ofiste bir toplantı ekle,tr
+5016,news,news,piyasa iniş çıkış hakkında yeni haberleri ver,tr
+14673,general,general,amazon ormanındaki hayvanlar aleminden bahseder misin,tr
+10049,cooking,cooking,bana balık ekmek nasıl yapılır anlat,tr
+5378,play,play,s.,tr
+15137,general,general,helikopter ol,tr
+9317,play,play,şimdi radyoyu başlat,tr
+7583,calendar,calendar,takvimindeki tanışma toplantısı,tr
+13983,qa,qa,acı sonuçlar,tr
+5774,datetime,datetime,sivasta şu anki saat,tr
+16730,email,email,lütfen andy'den gelen yeni e-postayı kontrol edin,tr
+12240,transport,transport,benim ev seyahatim için saat beş de trafik nasıl,tr
+6701,general,general,genel sağlık ipuçları,tr
+12608,transport,transport,pazartesi öğle için bir taksi alma programla,tr
+17095,email,email,kamil'in e-postası nedir,tr
+15706,social,social,oraya tweet at,tr
+16506,email,email,yeni eposta adresi ekle ve eposta gönder,tr
+11612,recommendation,recommendation,afyon 'da hangi silah gösterisi var,tr
+10808,lists,lists,listelenen son öğeyi sil,tr
+1635,alarm,alarm,alarmlarım ne zaman çalar,tr
+3386,iot,iot,ışıkları orta seviyeye indir,tr
+10570,lists,lists,yapılacaklar listemi kontrol et,tr
+12377,transport,transport,bana uber çağır,tr
+7100,calendar,calendar,bana bir gün önce arabamın son günü olduğunu hatırlat,tr
+4680,weather,weather,sandalet mi yoksa çorap ve ayakkabı mı giymem lazım,tr
+608,audio,audio,sonra sesi aç,tr
+102,weather,weather,bu haftanın hava durumu nasıl,tr
+843,iot,iot,robot süpürgeyi çalıştır,tr
+6055,iot,iot,garajdaki ışığı açık mı bıraktım,tr
+9438,play,play,bana radyoda bir rap parça çalabilir misin,tr
+6325,general,general,günüm inanılmaz zordu,tr
+1811,play,play,çalma listesini başlat ve müzik çal,tr
+4606,news,news,günün borsa bilgilerini bul,tr
+1247,takeaway,takeaway,öğrenmek istiyorum tadım pizza adrese teslimat yapıyor mu,tr
+15828,email,email,burda kişilere eklenecek yeni bir eposta adresi var,tr
+14757,qa,qa,yetmiş altıyı ikiye böl,tr
+6713,calendar,calendar,çarşamba günü iş toplantısını iptal et,tr
+15364,social,social,amazona bu yeni telefon kılıfının çöp olduğunu söyler misin,tr
+5797,weather,weather,dışarı çıkmadan önce yağmurluk giymeli miyim,tr
+16814,email,email,emailleri kontrol et,tr
+1090,iot,iot,odadaki parlaklığı artırabilir misin,tr
+16168,email,email,son on beş dakika içinde herhangi bir e-posta geldi mi,tr
+7185,calendar,calendar,doktor ahmet ile bir sonraki randevum ne zaman,tr
+13303,general,general,benim için akşam yemeği hazırlar mısın,tr
+6891,calendar,calendar,sabah programlarının müsaitliği var mı,tr
+13554,qa,qa,mehmet günsürün boyu ne kadar uzun,tr
+14763,qa,qa,avro ile karşılaştırıldığında doların değeri ne kadar,tr
+7851,calendar,calendar,bugün öğlen bir toplantım var,tr
+4620,iot,iot,yeni akıllı soketi aç,tr
+8635,calendar,calendar,şükran gününden üç hafta önce bana hindi siparişini hatırlatabilir misin,tr
+12722,transport,transport,boston'a tren bileti al,tr
+14241,qa,qa,euro nun amerikan doları karşısında değer,tr
+6663,general,general,tatil yerleri,tr
+10055,cooking,cooking,kızarmış tavuk tarifi ne,tr
+13754,qa,qa,bana avrasya petrolün şu anki hisse fiyatını söyle,tr
+4428,music,music,şarkıyı tanımla,tr
+15229,social,social,facebook'ta arkadaşım mert'ten gönderi var mı,tr
+7196,calendar,calendar,bana on beş martta alper ile yapacağım toplantıyı hatırlat,tr
+12883,transport,transport,yirmi altıncı hafta sonu urfa'dan los angeles'a tren bileti ayırt,tr
+4934,takeaway,takeaway,domino's siparişimin saat kaçta varma ihtimali var,tr
+9327,play,play,hemen şimdi radyoda bir am frekansını tara lütfen,tr
+250,play,play,şu an canım çok jazz istiyor ya sen,tr
+7817,calendar,calendar,bu tarihle ilgili olan doğru mu,tr
+8126,calendar,calendar,benim takvimimde bir toplantı etkinlik i programla,tr
+2288,iot,iot,sabah altı da kahve başlat,tr
+132,takeaway,takeaway,paket servisi sipariş et,tr
+10455,lists,lists,yapılacaklar listemde ne var,tr
+319,weather,weather,iki gün sonra bursa'da hava nasıl olacak söyler misin,tr
+13552,qa,qa,altı bölü iki kaç eder,tr
+11483,play,play,ringcast oynamaya başla,tr
+10738,lists,lists,lütfen market listeme bir ürün ekler misin,tr
+4217,general,general,güzel komik fıkralar duymak isterim,tr
+13607,qa,qa,kıvançın evli olup olmadığını teyit edebilir misin,tr
+14608,qa,qa,beren saat hangi yeni filmin üzerinde çalışıyor,tr
+3700,iot,iot,ışıklar yüzde,tr
+11922,recommendation,recommendation,lütfen şu an açık olan yerel restoranlara bak,tr
+15634,social,social,ok google benzin istasyonu sahibinin pislik olduğunu tweet'le,tr
+9275,play,play,radyoda sadece dokuz yüz doksan dokuz f.m. çalınacak,tr
+2056,music,music,o şarkıyı bir daha duymak istemiyorum,tr
+5328,play,play,rock,tr
+10815,lists,lists,alışveriş listeme diş macunu ekle,tr
+16772,email,email,ihlalle ilgili tüm epostaları göster,tr
+11409,play,play,sıradaki podcast bölümüne atla,tr
+9524,play,play,fularsız entellik programına bağlan,tr
+5550,audio,audio,hiç ses çıkarma,tr
+8409,calendar,calendar,yarınki akşam yemeğini sil,tr
+1300,audio,audio,çabuk,tr
+4994,audio,audio,lütfen hoparlörümü sessize al,tr
+8188,calendar,calendar,günlerden ne,tr
+13693,qa,qa,başlangıç ​​meridyeni nerededir,tr
+16916,email,email,hey aldığım bir postayı cevapla,tr
+1658,alarm,alarm,tüm ayarlanmış alarmları görmek istiyorum,tr
+6616,general,general,yaşınız nedir,tr
+4216,general,general,bana şimdiye kadar anlatılan en komik fıkrayı anlat,tr
+286,iot,iot,mutfaktaki ışıkları yükselt,tr
+3489,play,play,şimdi müzik çal lütfen,tr
+11767,recommendation,recommendation,olly bu hafta sonu sakaryada hangi etkinlikler yapılıyor,tr
+10072,cooking,cooking,fırında tavuk için pişirme süreleri,tr
+9254,play,play,lütfen number one f. m.,tr
+12436,transport,transport,havalimanına gitmek ne kadar sürer,tr
+3516,weather,weather,bugünün yağış olasılığı nedir,tr
+3522,iot,iot,lütfen balkon ışıklarımı aç,tr
+16872,email,email,naty i benim kişilerimde bul ve email gönder,tr
+6600,general,general,sağlık,tr
+6434,general,general,bana biraz kendinden bahsedebilir misin,tr
+12004,recommendation,recommendation,lütfen bana yakınımdaki en iyi giyim mağazalarını listele,tr
+15155,social,social,en son selfimi facebook hesabıma yükler misin,tr
+4547,play,play,köpek gezdirme çalma listesi açl,tr
+1639,audio,audio,lütfen sesi kıs,tr
+764,weather,weather,bu hafta için hava tahmini nasıl,tr
+5332,datetime,datetime,birleşik devletler ve kanada saat farkı,tr
+6432,general,general,bugün olanlar şu şekilde caner ile bir toplantı ayarladım,tr
+5160,play,play,tarkan şarkısı çalabilir misin lütfen,tr
+3884,alarm,alarm,mevcut kurulu alarmları listele,tr
+11546,play,play,geçen hafta dan tüm felsefe kanalı nı çaldır,tr
+6405,general,general,köpekler ne ses çıkarır,tr
+0,alarm,alarm,bu hafta beni sabah beşte uyandır,tr
+5974,alarm,alarm,öğlen tabletleri almak için alarm kurdum mu,tr
+12724,transport,transport,bana aydın'a bir tren bileti bul,tr
+2082,iot,iot,ışığı arttır,tr
+1059,iot,iot,robot süpürgeyi aç,tr
+4355,weather,weather,şu an bulunduğum yerde hava nasıl,tr
+6557,general,general,videolar oynat,tr
+1516,takeaway,takeaway,domino's sosisli pizza sipariş et,tr
+11875,recommendation,recommendation,civarda yemek festivali var mı,tr
+2796,audio,audio,hoparlörleri sessize al,tr
+8241,calendar,calendar,yılın geri kalanı için benim herşey imi temizle,tr
+6352,general,general,dükkana gittim,tr
+16846,email,email,lütfen hakan belber için kişilerime bir eposta ekle hakan belber at yahoo nokta com,tr
+14891,qa,qa,bu kişi hangi alanda üstün,tr
+974,datetime,datetime,istanbul da şu an saat kaç,tr
+4776,alarm,alarm,lütfen bana hangi alarmların aktif olduğunu söyle,tr
+1030,iot,iot,oturma odasındaki ışıkları kıs,tr
+11947,recommendation,recommendation,yakınımdaki restoranlar nelerdir,tr
+6892,calendar,calendar,bana film programını verebilir misin,tr
+5221,audio,audio,hoparlör titreşimini kapat,tr
+7461,calendar,calendar,insanları takvim etkinliğine davet et,tr
+5159,play,play,lütfen sanatçı tarkan'nın şarkısını çalar mısın,tr
+12256,transport,transport,atatürk parkı yolu yakınlarında şu anda trafik nasıl,tr
+11582,recommendation,recommendation,eskişehir civarında caz gösterimi yapan hiçbir yer var mı,tr
+12392,transport,transport,bana bugünkü yolu tarif et,tr
+3550,play,play,biraz led zeppelin aç,tr
+16995,email,email,jessica'ya e-posta gönder,tr
+6652,general,general,diyete bağlı kalmak,tr
+4081,alarm,alarm,yarın eve giderken markette durup yiyecek almayı hatırlamak için bir alarm kurmak istiyorum,tr
+4544,takeaway,takeaway,on iki parça baharatlı bal hardallı kanat kombo ve içecek olarak da sprite sipariş et,tr
+1589,weather,weather,önümüzdeki salı güneşli olacak mı,tr
+767,news,news,lütfen bana genellikle bakmadığım bir kaynaktan en son haberleri bulabilir misin,tr
+4992,iot,iot,soketleri kapat,tr
+14564,general,general,türkiye nin diğer ülkelerden ne kadar da daha iyi olduğunu anlat,tr
+170,takeaway,takeaway,eve teslim yapıyorlar mı,tr
+9738,play,play,lütfen benim için klasik müzik çalar mısın,tr
+10349,play,play,hadi counter strike oynayalım,tr
+5570,takeaway,takeaway,yemek bul ve sipariş ver,tr
+13383,qa,qa,kaç eyalette idam var,tr
+1467,play,play,slayer çal,tr
+10936,lists,lists,lütfen benim favori albümler listemi kaldır,tr
+3407,weather,weather,bu hafta yağmur veya kar beklentisi var mı,tr
+4845,datetime,datetime,benim bulunduğum yer ile istanbul arasındaki uzaklık ne kadar,tr
+2434,iot,iot,robot süpürgeyi başlat,tr
+16163,email,email,dün bana kim e-posta attı,tr
+7891,calendar,calendar,bu geceki akşam yemeğini iptal et,tr
+4443,iot,iot,kahve makinesini üçte çalıştır,tr
+10960,lists,lists,şunu listeden çıkar,tr
+3361,datetime,datetime,gelecek salı ayın kaçı,tr
+4966,iot,iot,merhaba akıllı prizimi kapatmak istiyorum,tr
+13766,qa,qa,iki kere iki,tr
+9541,play,play,radyoda tatlı şarkıyı çal,tr
+11023,lists,lists,alışveriş listesini kaldır,tr
+8300,calendar,calendar,on sekiz mart saat beş ile altı arasındaki etkinliği kaydet,tr
+11685,recommendation,recommendation,bölgemizde gerçekleşen etkinlikler hakkında beni bilgilendirirsen sevinirim,tr
+10786,lists,lists,bugün için etkinlikler listemi temizle,tr
+1371,news,news,hürriyetin ön sayfasında ne var,tr
+8731,alarm,alarm,yedi nisanda katılmam gereken facebook etkinliği için tekrarlayan bir hatırlatma alarmı kur,tr
+3936,weather,weather,sıcaklık kaç derece,tr
+150,music,music,bu şarkıyı seviyorum,tr
+11733,recommendation,recommendation,yeni film dabbe nasıl,tr
+11259,play,play,sonraki podcaste atla,tr
+15809,email,email,oğuz henüz bana e-posta göndermedi,tr
+427,iot,iot,banyo ışıklarını kapat,tr
+3207,play,play,tarkan 'dan dudu dudu yayınla,tr
+16501,email,email,lütfen arkadaşım deryaya mail at nasılsın,tr
+8402,general,general,bana etkinliklerimden biraz daha bahset,tr
+8302,calendar,calendar,haftaya pazartesi günkü toplantıyı kaldır,tr
+8001,calendar,calendar,ben cuma için bir saç kesimi programlamıştım onu sil,tr
+11987,recommendation,recommendation,bana yakın filmleri ara,tr
+7777,calendar,calendar,bugün randevum var mı,tr
+11141,lists,lists,lütfen alfabetik a ile başlayan tüm isimleri bul ve bir liste oluştur,tr
+1413,iot,iot,bana biraz kahve yapabilir misin olly,tr
+10812,lists,lists,alışveriş listeme muz ekle,tr
+7004,calendar,calendar,takvime her sene bu tarihte bir hatırlatma ekle,tr
+15635,social,social,mcdonald'sın kötü bir servisi olduğu hakkında tweet at,tr
+3695,alarm,alarm,bugün üçe bir alarm istiyorum,tr
+9426,play,play,r'n b. çalan istasyon dinlemek istiyorum,tr
+7836,calendar,calendar,tüm etkinlikleri sil,tr
+103,weather,weather,bu haftaki hava durumunu söyle,tr
+12245,transport,transport,istanbul 'dan ankara yönüne bir sonraki tren ne zaman,tr
+13348,general,general,sana toplu iğne başında kaç meleğin dans edebileceğini sormak istiyorum,tr
+5703,datetime,datetime,şu anki zaman,tr
+15763,email,email,lütfen yeni e-postaları kontrol et,tr
+1594,news,news,bana en son haberleri söyleyebilir misin,tr
+8900,calendar,calendar,her pazar yinelenen anımsatıcı kur,tr
+16297,email,email,emreye teşekkür etmek için bir eposta gönder,tr
+13625,qa,qa,en büyük çalışma masası hangisi,tr
+4001,news,news,survivor da ne oldu,tr
+12340,transport,transport,bu cuma için iki kişilik tren bileti ayırtabilir misin lütfen,tr
+6268,general,general,eğer üç kişiyi kurtarmak için birilerini öldürmen gerekseydi bunu yapar mıydın ve öyleyse nasıl,tr
+16120,email,email,yardım sadece cemreye gönderilecek,tr
+3222,iot,iot,daha düşük ışık istiyorum,tr
+1719,alarm,alarm,alarmı sadece pazartesi sabah altıya kur,tr
+6448,general,general,kılıçdaroğlu,tr
+13758,qa,qa,nükhet duru kaç yaşında,tr
+7889,calendar,calendar,bu akşam futbol maçı ne zaman olacak,tr
+7927,calendar,calendar,bu hafta ne yapmam gerekiyor,tr
+10288,play,play,benimle tic tac toe oyunu oynar mısın,tr
+635,iot,iot,elektrik süpürgesini başlat,tr
+2403,iot,iot,bana daha fazla ışık ver,tr
+9053,calendar,calendar,salı günü meliha ile toplantı için hatırlatıcı kur,tr
+3011,iot,iot,benim için ışığı geri al,tr
+13451,general,general,ben evde yokken robotumun köpeğimi beslemesini ve okşamasını istiyorum,tr
+8387,calendar,calendar,çamaşırlar için akşam sekize hatırlatıcı oluştur,tr
+5611,audio,audio,sesi azalt,tr
+9364,play,play,müzik hitler çalalım,tr
+11677,recommendation,recommendation,bana amazon restoranlarını bul,tr
+10957,lists,lists,bana kaç tane listem olduğunu hatırlat,tr
+11871,recommendation,recommendation,benim bölgemde oynayan bir film öner,tr
+2931,play,play,sıradaki ölürüm sana 'yı çal,tr
+15032,qa,qa,bir dolar kaç pound eder,tr
+11720,recommendation,recommendation,yüzme,tr
+5156,iot,iot,oturma odasındaki ışığı kapat,tr
+4090,audio,audio,hoparlörlerimdeki sesi artır,tr
+5902,alarm,alarm,alarmın sabah altıya kurulu olduğunu kontrol et,tr
+9137,calendar,calendar,italyan restoranı öğle ve akşam yemekleri arasında saat kaçta kapalı,tr
+11026,lists,lists,listeye yeni öğe ekle,tr
+11451,play,play,en son selda podcast ını dinlemek istiyorum,tr
+15337,social,social,bu videoyu facebook'a postala,tr
+15703,social,social,defacto ya boyutlarının çok hızlı tükendiğini tweet at,tr
+11999,recommendation,recommendation,bugün şehrimdeki tüm etkinlikleri bildir bana,tr
+668,takeaway,takeaway,acilen iki burger ve bir kola istiyorum,tr
+1794,news,news,biden türkiye'yi yakın zamanda ziyaret edecek mi,tr
+9250,play,play,radyo dinlemek istiyorum,tr
+16282,email,email,yarın için tüm randevuları iptal etmek için asistanım seline bir eposta gönder,tr
+3329,news,news,haberleri görmek istiyorum,tr
+4492,news,news,benim bölgemdeki en son suç istatistikleri nasıl,tr
+14033,qa,qa,bana ecevitin ne zaman doğduğunu söyle,tr
+8125,calendar,calendar,benim takvimimdeki toplantı etkinliğini oluştur,tr
+9009,calendar,calendar,yıl dönümü etkinliğini takvimimden kaldır,tr
+16455,email,email,kişilerime yeni email ekle melis at gmail nokta com,tr
+13069,qa,qa,portakalın tanımları nelerdir,tr
+15275,social,social,facebook da mutlu olduğumu paylaş,tr
+9761,play,play,beklet,tr
+15464,social,social,ürünü zamanında teslim almadım lcwaikikiye bu konuda tweet at,tr
+6801,calendar,calendar,bana bu cuma toplantılarımı göster,tr
+14246,general,general,bazalt nasıl alınır,tr
+1400,weather,weather,genelde dikkat ederim,tr
+1546,play,play,yazın dinlenmesi gereken şarkılar playlisti mi çal,tr
+10090,cooking,cooking,ton balığı tarifi alabilir miyim,tr
+4104,weather,weather,bugün karşıyaka'da hava nasıl,tr
+6305,general,general,bugün ne yapmak istiyorsun,tr
+2007,play,play,lütfen yaşım ondokuzu çal,tr
+16813,email,email,john'dan e-posta aldığımda beni sesli olarak uyar,tr
+15656,social,social,getire hala teslimatım için beklediğimi söyleyen bir mesaj tweet at,tr
+2265,weather,weather,şu anda izmir de hava nasıl söyle lütfen,tr
+1148,datetime,datetime,şu an izmir'de saat kaç,tr
+4121,alarm,alarm,alarmı saat kaça kurdun,tr
+1076,music,music,rock metal çalma,tr
+10684,lists,lists,ben hangi listeleri sorguladım,tr
+16461,email,email,hiç okunmamış e-postam var mı,tr
+6836,calendar,calendar,bana yarın altıdaki toplantımı hatırlat,tr
+5279,play,play,lütfen müzik çalar da duygusal bir şarkı çal,tr
+15387,social,social,şu anki konumumu tweetle,tr
+10577,lists,lists,bana tüm listelerimi ver,tr
+884,alarm,alarm,sabah sekize alarm kur,tr
+9284,play,play,f. m. çal,tr
+11610,recommendation,recommendation,bana şu anda şehirde devam eden sirk gösterilerinin listesini ver,tr
+10471,lists,lists,yeni yapılacaklar listesi yapmam lazım,tr
+8474,calendar,calendar,yarın öğleden sonra ikiye canın doğum günü partisini yüz yirmi üçü takvimime ekle,tr
+6174,iot,iot,burayı daha parlak yap,tr
+12161,transport,transport,ben ofise gitmek için çıktıktan sonra bir uber rezervasyonu yapar mısın,tr
+61,alarm,alarm,hangi alarmları kurdum,tr
+3780,play,play,benim geceyarısı sevdası çalma listemi çal,tr
+10220,cooking,cooking,büyük bir kek pişirmek için hangi malzemelere ihtiyacım var,tr
+15971,email,email,işten gelen en sonki email neydi,tr
+14661,qa,qa,ahmet davutoğlunun doğum yılı kaç,tr
+6860,calendar,calendar,yaklaşan etkinlikler var mı,tr
+6593,general,general,bir dedikodu başlat,tr
+1308,weather,weather,bugünün hava durumunu buradan al,tr
+12961,qa,qa,lütfen adliyi tanımla,tr
+5341,datetime,datetime,lütfen beni saat konusunda uyar,tr
+8366,calendar,calendar,on sekiz martı pearl'ün doğum günü için tekrarlayan bir randevu yap,tr
+13666,qa,qa,şu anda poundun değeri nedir,tr
+3762,iot,iot,ışıkları artır,tr
+16605,email,email,patronuma eposta yaz ve gönder,tr
+2517,iot,iot,robot süpürgeyi nasıl başlatırım,tr
+3205,play,play,pinhani 'den büyük adam 'ı aç,tr
+10308,play,play,masa tenisi aç,tr
+11695,recommendation,recommendation,hiç aksiyon filmi önerin var mı,tr
+15557,social,social,bir şikayet ile ilgili tweet atman gerekiyor,tr
+1872,music,music,yolculuk için güzel şarkılar,tr
+3606,datetime,datetime,ankara da saat kaç,tr
+17157,email,email,berkten hiç yeni bir emailim var mı,tr
+2263,iot,iot,bana mat renk göster,tr
+4955,iot,iot,görmek ister misin,tr
+8666,calendar,calendar,takvimimden tüm etkinlikleri sil,tr
+8410,calendar,calendar,pazartesi akşam yemeği etkinliğimi kaldır,tr
+8912,calendar,calendar,bana bugün akşam altıdan sonraki etkinlikleri söyle,tr
+7606,calendar,calendar,can ile yarın üçte buluş,tr
+9878,play,play,lütfen benim sesli kitabıma devam et,tr
+8436,calendar,calendar,lütfen mart ayında her çarşamba öğlen on iki için yemekli toplantı ayarla,tr
+16777,email,email,cengiz'in iletişim bilgilerini göster,tr
+5958,audio,audio,lütfen konuşmayı kes,tr
+13681,qa,qa,haluk bilginer kaç oyunda yer aldı,tr
+344,weather,weather,yarın yağmurlu mu olacak,tr
+6295,general,general,trafik sıkışıklığının bu kadar uzun sürmesinden nefret ediyorum,tr
+13016,qa,qa,gafın tanımına bak,tr
+1542,weather,weather,güneş bir hayli parlak bu havayı günün geri kalan kısmında da görecek miyiz,tr
+10731,lists,lists,benim listemde ne olduğunu oku,tr
+10166,cooking,cooking,elmalı turta tarifi ara,tr
+17138,email,email,lütfen okunan mesajlarımı arşivle,tr
+997,iot,iot,oturma odasının ışığını kapat,tr
+11585,recommendation,recommendation,istanbuldaki kültürel etkinlikler,tr
+13188,news,news,delhi deki meclis seçimlerinin sonuçları nasıl çıkacak söyle bana,tr
+6618,news,news,ilginç haberler ver,tr
+14025,qa,qa,bir artı iki eşittir,tr
+11827,recommendation,recommendation,bu gece nereye gidebilirim,tr
+3568,iot,iot,kahve makinemi ayarla,tr
+6542,cooking,cooking,yumuşak peynir sert peynirden daha mı iyi,tr
+5911,music,music,müzikleri yeniden oynat,tr
+15359,social,social,apple a iphoneumun pilinin her zaman bittiği tweeti aç,tr
+13855,music,music,tarkan'ın en popüler şarkıları hangileridir,tr
+10164,cooking,cooking,makarnayı ne kadar süre pişiriyorum,tr
+15508,social,social,siri twitterı aç ve potusa berbat olduğu tweetini at,tr
+15957,email,email,yolda olduğumuzu bildirmek için aliyeye email gönder,tr
+11331,play,play,bana podcastimdeki en iyi derecelendirme alan rock şarkıları göster,tr
+100,weather,weather,haftanın hava durumu tahmini nedir,tr
+2178,weather,weather,benim muhitimde anlık hava nasıl,tr
+10996,lists,lists,aliyi kişiler listeme ekle,tr
+3654,music,music,ne tür müzik sevdiğimi düşünüyorsun,tr
+11349,play,play,olly geçen gece başladığım podcast ı başlat,tr
+6623,general,general,senin geliştiricilerin kimler,tr
+4653,audio,audio,hoparlörleri sessize al,tr
+3116,play,play,geçen yıldan benim favori parçamı çal,tr
+11368,play,play,bana ahmet in podcast ını çal,tr
+6559,general,general,hey olly kız arkadaşımı seviyor musun,tr
+14791,qa,qa,sandalye neyden yapılmış,tr
+15652,social,social,tüketici servisini şikayet etmeme yardım et,tr
+16780,email,email,arifyılmaz at gmail nokta com a email gönder,tr
+9112,calendar,calendar,bunu takvimime ekle,tr
+201,alarm,alarm,son kurduğum alarmı sil,tr
+8888,calendar,calendar,sil,tr
+6974,calendar,calendar,yarın ankara'da bir toplantım olduğunu hatırlat,tr
+16376,email,email,alexa lütfen anneme bir eposta gönder,tr
+7664,calendar,calendar,mike ile bir öğle yemeği ekle,tr
+5307,datetime,datetime,bugün yirmi mart mı,tr
+9225,play,play,radyo açabilir misin lütfen,tr
+3595,iot,iot,daha aydınlık,tr
+6672,general,general,hadi pohpohla beni,tr
+10816,lists,lists,bir çalma listesi oluştur,tr
+7122,calendar,calendar,bu etkinliği tekrarlar mısın,tr
+9121,calendar,calendar,hangi günler için rezervasyon yaptırdım,tr
+12717,transport,transport,trafik şu an nasıl,tr
+4673,alarm,alarm,lütfen tüm alarmlarımı listele,tr
+124,general,general,olly bana bir fıkra anlat,tr
+16799,email,email,öğleden beri hiç e-posta aldım mı,tr
+360,datetime,datetime,mevcut saat kaç,tr
+9520,play,play,radyo yayını yapan son doktoru çal,tr
+7292,calendar,calendar,yarın akşam dörtten altıya kadar müsait değilim takvimimi işaretle,tr
+8013,calendar,calendar,gelecek ay için benim toplantı mı göster,tr
+9528,play,play,radyo viva'yı aç ve hoparlörlerimden çal,tr
+14323,qa,qa,ejder meyvesi hangi renk,tr
+1646,alarm,alarm,bugün halen kurulu herhangi bir alarm var mı,tr
+16151,email,email,bugünün postasında toplantı programını kontrol et,tr
+16535,email,email,çağlara bir eposta yazabilirmisin,tr
+4890,calendar,calendar,türkiye deki hava felaketleri ile ilgili tüm mevcut bildirimleri kur,tr
+4477,play,play,sıradaki şarkıyı çal,tr
+8767,calendar,calendar,canan'ın doğum günü on iki nisan mı,tr
+6410,news,news,bugün fransa da neler oluyor,tr
+9270,play,play,dokuz yüz otuz yedi f.m. çal,tr
+8868,calendar,calendar,her salı sabah onda annemi aramamı anımsat,tr
+15487,social,social,mağazalarının temizliği hakkında nazar'a tweet at,tr
+12419,transport,transport,üsküdar lisesi için en hızlı rota,tr
+7711,calendar,calendar,hey benim diğer tüm toplantılarımı iptal et ve iki mart çağrılarını birkanın doğum günü olduğu için takviminde bir etkinlik olarak etiketle,tr
+12294,transport,transport,bana büyükşehir opera binasına giden tren tarifelerini göster,tr
+12710,transport,transport,taksi çağır,tr
+4173,iot,iot,elektrikli süpürgeyi çalıştır ve kullan,tr
+1425,news,news,fransa'yla ilgili bir şey duyduğunda haber ver,tr
+7919,calendar,calendar,yeni toplantı için burak ve melis i de katılımcı olarak ekle,tr
+12430,transport,transport,bana aydın a tren varış saatini bildir bana,tr
+9554,play,play,power fm de romantik bir müzik çal,tr
+17108,email,email,bana en sondaki emaili ver,tr
+15670,social,social,bir şikayet tweeti gönder,tr
+12299,transport,transport,bana bir taksi çağır olly,tr
+15948,email,email,kişileri aç ve ıclal aydını ara,tr
+14348,general,general,google insanoğlunun temel ihtiyaçları nelerdir,tr
+4496,news,news,vogue bugün ne paylaştı,tr
+3982,play,play,lütfen benim itunes kütüphanemde ilk şarkıyı seç,tr
+220,play,play,rock listemden müzik çal,tr
+9637,play,play,joyturk radyoda çalma listemi başlat,tr
+6378,general,general,bendeki veriler ve bilgilerle ne yapılabilir,tr
+1913,alarm,alarm,beni sabah beşte uyandır,tr
+2423,weather,weather,lütfen istanbul için bugünkü hava tahminini ver,tr
+1833,play,play,temalar çalma listesini döngüye alabilir misin,tr
+7966,calendar,calendar,bana bir şey hatırlatmanı söyledim mi,tr
+15304,social,social,bugün twitter'da beni takip eden oldu mu,tr
+71,music,music,ben kenan doğulu şarkılarını seviyorum,tr
+15982,email,email,bana cemrenin telefon numarasını ver,tr
+2639,news,news,bana çevreyle ilgili haberleri göster,tr
+7916,calendar,calendar,akşam altı da çöpleri atmamı hatırlat,tr
+6729,calendar,calendar,tiffany's house'da ki kahvaltıyı iptal et,tr
+9994,cooking,cooking,bulgur pilavı tarifi verir misin,tr
+10712,lists,lists,yeni bir liste oluştur,tr
+12932,transport,transport,olly bağdat caddesi için yol tarifine ihtiyacım var,tr
+4799,iot,iot,lütfen wemo prizini aç,tr
+7057,calendar,calendar,çarşamba öğle burak ile bir öğle yemeği buluşması programla,tr
+7098,calendar,calendar,benim on ikisindeki araba ödememi takvimime ekle,tr
+14705,qa,qa,okey google nesrin cavadzade nerede yaşıyor,tr
+4702,audio,audio,google lütfen hoparlörlerimi aç,tr
+6615,general,general,ebeveynlik,tr
+2548,news,news,habertürk den herhangi bir ilginç haber var mı,tr
+8110,calendar,calendar,lütfen takvimime denetim ekle,tr
+11238,lists,lists,lütfen benim için yeni bir liste yarat,tr
+1786,iot,iot,ebeveyn yatak odasını kapat,tr
+7257,calendar,calendar,lütfen bana yarım saat içinde annemi aramayı hatırlat,tr
+14330,qa,qa,ali ağaoğlu nerede doğdu,tr
+14822,qa,qa,insanlarla kıyaslamak,tr
+442,news,news,haberlerde neler oluyor,tr
+8033,datetime,datetime,paskalya hangi güne denk geliyor,tr
+11459,play,play,bu podcast ta son bölüme geri git,tr
+2724,news,news,bana c. n. n. den haberleri ver,tr
+13222,general,general,sibel can çocuklarının kıyafetlerini nereden alıyor,tr
+13077,qa,qa,murat bozun doğum günü nedir,tr
+16082,email,email,oğuz a bir eposta gönder ve ona şimdi nasıl olduğunu ve ona yardım edip edemeyeceğimi sor,tr
+8165,calendar,calendar,saat on iki buçuk senin on dakika içerisinde bir toplantın var,tr
+15399,social,social,ağla ilgili sorunlar için vodafona bir şikayet ilet,tr
+7557,calendar,calendar,takvimde bir yerleşim anımsatıcısı yap,tr
+9233,play,play,pandora'yı aç,tr
+2777,weather,weather,bugün şemsiye almalı mıyım,tr
+14933,qa,qa,bana hindistanın coğrafyası hakkında bilgiyi ver,tr
+3030,music,music,bu şarkıyı seviyorum,tr
+7978,calendar,calendar,yarın öğlenden önce için hangi hatırlatıcılar var,tr
+1807,music,music,şarkı ismi,tr
+6747,calendar,calendar,kaç tane hatırlatmam var,tr
+7181,calendar,calendar,beni perşembe sabahı altıda uyandır ki toplantı için zamanım olsun,tr
+4336,datetime,datetime,türkiye de saat kaç,tr
+5413,play,play,müzik çal,tr
+13997,qa,qa,ortalama bir ev ne kadardır,tr
+2551,iot,iot,evimdeki ışıkları yeşile çevir,tr
+3099,news,news,bana bazı güncel olayları göster,tr
+4973,play,play,olly kumralım çal,tr
+292,iot,iot,vakumlu süpürgeyi aç,tr
+322,iot,iot,prizimi etkinleştir,tr
+174,alarm,alarm,perşembe sabah yedide uyan,tr
+14317,qa,qa,amerika birleşik devletlerinin büyüklüğü nedir,tr
+9507,play,play,lütfen şu anda teoman çalan bir radyo istasyonu bul,tr
+8466,calendar,calendar,çarşamba sabah dokuzda toplantım var bana hatırlat,tr
+3598,general,general,peki ya sen,tr
+15020,qa,qa,cüneyt arkın kaç yaşında,tr
+9197,calendar,calendar,bu hafta için planlanmış neyim var,tr
+7353,email,email,sadece önümüzdeki haftalarda adana'nın hava durumunu bana bildir,tr
+3306,weather,weather,hafta için hava tahmini nasıl,tr
+10352,play,play,mfö çal,tr
+1249,weather,weather,bu hafta hava nasıl olacak,tr
+6575,general,general,bitkiler,tr
+2610,takeaway,takeaway,mc donalds siparişimi iptal etmiştim girdi mi,tr
+10909,lists,lists,olly bana listelerimi oku,tr
+11700,recommendation,recommendation,bana en yakın konumdaki kebapçının yorumlarını göster,tr
+6227,general,general,bugün işe gideceğim,tr
+6201,general,general,günüm çalışarak geçti olly,tr
+1993,iot,iot,ışıkları açabilir misin,tr
+12779,transport,transport,en yakın taksiyi ayırt,tr
+11598,recommendation,recommendation,memleketimde olan köpek gösterisi etkinliklerini bana bildir lütfen,tr
+10350,play,play,araba yarışı oynat,tr
+16924,email,email,gmailimde yeni posta olup olmadığını kontrol et,tr
+11529,play,play,hey listeden benim favori podcastimi çal,tr
+9707,play,play,medyayı aç sen ağlama'yı çal,tr
+5823,audio,audio,yüzde yirmi azalt,tr
+5488,takeaway,takeaway,eve teslimat pizza sipariş et,tr
+486,datetime,datetime,istanbul da saat kaç,tr
+6109,music,music,şarkı ile ilgili bilgi topla,tr
+16263,email,email,engin'den hiç yeni bir e-posta almış mıydım,tr
+6964,calendar,calendar,patronumla bir sonraki toplantımı gerçekleşmeden bir saat önce hatırlatabilir misin,tr
+8525,calendar,calendar,üçten beşe kadar toplantı hatırlatıcıları,tr
+11636,recommendation,recommendation,çevrede hangi filmler vizyonda,tr
+13513,qa,qa,köpeğin kaç bacağı vardır,tr
+7662,calendar,calendar,bugünkü toplantılarımı listeler misin,tr
+827,play,play,murat boz çalma listesini aç,tr
+310,datetime,datetime,bu yıl yeni yıl hangi güne denk geliyor,tr
+5301,weather,weather,yirmi mart iki bin on yedi tarihinde hava nasıl olacak,tr
+8781,calendar,calendar,öğleden sonra dörtte müsait miyim,tr
+8494,calendar,calendar,bugünkü programım nasıl görünüyor,tr
+197,datetime,datetime,saat kaç,tr
+3543,iot,iot,ışığın biraz daha kırmızımsı olmasını istiyorum,tr
+16280,email,email,lütfen aile ve arkadaş listemde olan burcuya bir eposta gönder,tr
+14490,qa,qa,atatürk kültür merkezi ne zaman inşa edildi,tr
+12558,transport,transport,lütfen bana uber'den bir taksi ayırt,tr
+3020,takeaway,takeaway,salcılar paket servis yapıyor mu,tr
+3995,datetime,datetime,ramazan bayramı haftanın hangi günü,tr
+11782,recommendation,recommendation,bu haftasonu yakınlarda herhangi bir özel etkinlik var mı,tr
+14877,qa,qa,o bölgedeki iklim koşulları nelerdir,tr
+16098,email,email,zerrin'den gelen okunmamış e-postaları kontrol et,tr
+3779,play,play,youtube playlist ten yalan ı oynat,tr
+8248,calendar,calendar,yarınki yemek tarihini takvime ekle,tr
+16089,email,email,son on dakika içinde yeni e-posta aldım mı,tr
+10406,play,play,senle benim için satranç aç,tr
+13459,qa,qa,on iki bölü dört kaç eder,tr
+13694,general,general,kişinin biyografisi,tr
+11420,play,play,benim en yeni podcast ımı çalmaya başla,tr
+11860,recommendation,recommendation,bana yerel etkinlikleri söyle,tr
+16470,email,email,lütfen bu epostayı kişilerime ekle,tr
+16050,email,email,gmail'i kontrol et,tr
+7953,calendar,calendar,benim cumartesi günü doktorum ile olan randevumu kaldır lütfen,tr
+10286,play,play,lütfen clash of clans başlat,tr
+17115,email,email,yeni e-postaların listesini oku,tr
+8978,calendar,calendar,sadece hafta boyunca patronumla yapacağım önemli toplantıları bana bildir,tr
+10093,cooking,cooking,lazanya nasıl yapılır,tr
+14444,qa,qa,şener şenin ilk filmi neydi,tr
+14101,general,general,hadise neler yapıyor,tr
+7567,calendar,calendar,doğum günü,tr
+8453,calendar,calendar,lütfen etkinliği takvimime ekle ve onu tekrar eden bir etkinlik olarak işaretle,tr
+1294,news,news,akademi ödülleri haberlerini bana hızlı haber ver,tr
+12098,recommendation,recommendation,bana yakındaki müzik etkinliklerini göster,tr
+1124,play,play,sırada nil karaibrahimgil kanatlarım var ruhumda çalmak için hazırla,tr
+13926,qa,qa,orhan pamukun doğum günü ne zaman,tr
+14190,qa,qa,bugünlerde turkcell hisseleri ne kadar,tr
+14214,transport,transport,aynısı için seyahat yollarını bul,tr
+13242,general,general,en iyi çikolatalı kurabiye tarifi ne,tr
+17111,email,email,pelinin kişi detayı,tr
+4154,iot,iot,internetimi kapat,tr
+10053,cooking,cooking,nasıl pizza yapabilirim,tr
+9361,play,play,radyo dinle,tr
+10317,play,play,bana xox aç,tr
+7380,calendar,calendar,lütfen bugün müşterilerle olan toplantıyı göster,tr
+2816,iot,iot,oturma odasının ışıklarını yüzde elliye ayarla,tr
+2225,play,play,yıldız tilbe 'den delikanlım 'ı çal,tr
+11302,play,play,son liberteryen podcast ini aç,tr
+11438,play,play,podcastin bir sonraki bölümüne git lütfen,tr
+8150,calendar,calendar,doğum günü partisi ile ilgili hatırlatıcım var mı,tr
+8985,calendar,calendar,ok google ahmetin doğum gününü takvimden sil,tr
+5009,weather,weather,bu hafta şemsiyeye ihtiyacım olacak mı,tr
+16703,email,email,en yakın tarihli emaile yanıt vermek isterim,tr
+1452,alarm,alarm,yarınki alarmı iptal et,tr
+14015,qa,qa,ekvatorun koordinatları nelerdir,tr
+6516,general,general,yoğun bir gün müydü,tr
+12526,transport,transport,starbucks için en hızlı yol hangisi,tr
+3029,music,music,ben bu şarkıdan nefret ediyorum,tr
+555,play,play,ezhel den allahından bul u çal,tr
+12532,transport,transport,oraya doğru git,tr
+5297,news,news,bana fox t. v.'den popüler haberleri ver,tr
+15731,social,social,olly türk telekoma bir mesaj tweet at ve servisimin neden kötü olduğunu sor,tr
+16899,email,email,jeffrey burnette'den hiç e-posta aldım mı,tr
+13798,qa,qa,dünyada ortalama bir ülke kaç kilometre karedir,tr
+13684,qa,qa,dolar ın türk lirası karşısında kur fiyatı ne,tr
+6229,general,general,berbat bir gün geçirdim,tr
+3674,iot,iot,mutfağın farklı renkte olmasını seviyorum,tr
+16974,email,email,lütfen gelir vergisi departmanının tüm yeni e-postalarını kontrol edin,tr
+15966,email,email,çok önemliyse cevap gönder,tr
+4248,iot,iot,ev ışıkları mavi,tr
+11954,recommendation,recommendation,benim bölgemde tiyatro nerede,tr
+8562,calendar,calendar,bugün öğleden sonra ikideki toplantımı sil,tr
+3398,alarm,alarm,lütfen akşam beş için alarmımı kur,tr
+7219,calendar,calendar,yarın için toplantı ile ilgili bir hatırlatma koydun mu,tr
+8,iot,iot,tek ihtiyacımız olan pembe,tr
+10433,lists,lists,benim görev listemi kaldır,tr
+1351,weather,weather,bu hafta hava dışarıda güzel olacak mı,tr
+13340,general,general,wolfram alpha nın yaptığı gibi araştırma sonuçlarından çıkan cevapları kompüte etmek istiyorum,tr
+10673,lists,lists,lütfen aşağıdaki listeyi kaldır,tr
+8585,calendar,calendar,on üçünde bir doğum günü partisi olduğunu hatırlat bana,tr
+5243,iot,iot,siri lütfen banyodaki ışıkları kapat,tr
+3725,datetime,datetime,bugün günlerden ne,tr
+14150,qa,qa,converse ayakkabı nedir,tr
+4272,iot,iot,kahvem soğuk lütfen daha fazla kahve yap,tr
+3103,music,music,bu şarkı yı tekrar çalma,tr
+2711,iot,iot,ışıkları kapat,tr
+5721,weather,weather,bana yarın bu bölgedeki hava durumunu söyle,tr
+8795,calendar,calendar,saklı hatırlatıcılar ı göster,tr
+4305,play,play,teoman 'dan kupa kızı ve sinek valesi şarkısını çal,tr
+11265,play,play,bir sonrakini çal,tr
+13867,qa,qa,uludağ millî parkı nerede,tr
+1579,general,general,bana basketbolla ilgili bir espri bul,tr
+6178,weather,weather,bir ceket giymeli miyim,tr
+11633,recommendation,recommendation,bugün sinemada hangi filmler gösteriliyor,tr
+10323,play,play,oynayalım,tr
+14151,qa,qa,ne tür güneş gözlükleri pilot gözlüğü olarak kabul edilir,tr
+2781,play,play,biraz caz müzik çal lütfen,tr
+5525,audio,audio,bir saat boyunca sessize al,tr
+10296,play,play,temple run oyununu benim için açar mısın lütfen,tr
+13547,general,general,cem yılmaz dün gece nerede görüldü,tr
+10846,lists,lists,şu anda nintendo anahtarını satın almak için yeterli param yok lütfen amazon istek listemden kaldırır mısın,tr
+12986,qa,qa,kaprislinin tanımına bak,tr
+1047,play,play,iyi bir ağlamaya ihtiyacım var hüzünlü rock şarkıları çalabilir misin,tr
+16593,email,email,o son emailin mümkün olan en kısa sürede yanıtlanması gerek,tr
+8394,calendar,calendar,ilaçlarımı almam için her gün öğlen bir hatırlatıcı ayarla,tr
+5475,alarm,alarm,beni sabah altıda kaldırmana ihtiyacım var,tr
+8640,calendar,calendar,yarın kütüphanedeki etkinliği takvimime not almak istiyorum,tr
+17087,email,email,sertapdan gelen yeni emailleri benim için kontrol et,tr
+2957,alarm,alarm,sabah on için alarm var mı,tr
+17043,email,email,tim at hotmail nokta com a email gönder,tr
+8765,calendar,calendar,benim takvimime bugün saat dokuz da hd iskender de akşam yemeği koy,tr
+6118,datetime,datetime,hey taksim istanbul da saat kaç,tr
+14994,qa,qa,şener şenin bundan sonraki filmi ne,tr
+9962,cooking,cooking,makarna pişirmenin en iyi yolu ne,tr
+3401,play,play,en popüler emre aydın şarkısı çal,tr
+9561,play,play,radyoda power fm'i çal,tr
+10523,lists,lists,eski ingilizce şarkılar listemi çalma listesinden sil,tr
+297,play,play,volkan konak şarkılarını karıştır,tr
+11536,play,play,çalma listesine favoriler podcasti ekle ve başla,tr
+13780,qa,qa,ibrahim kutluay evli mi,tr
+12453,transport,transport,en hesaplı tren rezervasyonu yap,tr
+13078,qa,qa,bana haluk bilginerin adresini söyle,tr
+14053,qa,qa,mehmet ali alabora hangi yılda oyunculuğa başladı,tr
+4023,news,news,haberlerde neler var,tr
+16075,email,email,john'dan gelen son e-postayı görüntüle,tr
+13064,general,general,anlayacağım dilde bana kuantum fiziğini izah et,tr
+7531,calendar,calendar,lütfen maaş günlerini ekle,tr
+2995,qa,qa,lütfen bana borsa ile ilgili haberleri söyle,tr
+17147,email,email,maile şöyle cevap ver merhaba,tr
+2496,news,news,günlük haberler,tr
+430,weather,weather,şimdi hava nasıl,tr
+5204,datetime,datetime,sabah sekiz girne saatini istanbul saatine çevir,tr
+11539,play,play,bir sonraki podcasti başlat,tr
+7613,calendar,calendar,yaklaşmakta olan etkinlik neydi,tr
+8182,calendar,calendar,dişçi randevusunu silebilir misin,tr
+15444,social,social,şirket adına iki başparmak aşağı,tr
+5370,news,news,son trump tartışması ne,tr
+738,weather,weather,bugün dışarısı ne kadar soğuk,tr
+14838,qa,qa,nötr yoğunluk filteri nedir ve ben gradyanlı olanı mı katı olanı mı isterim ayrıca stil olarak vidalanabilir olan mı yoksa kare olan mı daha iyi,tr
+4712,alarm,alarm,yarın beni uyandırma,tr
+1874,music,music,oynatılanlar listesine şarkı ekle,tr
+9103,calendar,calendar,bu öğleden sonra takvimimde bir toplantı var mı,tr
+7455,calendar,calendar,bana yarınki partiyi hatırlat,tr
+3694,alarm,alarm,yarın sabah beş otuz için alarma ihtiyacım var,tr
+6195,general,general,aklından ne geçiyor,tr
+1217,iot,iot,ışığı maviye değiştir,tr
+9519,play,play,herhangi bir pop f.m kanalı çal,tr
+13575,qa,qa,en son akademi ödüllü film ne zamandı,tr
+15857,email,email,lütfen aşağıdaki e-posta adresine gönder,tr
+5952,general,general,şimdi benim için iyi bir fıkra söyle,tr
+468,iot,iot,ışıkları loşa çevir,tr
+3784,weather,weather,kıbrıs için hava durumunu ver,tr
+12244,transport,transport,birde sinemaya gitmek için bir taksi ayarla,tr
+14356,general,general,sanırım bir günde tüm dünyayı dolaşabilirim,tr
+15592,social,social,superonline a bir şikayet tweeti at,tr
+6485,general,general,bugün ne seviyorum,tr
+5199,music,music,bu şarkıya fikrimi harika olarak ekle,tr
+9767,play,play,gezegenler sesli kitabını çal,tr
+5037,weather,weather,bugün ne kadar soğuk,tr
+10588,lists,lists,bana listenin içeriğini göster,tr
+299,weather,weather,hava nasıl,tr
+8498,calendar,calendar,tüm bekleyen hatırlatmaları gözden geçirelim,tr
+3378,iot,iot,mutfakta ışık olmasın,tr
+5406,takeaway,takeaway,h. d. iskender eve servis yapıyor mu,tr
+16222,email,email,bana nalan sden bahset,tr
+10319,play,play,benimle futbol oyna,tr
+12689,transport,transport,bugün sabah saat sekiz için istanbul haydarpaşa ya bir tren bileti ayırt,tr
+4667,datetime,datetime,şu anki saat,tr
+15203,social,social,yeni güncellemeler,tr
+10805,lists,lists,lütfen bana sahip olduğum listeyi göster,tr
+6722,calendar,calendar,hatırlamam gereken bir şey var mı,tr
+999,iot,iot,ışığı kapatır mısın,tr
+9986,cooking,cooking,kaynatmak,tr
+4838,play,play,sezen aksu 'nun bütün müziklerini çal,tr
+4271,iot,iot,şimdi kahve hazırla,tr
+4024,iot,iot,lütfen gücü kapat,tr
+9909,play,play,eylül ü oynatmayı sürdür,tr
+11162,lists,lists,elmaları listeden çıkarmak istiyorum,tr
+10150,cooking,cooking,dürüm nasıl yapılır,tr
+7655,calendar,calendar,hatırlatmaya nisanın yirmisini abimin doğum günü olarak ekle,tr
+11681,recommendation,recommendation,lütfen bana yakında olan maratonları göster,tr
+11467,play,play,yarım elma nın en son podcastini çal,tr
+5296,news,news,olly baa habertürk'ten popüler haberleri ver,tr
+5955,weather,weather,şehir kanun ve düzen açısından ne kadar güvenli,tr
+3114,music,music,bu müziği çok seviyorum lütfen bunu dans listeme kaydedip beğendimi hatırla,tr
+4826,iot,iot,lambaları pembe yap,tr
+2812,iot,iot,bana bir fincan kahve yapabilir misin,tr
+473,play,play,ceza çal,tr
+564,iot,iot,ışık rengini değiştir,tr
+2146,datetime,datetime,şu andan iki yıl sonrası için kış gündönümü hangi gün,tr
+9187,calendar,calendar,toplantıya katılacak tüm müşterileri araştır,tr
+2497,datetime,datetime,bugün hangi gün,tr
+3600,calendar,calendar,on dakika sonra bana hatırlat,tr
+7628,calendar,calendar,kütüphanedeyken bana yeni bir kütüphane kartı almam gerektiğini hatırlat,tr
+4130,alarm,alarm,dans dersi için hatırlatıcı alarmım kuruldu mu,tr
+13796,qa,qa,meksika ile birleşik devletler arasındaki döviz kuru nedir,tr
+9760,play,play,çalmayı durdur,tr
+4084,iot,iot,bir kahve yap,tr
+6013,music,music,bu radyodaki kim,tr
+2898,news,news,seçim ile ilgili hiç gelişme var mı,tr
+9691,play,play,yalan yanlış hayatlar sesli kitabını aç,tr
+4152,play,play,yıllar utansın şarkısını çal lütfen,tr
+17113,email,email,yulia ya e-posta gönder,tr
+16713,email,email,lütfen e-postalarımı kontrol et ve bana hiç yeni e-posta olup olmadığını bildir,tr
+13040,qa,qa,dokuzun karekökü nedir,tr
+1352,audio,audio,lütfen hoparlörün sesini kıs,tr
+6372,news,news,bitkilerle ilgili haberler,tr
+13199,qa,qa,matematik biliyor musun,tr
+1115,play,play,tüm pop şarkı türlerini düzenle,tr
+9494,play,play,lütfen pop şarkılar çalan bir f. m. kanalı çalabilir misin,tr
+4258,news,news,son haberler ne,tr
+3702,alarm,alarm,olly yarın için bir alarm kurdum mu,tr
+11024,lists,lists,yapılacaklar listesini sil,tr
+59,alarm,alarm,sabah yedi alarmımı iptal et,tr
+13192,qa,qa,altı yüz yirmi beşin kökü nedir,tr
+8906,calendar,calendar,takvimde diğerleri ile birlikte bir etkinlik günü oluştur,tr
+10590,lists,lists,ikinci satırı listeden kaldır,tr
+9851,play,play,kuran a geçen defa kaldığım yerden devam et,tr
+4040,play,play,en çok dinlediğim şarkıyı çal,tr
+11474,play,play,podcast serisi ne devam et,tr
+12723,transport,transport,bana aydın bileti al,tr
+2316,news,news,alexa bana manşet haberleri ver,tr
+10016,cooking,cooking,şükran günü hindisi tarifini beş cümleyle versen ne derdin,tr
+321,iot,iot,fişi çek,tr
+12553,transport,transport,bana lokasyona giden bir taksi ayarla,tr
+9591,play,play,doksan bir nokta üç f.m. de bhuli bisri yaadien programını aç,tr
+5358,datetime,datetime,mevcut saati değiştir,tr
+14355,qa,qa,sally deniz kenarında kaç tane deniz kabuğu sattı,tr
+686,datetime,datetime,şu anda aydın da saat kaç,tr
+16166,email,email,jale'ye önümüzdeki üç hafta boyunca projelerle meşgul olacağımı söyler misin,tr
+6129,news,news,beni dünya haberlerinden haberdar et,tr
+12121,transport,transport,yarım saat sonra ataköy 'e bir taksi ayarla,tr
+11075,lists,lists,kaç listem var,tr
+14967,general,general,kadınları nasıl anlarım,tr
+31,iot,iot,koridor u süpür,tr
+11418,play,play,mesut sürenin en son podcast ını çal,tr
+12254,transport,transport,bana şehir trafiğini bildir,tr
+7314,calendar,calendar,bugün için ne var,tr
+2615,weather,weather,önümüzdeki çarşamba mont giymem gerekir mi,tr
+5757,datetime,datetime,ikiye çeyrek var,tr
+11186,lists,lists,giysiler listem var,tr
+8679,calendar,calendar,bugün aziz patrick günü mü,tr
+14272,qa,qa,hey kitap nedir,tr
+5524,weather,weather,şu anki hava,tr
+366,news,news,lütfen bana en son haberleri söyle,tr
+16402,email,email,derya'ya e-postayla bugünkü planlarını at,tr
+16419,email,email,lütfen can amcaya evet yapabilirim diye bir email gönder,tr
+15794,email,email,seth nerede yaşıyor,tr
+6539,calendar,calendar,bugünü diyetimin başlangıcı olarak işaretle,tr
+1372,general,general,iyi bir espri nedir,tr
+2283,iot,iot,evimin ışıklarının rengini maviye değiştirmem gerekiyor,tr
+4930,alarm,alarm,bugün öğleden sonra üç buçukda alarmı aç,tr
+5051,alarm,alarm,yeni bir alarm kur,tr
+4874,music,music,şarkı önerisi gir,tr
+6973,calendar,calendar,yarın bursa'daki konferans için bir hatırlatıcı ekle,tr
+16763,email,email,son on dakikadaki epostalar,tr
+1808,music,music,başlık,tr
+5074,weather,weather,bu hafta hava nasıldı,tr
+8204,calendar,calendar,lütfen bana postaneye gitmemi hatırlat,tr
+12813,transport,transport,manisadan doğu ekspresi için tren bileti ayırt lütfen,tr
+15708,social,social,hizmet a hakkında şikayette bulun,tr
+16523,email,email,cemilin iletişim bilgilerini söylermisin,tr
+6562,general,general,matematik,tr
+2315,news,news,bugün hangi haberler var,tr
+2206,audio,audio,şu andan itibaren sessize al,tr
+2531,play,play,alexa arka arkaya rap ve arabesk şarkıları çal bana,tr
+3441,datetime,datetime,çarşamba ayın yirmisi mi,tr
+1803,news,news,prömiyer lig de bugün hangi takımlar oynuyor,tr
+1513,weather,weather,dışarıda sıcaklık kaç derece,tr
+14904,qa,qa,hisseler yükseldi mi azaldı mı,tr
+12293,transport,transport,izmir'e bilet,tr
+15456,social,social,pegasus'a bir tweet göndermek istiyorum çantamı kaybettiğiniz için kızgınım,tr
+13714,qa,qa,mango nedir,tr
+8469,calendar,calendar,bugün takvimimde ne var,tr
+4013,iot,iot,hadi tozları süpürelim,tr
+10895,lists,lists,listemden öğeyi sil,tr
+14539,qa,qa,bu yerin coğrafik detaylarını bul,tr
+13122,qa,qa,on faktöriyel kaçtır,tr
+13473,qa,qa,a. b. d. ne zaman özgürlüğe kavuştu,tr
+9014,calendar,calendar,lütfen yirmi üç ekimde meslektaşımla yapacağım toplantı için bir bildirim ayarla,tr
+9030,calendar,calendar,takvimden bugünkü hastane randevusunu kaldır,tr
+7168,general,general,bana yirmi altı martta yaklaşan yıllık etkinliğin ayrıntılarını verebilir misin,tr
+768,news,news,en sonki politika haberlerini söyle,tr
+3586,weather,weather,bursa'da hava nasıl,tr
+8882,alarm,alarm,bugün yedide kerem ile toplantı için alarm kur,tr
+13567,qa,qa,döviz çevirici lütfen,tr
+7013,calendar,calendar,etkinlik ne zaman başlıyor,tr
+178,news,news,bana uluslararası haberleri söyle,tr
+1458,weather,weather,bugün alanya için sıcaklık ne,tr
+13341,general,general,tercihlerimi hatırlamasını ve sorduğumda bana bir şeyler önermesini istiyorum,tr
+6785,calendar,calendar,bir sonraki anımsatıcım ne,tr
+3264,play,play,reggae müzik çal,tr
+8320,general,general,bu hafta sonu geçit töreni hakkında daha fazla bilgiye ihtiyacım var,tr
+6313,general,general,bugün buldog gördüm,tr
+2207,audio,audio,sessizce ayarla,tr
+15672,social,social,apple'a geçen hafta onarım için gönderdiğim iphone'un alınmaması hakkında tweet at,tr
+4587,play,play,benim favorilerimi çal,tr
+5439,weather,weather,gece için şemsiye lazım mı,tr
+7295,calendar,calendar,lütfen takvimimi temizle,tr
+4449,weather,weather,bugün öğleden sonra bir de yağmur yağacak mı,tr
+10756,lists,lists,alışveriş listesini temizle,tr
+6694,general,general,bugün berbat bir gün geçiriyorum eğlenmek için ne seyredebilirim,tr
+8791,calendar,calendar,bu etkinlik ile ilgili daha fazla bilgi,tr
+11303,play,play,bir sonraki rabarba podcast ını çal,tr
+5568,alarm,alarm,gelecek pazar sabah saat dokuz için alarm kur,tr
+15197,social,social,japonya ziyaretimi twitter da yayınla,tr
+5573,iot,iot,lütfen mutfaktaki aydınlığa uygun şekilde parlaklığı ayarla,tr
+3819,music,music,lütfen şu anki şarkıyı beş yıldız olarak değerlendir,tr
+15056,qa,qa,banu alkanın yeni erkek arkadaşı kaç yaşında,tr
+1454,alarm,alarm,kurulu alarmı kapat,tr
+8782,calendar,calendar,bu öğleden sonra toplantım var mı,tr
+3321,iot,iot,lütfen bir fincan kahve yap,tr
+8413,calendar,calendar,lütfen beni uyar,tr
+14029,qa,qa,amerikan doları ve avro döviz kuru nedir,tr
+3986,alarm,alarm,sabah altıya alarm kur,tr
+13391,qa,qa,kırk doların yüzde onu kaç lira,tr
+16100,email,email,lütfen iş listelemesini içeren email leri kontrol et,tr
+3481,play,play,adı verilen sanatçı tarafından okunmuş en meşhur şarkıyı çal,tr
+128,datetime,datetime,tarih ne,tr
+16938,email,email,emrenin epostasını yanıtla,tr
+9193,calendar,calendar,bu tarihi tekrarlayacak şekilde ayarla,tr
+17054,email,email,benim email kişilerime michael den gelen yeni e-posta ları da ekle,tr
+5128,transport,transport,almanya'ya seyahat biletini onayla,tr
+14599,qa,qa,döviz oranları,tr
+3406,weather,weather,on günlük tahmin nedir,tr
+41,general,general,ekran parlaklığımın statüsünü istiyorum,tr
+15166,social,social,işimi twitter da yayınla,tr
+9565,play,play,kesintisiz şarkılarla bir radyo çal,tr
+4383,weather,weather,hava yarın nasıl olacak,tr
+12685,transport,transport,trafik şu anda nasıl,tr
+9019,calendar,calendar,yirmi ila yirmi beş haziran arası toplantılar,tr
+11841,recommendation,recommendation,bu bölgede herhangi bir el sanatları fuarı var mı,tr
+9408,play,play,radyo çalmaya başla,tr
+11911,recommendation,recommendation,bu hafta sonu bu bölgede yapılan herhangi güzel bir şey,tr
+5468,weather,weather,güneş gözlüğü almam gerekiyor mu,tr
+13881,qa,qa,lütfen bana zeki müren hakkında bilgi verin,tr
+16399,email,email,hiç yeni eposta aldım mı,tr
+9380,play,play,radyo number one 'a gitmek istiyorum,tr
+15109,qa,qa,siri lütfen döviz kurlarını kontrol et,tr
+1941,iot,iot,evimi temizle,tr
+1750,iot,iot,bütün ışıkları söndür,tr
+5652,iot,iot,wemo prizini kapat,tr
+11514,play,play,olly podcastin tekrarını dinleyebilir miyiz,tr
+9943,cooking,cooking,sebzeli lazanya ne kadar sürede yapılır,tr
+16930,email,email,son e-postayı göster,tr
+4461,takeaway,takeaway,tersane ocakbaşı da sadece akşam yemeği mi var,tr
+1933,weather,weather,bu gece sıcaklık düşüşleri olacak mı,tr
+13197,general,general,keşke bana tavsiye verebilse,tr
+4112,datetime,datetime,mevcut zamanı g. m. t. den e. s. t. e çevir,tr
+11796,recommendation,recommendation,barlar sokağına yakın en uygun fiyatlı içecekler hangi barda,tr
+3912,play,play,oryantal ve folk müzik dinlemek istiyorum,tr
+2234,iot,iot,göremiyorum ışıkları aç,tr
+10472,lists,lists,mutfak listeme başlamama yardım et,tr
+16729,email,email,bob'dan gelen e-postama cevap ver yarın onları göreceğimi söyle,tr
+15488,social,social,lütfen pizzahut'a tweet at şu an teslimatımı bekliyorum numara mutsuzum,tr
+2651,news,news,bölgeden gelen son haberler ne,tr
+6424,general,general,selam günün nasıl geçiyor,tr
+6015,iot,iot,ışıkların parlaklığını azalt,tr
+1151,iot,iot,elektrikli süpürgeyi başlat,tr
+9506,play,play,olly radyo d dinleyelim,tr
+9394,play,play,hey olly radyoyu başlat,tr
+9460,play,play,doksanlardan hip hop çal,tr
+5152,music,music,lütfen iki şarkı atla,tr
+13907,qa,qa,şaşkına dönmüşün tanımını yap,tr
+17136,email,email,lütfen emaillerimi oku,tr
+1336,music,music,yıldız tilbe şarkılarını seviyorum onu çal lütfen,tr
+15676,social,social,lütfen sıralı kebapa hizmetlerine ilişkin şikayeti tweet olarak ekle,tr
+5578,weather,weather,kış sabah ında sıcak çoraplar lazım olacak bana,tr
+151,play,play,onu tekrar çal lütfen,tr
+14615,qa,qa,iki yüzü dörde böl,tr
+14154,qa,qa,afrika bilgileri,tr
+16719,email,email,bana hiç yeni e-posta alıp almadığımı bildir,tr
+8148,calendar,calendar,kendime hiç hatırlatma bıraktım mı,tr
+1533,news,news,bugün c. n. n.'de neler haber oldu,tr
+11124,lists,lists,çalışma listemdeki öğeleri listele,tr
+2386,news,news,bana en son haberleri ver,tr
+16801,email,email,fatma bana tugay hakkında herhangi bir eposta gönderdi mi,tr
+7113,calendar,calendar,bu hafta sonu şehir merkezinde herhangi bir etkinlik var mı,tr
+13722,qa,qa,amerikan doları ve japon yeni için günlük döviz kuru bilgilerini listele,tr
+9054,calendar,calendar,etkinlik hatırlatıcı salı günü mona,tr
+2167,alarm,alarm,beni yarım saat sonra kaldır,tr
+16907,email,email,jay'in telefon numarası,tr
+10508,lists,lists,liste öğesini kaldır,tr
+5201,iot,iot,ışıkları daha düşük seviyede aydınlığa kıs,tr
+4232,play,play,tarkan dan yolla yı aç,tr
+3196,iot,iot,hey olly bana bir kremalı kahve yapar mısın,tr
+4346,iot,iot,ışıkları kapat,tr
+10679,lists,lists,bugün yapılacaklar listemde ne var,tr
+1940,play,play,şarkı ismi aç,tr
+4125,takeaway,takeaway,nereden paket adana yemeği ve bir duble rakı alabilirim,tr
+11098,lists,lists,bin dokuz yüz doksan vergi listesinden kurtul,tr
+14597,qa,qa,nevşehirin nüfusu ne kadar,tr
+14690,qa,qa,ok google başkan ne demek,tr
+4887,music,music,hadise'nin şarkısı ile ilgili benim fikrimi kaydet,tr
+3683,music,music,olly bir kereden fazla dinlediğim tüm şarkıları kaydet,tr
+399,alarm,alarm,ilk alarmı sil,tr
+15321,social,social,durumuma yorum yapan var mı,tr
+7141,calendar,calendar,bu program planlanmış mı,tr
+10687,lists,lists,gösteri olayı varsa onu kaldırın,tr
+3091,datetime,datetime,pasifik standart zamanına göre saat kaç,tr
+10497,qa,qa,antalyadaki beş yıldızlı otellerin bir listesini alabilir miyim,tr
+13154,qa,qa,ayşe yılmazın telefon numarasını biliyor musun,tr
+10982,lists,lists,benim bakkal listeme hamburger koy,tr
+7503,calendar,calendar,cuma günü öğleden sonra birde ki o toplantı ankarada nerede,tr
+13223,general,general,hülya avşar neden bu kadar genç görünüyor,tr
+3435,alarm,alarm,en son alarmı sil,tr
+14304,qa,qa,pezo ve yen arasındaki oran nedir,tr
+13035,qa,qa,iki yüz bölü on nedir,tr
+333,weather,weather,bayburt'ta hava durumu nasıl,tr
+6289,weather,weather,hey bugün hava nasıl,tr
+16373,email,email,gönderi numarasının olduğu emailler aldım mı,tr
+4809,music,music,bu şarkı hakkında ne hissettiğimi hatırla,tr
+15305,calendar,calendar,herhangi bir sosyal medya bildirimim varmı,tr
+47,datetime,datetime,avustralya'da saat kaç,tr
+7878,calendar,calendar,benim takvimimi sil,tr
+5250,music,music,şarkının adı,tr
+15904,email,email,yeni e-postalarımı kontrol et ve bana onların ne hakkında olduklarını söyle,tr
+1759,news,news,başkan trumpla ilgili haberleri ver,tr
+7693,calendar,calendar,ayın yirmi birine herhangi bir şey planladım mı,tr
+10655,lists,lists,parti zamanı adlı listeyi kaldır,tr
+5523,datetime,datetime,sekiz buçuğu gtm dörtten gmt beş buçuğa çevir,tr
+11458,play,play,bir sonraki podcast bölümüne devam et,tr
+13761,qa,qa,parsek nedir,tr
+16983,email,email,bizde morgan'ın ofis numarası var mı,tr
+6496,general,general,yeni gereçler,tr
+13283,qa,qa,bill gates ne kadar para kazandı,tr
+16273,email,email,selin'e nasıl ulaşırım,tr
+12252,transport,transport,sefaköy'e giden trenler ne zaman kalkıyor,tr
+3812,audio,audio,on beş dakika boyunca sessize al,tr
+1144,play,play,bana biraz rap lazım,tr
+2780,music,music,yaklaşan konserler var mı,tr
+4957,datetime,datetime,bu ayın yirmi üçü haftanın hangi günü,tr
+4254,datetime,datetime,türkiyenin doğu kıyısında saat kaç,tr
+15298,social,social,olly sıcak sosyal medya konuları neler,tr
+10645,lists,lists,alışveriş listeme kırmızı şarap ekle,tr
+16165,email,email,cihan yanıt verdi mi,tr
+15946,email,email,kişilerde ali tunayı bul,tr
+631,news,news,boğaz kazası ile ilgili haberler için bildirim ayarla,tr
+8741,alarm,alarm,öğleden sonra ikiye alarm kur,tr
+7870,calendar,calendar,etkinliği takvimden sil,tr
+9718,play,play,hayvan çiftliği kitabını kaldığı yerden devam ettir,tr
+14406,qa,qa,motorolanın hisse senedi fiyat detaylarını ver,tr
+9577,play,play,kanalı trt fm olarak değiştir,tr
+7450,calendar,calendar,bu kişiyle program yapmak için bir toplantıya ihtiyacım var,tr
+8322,general,general,bu hafta sonu olan fuar hakkında daha fazla bilgi edinmek istiyorum,tr
+2166,alarm,alarm,yarın sabah altıya alarm kur,tr
+15587,social,social,galeriyi aç resim ismini paylaş,tr
+8107,calendar,calendar,mehmet için bir doğum günü etkinliği ayarla,tr
+14457,qa,qa,rota bul,tr
+1551,iot,iot,prizi aç,tr
+5324,takeaway,takeaway,hey eve teslimat var mı,tr
+6469,general,general,aklındaki herhangi bir şey,tr
+8949,calendar,calendar,lütfen hatırlatıcıyı kaldır,tr
+2230,iot,iot,mutfak ışığını söndür,tr
+10061,cooking,cooking,akşam yemeği için ne yapayım,tr
+7697,calendar,calendar,bunun için bir hatırlatıcı kur,tr
+5912,music,music,bu müziklerdeki şarkıları kes,tr
+4247,iot,iot,evdeki tüm ışıkları maviye çevir,tr
+1180,news,news,biden ile ilgili bugünkü en flaş haber konuları bul,tr
+16467,email,email,q kişimden hiç yeni eposta var mı,tr
+12469,transport,transport,aydına tren bileti satın al,tr
+12442,transport,transport,çarşı otoyolunda trafik durumu nedir,tr
+9043,calendar,calendar,takvimdeki yaklaşan etkinlikler,tr
+2057,music,music,o şarkıyı favori listeme koy,tr
+4692,play,play,ben güzelden anlarım şarkı sını çal,tr
+8553,calendar,calendar,takvimime sabah dokuzda ali ile yapacağım bir toplantı ekle,tr
+3101,news,news,olly haberleri aç,tr
+12818,transport,transport,kastamonu 'ya tren bileti ne kadar,tr
+12306,transport,transport,antalya 'ya bir sonraki tren için birinci sınıf bir bilet ayırt,tr
+8516,calendar,calendar,takvim öğesini sil,tr
+6959,calendar,calendar,toplantımı başlamadan bir saat önce bana hatırlat,tr
+12759,transport,transport,bursa'ya sürüş zamanı,tr
+15647,social,social,şikayet tweeti at,tr
+10346,play,play,bir oyun aç ve benimle oyna,tr
+11525,play,play,bir sonraki uygun podcasti görmek istiyorum,tr
+4347,iot,iot,çalışan ışıkları durdur,tr
+1622,music,music,şarkının açıklaması,tr
+14917,qa,qa,mazhar alansonun yeni albümü ne zaman çıkacak,tr
+10107,cooking,cooking,bir pilav tarifine ihtiyacım var,tr
+3717,play,play,lütfen benim doksanlar rap hitlerimi çal,tr
+7520,calendar,calendar,her gün öğleden sonra ikide bana öğle yemeğini hatırlat,tr
+10990,lists,lists,yapılacaklar listemden mutfağı paspaslamayı çıkar,tr
+10494,lists,lists,kalemi kırtasiyeden çıkar,tr
+15513,social,social,sosyal medyada herhangi önemli bir şey oluyor mu,tr
+6438,general,general,bugün her yerde telefonumu aradım ama bulamadım,tr
+16178,email,email,bugün hiç trendyol'dan posta geldi mi,tr
+4780,datetime,datetime,doğumgünüm bu sene yirmi yedi haziranda hangi güne denk geliyor,tr
+1832,play,play,coldplay albüm çal,tr
+17051,email,email,bana yeni eposta al,tr
+2594,news,news,en sonki çevre haberlerinden bahset,tr
+1301,news,news,biden'ın dış politikası hakkındaki haberi söyle,tr
+6732,calendar,calendar,kayınbabam ve kayınvalidemle pazar günü için buluşma hatırlatıcısı ekle,tr
+14040,qa,qa,hulk hogan ne kadar uzun,tr
+4313,weather,weather,yarın roma'da yağış var mı,tr
+15845,email,email,bu bize nasıl geldi,tr
+11502,play,play,sonraki düğmesi,tr
+369,iot,iot,ışıkları kapat,tr
+14761,qa,qa,bana papalık kelimesinin tanımını ver,tr
+1715,audio,audio,sesi yüzde elli azalt,tr
+1123,play,play,sırada zaman yok 'dan son feci bisikletin 'i çal,tr
+10513,lists,lists,bu haftanın alışveriş listesini yapmak istiyorum,tr
+4803,iot,iot,ışıkları farklı tonlara değiştir,tr
+16225,email,email,kişileri aç,tr
+11053,lists,lists,google listesinden kurtul,tr
+15651,social,social,tüketici hizmetlerine rapor gönder,tr
+9678,play,play,kuyucaklı yusuf 'u açabilir misin,tr
+15563,general,general,sorunu ortadan kaldır,tr
+6967,calendar,calendar,bu konudaki gerçekleri kontrol edebilir misin,tr
+5722,weather,weather,bu hafta için yedi günlük hava tahminini göster,tr
+1428,iot,iot,kırmızı aydınlatma istiyorum,tr
+12473,transport,transport,buradan eve nasıl gidebilirim,tr
+13604,qa,qa,cem boynerin doğduğu yeri söyle,tr
+385,news,news,yeni çağ da sansasyonel ne var,tr
+17090,email,email,kişiler lütfen,tr
+5333,datetime,datetime,ingiltere ile amerika arasındaki zaman farkı ne,tr
+8079,calendar,calendar,ekmeğin pişmesi için bir saat içerisinde bir hatırlatıcı kur,tr
+7397,calendar,calendar,önümüzdeki üç ay için planlanmış bir etkinlik var mı,tr
+11812,recommendation,recommendation,bu gece hangi filmler oynuyor,tr
+6290,general,general,ne okumamı tavsiye edersin,tr
+508,alarm,alarm,hangi alarmlar kurulur,tr
+3486,audio,audio,daha sessizce konuş lütfen,tr
+15546,social,social,papa johns'a soğuk pizza hakkında tweet at,tr
+5732,weather,weather,araba lastiklerimi yakın zamanda kar lastiklerine çevirmeli miyim,tr
+13616,qa,qa,çoğu ünlü nerede takılıyor,tr
+14605,qa,qa,gülşen bubikoğlu tarık akandan ne zaman ayrıldı,tr
+5198,music,music,bu şarkıya beş yıldız ver,tr
+11460,play,play,spor podcasti dinlemek istiyorum,tr
+8496,calendar,calendar,yarın sabahki toplantılarımı söyle,tr
+14526,qa,qa,doların fiyatı nedir,tr
+1160,weather,weather,bu hafta her bir gece ne kadar soğuk olacak,tr
+8539,calendar,calendar,bana hakkındayı hatırlat,tr
+3775,iot,iot,akıllı soketi şimdi kapatmak istiyorum,tr
+16146,news,news,bana en son gelişmeleri ver,tr
+443,audio,audio,sesi yükseltmek,tr
+14138,qa,qa,lütfen bana silindirin tanımının ne olduğunu söyle,tr
+10302,play,play,oyun kur,tr
+940,alarm,alarm,sabah alarmımı aç,tr
+8055,calendar,calendar,yedi mart randevumu sil,tr
+122,general,general,bir kikirdeme gönder,tr
+16314,email,email,sevime bir eposta gönder,tr
+258,audio,audio,seni duyamıyorum,tr
+1191,datetime,datetime,eğer tekirdağ da gündoğumu ise hatay da saat kaç,tr
+13221,general,general,ceyda düvenci güzel görünmek için neler yapıyor,tr
+3723,play,play,bu şarkıdan sonra tarkanın kedi gibi şarkısını dinlemek istiyorum,tr
+14762,qa,qa,euro karşısında dolar döviz oranları,tr
+13400,social,social,tüm arkadaşlarıma komik bir mesaj gönder,tr
+1120,news,news,siyaset te özel bir şey var mı,tr
+13934,qa,qa,genel olarak borsa nasıl gidiyor,tr
+6147,general,general,komik fıkralar bul,tr
+939,alarm,alarm,alarmımı sabah yediye kur,tr
+14147,qa,qa,battaniyeyi tanımla,tr
+12745,transport,transport,beni şimdi alması için bir uber ayarla,tr
+10078,cooking,cooking,akşam yemeği için ne pişirmeliyim,tr
+2451,datetime,datetime,yedi yüz,tr
+4205,play,play,pentagram 'dan bir 'i dinlemek istiyorum,tr
+8958,calendar,calendar,toplantı vaktini aç,tr
+12054,recommendation,recommendation,kent etrafında neler oluyor,tr
+11366,play,play,podcastte önceki bölüme geri dön,tr
+10855,lists,lists,listemi kontrol etmem gerek,tr
+3774,iot,iot,akıllı soketi devre dışı bırak,tr
+10534,lists,lists,bugün için yapılacaklar listesi nasıl,tr
+12802,transport,transport,aydın a bir tren bileti ayırt,tr
+15777,email,email,bana yeni e-postalarım olup olmadığını söyle,tr
+7055,calendar,calendar,perşembe günü sabah onbirde mehmet ile bir toplantı programla,tr
+2962,play,play,lütfen haluk levent ten bir şarkı çal,tr
+16989,email,email,lütfen halitin bana gönderdiği epostaya söyle paraya şimdi acil ihtiyacım var,tr
+7726,calendar,calendar,her pazartesi bir şey yapmam lazım bir hatırlatma kur,tr
+2309,datetime,datetime,pasifik saatine göre saat sabah yedi,tr
+5014,iot,iot,odayı daha parlak yapabilir misin,tr
+585,news,news,en son haberleri göster,tr
+16276,email,email,yeni epostalarım var mı,tr
+3118,datetime,datetime,standar doğu saati kaç şu anda,tr
+11423,play,play,otuz saniye geri git,tr
+1084,news,news,kullanıcı dostu,tr
+4798,iot,iot,her gün kahve istiyorum,tr
+6958,calendar,calendar,takvimimde hiç etkinlik kalmadığından emin ol,tr
+10076,cooking,cooking,karbonat yerine kabartma tozu kullanılabilir mi,tr
+9149,calendar,calendar,gala akşam yemeğinin kaçta başlanması bekleniyor,tr
+2165,takeaway,takeaway,akşam yemeği hazır mı,tr
+10759,lists,lists,alışveriş listemi oku,tr
+6764,calendar,calendar,bana camları yıkamam gerektiğini hatırlat,tr
+9885,play,play,sesli kuran çal lütfen,tr
+7918,calendar,calendar,takvim etkinliği mahmut özdemiri davet et,tr
+426,iot,iot,birinci prizi aç,tr
+7449,calendar,calendar,lütfen bu kişiyle bir toplantı planla,tr
+11125,lists,lists,bana satın alma siparişiyle ilgili ayrıntıları ver,tr
+914,iot,iot,lütfen ışıkları söndür,tr
+5118,play,play,ölürüm sana,tr
+14074,qa,qa,bir dolar kaç hint rupisine eşittir,tr
+11664,recommendation,recommendation,olly bir bar arıyorum iyi bir tane biliyor musun,tr
+5658,play,play,can bonomo 'dan bir müzik çal benim için,tr
+5988,iot,iot,ışıkları daha düşük ayarlara ayarla lütfen,tr
+17023,email,email,anneme e-posta at ve orada havanın nasıl olduğunu sor,tr
+5813,play,play,sessiz şarkı çal,tr
+8260,calendar,calendar,lütfen beni sadıkın doğum gününden bir gün önce uyar,tr
+7565,calendar,calendar,toplantı hatırlatma,tr
+9976,cooking,cooking,hey robot bana yahni için malzeme listesi ver,tr
+9204,play,play,radyo best fm,tr
+10843,lists,lists,sütü market listemden çıkar,tr
+4618,iot,iot,akıllı prizi etkinleştir,tr
+3623,news,news,bugün dünyada neler oluyor,tr
+5165,iot,iot,ışığın yoğunluğunu azalt,tr
+16437,email,email,lütfen bu e-postayı arkadaşıma gönder,tr
+15756,email,email,lütfen takımıma e-posta at,tr
+10757,lists,lists,alışveriş listemde hangi ürünler var,tr
+12291,transport,transport,edirne bileti,tr
+4567,news,news,nytimescom dan en son başlıkları oku,tr
+17142,email,email,en son baktığımızdan beri gelen kutumda ne var,tr
+16221,email,email,fatmanın epostasını aç ve ona haber vereceğimi yaz,tr
+3566,datetime,datetime,aydın da mevcut saat ne,tr
+14889,qa,qa,lütfen o nesneyi benim için tarif et,tr
+11427,play,play,rabarba başlat,tr
+8990,calendar,calendar,etkinlik yarat,tr
+870,music,music,görüş kaydet,tr
+5661,weather,weather,şimdi yağmurluğumu yanıma alayım mı,tr
+1617,news,news,siyaset hakkında yeni konu çıktığında beni uyar,tr
+16401,email,email,deryaya bir eposta yaz hey bugün ne yapıyorsun,tr
+16229,email,email,on iki ay içinde hangi kişiyi aramadım,tr
+13688,qa,qa,çinde en güncel döviz kuru nedir,tr
+1063,news,news,spor haberleri için saatlik bildirim ver,tr
+2850,takeaway,takeaway,papa johnsda paket servisi var mı,tr
+8336,calendar,calendar,canan ile yapacağım brunch ne zaman,tr
+4168,weather,weather,lütfen aydın'da hava durumunu kontrol edin,tr
+3413,takeaway,takeaway,siparişimin sırasını biliyor musun,tr
+15127,qa,qa,hoparlörü tanımla,tr
+660,datetime,datetime,japonya da mevcut saat,tr
+317,audio,audio,bugün konuşma,tr
+2237,news,news,en sonki uluslararası haberleri oku,tr
+12020,recommendation,recommendation,bana beş kilometre içerisinde hangi kıyafet dükkanları olduğunu söyle,tr
+9114,calendar,calendar,bu takvim etkinliği için tekrarlayan hatırlatma oluştur,tr
+11678,recommendation,recommendation,yerel bölgedeki en iyi puanlı barları bilmek istiyorum,tr
+2887,news,news,lütfen bana sabah haberlerinde hava durumu ile ilgili makaleleri göster,tr
+4137,takeaway,takeaway,hacıoğlunun paket servisi yapıp yapmadığını teyit eder misin,tr
+6968,calendar,calendar,bugün için tüm toplantıların davetlilerden confirme almam lazım,tr
+3408,weather,weather,bu hafta sonu hava güzel olacak mı,tr
+15199,social,social,ne oluyor,tr
+15113,general,general,bu yerin jeolojisi nedir,tr
+5196,news,news,brexit hakkında bilgi istiyorum,tr
+3532,datetime,datetime,lütfen zaman dilimini türkiye olarak değiştir,tr
+9110,calendar,calendar,yirmi beş mart toplu iki bin on yedi sergisi o tarihleri not et,tr
+17107,email,email,yeni epostaları kontrol et,tr
+4837,news,news,hiç haber var mı olly,tr
+8960,calendar,calendar,yaklaşan toplantı hakkında akşam uyarı vermeni istiyorum,tr
+15472,social,social,online kitapçı için bir şikayet tweeti at,tr
+3771,alarm,alarm,bana alarmları söyle,tr
+3444,datetime,datetime,saat on mu,tr
+3785,iot,iot,banyo ışığını kapat lütfen,tr
+11959,recommendation,recommendation,yakınlardaki dükkanlar hangileri söyle,tr
+6214,general,general,arkadaşımın doğum günü ne zaman olacak,tr
+9931,cooking,cooking,yumurtayı ne kadar süre haşlamam lazım,tr
+3349,audio,audio,araba nerede,tr
+9923,cooking,cooking,bir yumurtayı ne kadar kaynatmam lazım,tr
+9061,calendar,calendar,hatırlatıcılar hakkında hangi bilgilere sahibim,tr
+6061,iot,iot,kahve yap,tr
+12814,transport,transport,lütfen salı günü için antalya 'dan ısparta 'ya bir bilet ayırt,tr
+16733,email,email,bana amazon'dan gelen en son e-postaları göster,tr
+2355,music,music,müzik hangi filmden müziğin adı ne,tr
+15280,social,social,facebook,tr
+5116,alarm,alarm,herhangi bir alarm istemiyorum,tr
+185,play,play,benim şarkı listemi aç ve sıradaki üçüncü şarkıyı çal,tr
+10462,lists,lists,bir listeden kurtul,tr
+10080,cooking,cooking,birlikte köfte pişirelim,tr
+14316,qa,qa,hatay ne kadar büyüklükte,tr
+12987,general,general,konuşma şeklime göre duygularımı takip edebilir misin,tr
+765,news,news,lütfen bana en yeni sağlayıcı mdan güncel haber başlıklarını verir misiniz,tr
+3603,news,news,habertürk'den son haberler neler,tr
+10038,cooking,cooking,yemek için iyi bir fikre ihtiyacım var,tr
+5886,news,news,sıcak konu,tr
+13206,qa,qa,konum,tr
+13464,general,general,neden buradayız,tr
+9979,cooking,cooking,bana biraz yulaf pişir,tr
+14646,transport,transport,bugün new jersey için en ucuz uçak biletlerini göster,tr
+3124,play,play,benim çalma listemden rastgele parça çal,tr
+2128,iot,iot,ışık loş olmalı,tr
+6755,calendar,calendar,lütfen takvimimi temizle,tr
+8766,calendar,calendar,benim yirmi beş mart cumartesi için toplantı m var mı,tr
+1176,music,music,gül döktüm yollarına şarkısını kim söylüyor,tr
+6670,general,general,güzel ücretsiz örgü modelleri biliyor musun,tr
+9198,calendar,calendar,lütfen hatırlatıcılarımı kontrol et,tr
+3323,iot,iot,lütfen kahve cezvemi aç,tr
+8857,calendar,calendar,ceza ile yaklaşan toplantıyı hatırlat,tr
+3387,iot,iot,burayı kırmızı yap,tr
+1238,play,play,pandora,tr
+11174,lists,lists,bu cihazdaki tüm listeleri listele,tr
+16563,email,email,olly e-postamı kontrol et,tr
+11705,recommendation,recommendation,istanbul boğazı'nda bana resim sergisi göster,tr
+14973,qa,qa,hint rupisi ne karşı mevcut abd doları döviz takas oranı nedir,tr
+15785,email,email,posta kutumda yeni bir şey var mı,tr
+9961,cooking,cooking,patates kızartmak için en iyi fırın sıcaklığı ne,tr
+11140,lists,lists,liste ayarla,tr
+9321,play,play,şimdi radyo aç,tr
+6402,general,general,bana bir kaç sağlık ipucu ver,tr
+7922,calendar,calendar,görevleri aç gelecekteki etkinlikleri sil,tr
+14442,qa,qa,fiji nerede,tr
+2085,play,play,alexa bach veya schubert hariç klasik müzik dinlemek istiyorum,tr
+11168,lists,lists,listemi sil,tr
+4516,iot,iot,olly ışıkların rengini değiştir,tr
+796,alarm,alarm,alarm ayarlarımı onayla,tr
+16131,email,email,bu yeni email kişilerime eklenmeli,tr
+2914,datetime,datetime,bana bugünkü tarihi söyle,tr
+3330,general,general,bir espri duymak istiyorum,tr
+6376,recommendation,recommendation,iki bin on altıdan güzel bir iran filmi nedir,tr
+16914,email,email,bu göndericiden e-postalarım var mı,tr
+8426,calendar,calendar,bana dünden bu sabaha kadar olan güncel olaylardan bahset,tr
+10292,play,play,benimle oyun oyna,tr
+12402,transport,transport,şehri gezen bir sonraki tren buradan ne zaman kalkıyor,tr
+14253,qa,qa,migros hisseleri ne kadar,tr
+11279,play,play,podcast a git ve rabarba dan sıradaki bölüm ü çal,tr
+7844,calendar,calendar,hangi hatırlatıcıları ayarladım,tr
+6282,general,general,biraz muhabbet edelim,tr
+1510,audio,audio,işten eve gelene kadar sessiz moda al,tr
+5627,play,play,bana sezen aksu 'dan bir müzik çal,tr
+5554,music,music,bu şarkı murat bozun mu,tr
+12070,recommendation,recommendation,piazza alış veriş merkezi ne zaman açılıyor,tr
+14912,qa,qa,cumhurbaşkanı inönü nerede doğmuştur,tr
+4048,takeaway,takeaway,lütfen günaydın et lokantasının sipariş alıp almadığını öğren,tr
+9971,cooking,cooking,ısıyı ne daha iyi iletir bakır tabanlı tencere veya dökme demir,tr
+3886,alarm,alarm,şu anda listelenen herhangi bir alarm,tr
+1684,weather,weather,evet mi hayır mı yarınki hava sıcak olacak,tr
+16944,email,email,büyükanneme cumartesi günü uğrayacağız diye bir eposta gönder o zaman görüşürüz,tr
+3213,alarm,alarm,o zaman için yeni bir alarm kur,tr
+12839,transport,transport,beni eskişehir porsuk çayına götür,tr
+920,alarm,alarm,lütfen alarmımı sil,tr
+16622,email,email,bu kişiye bir e-posta gönder,tr
+4662,news,news,show tv den haberler alexa,tr
+315,audio,audio,lütfen bir saat daha sessiz ol,tr
+2753,iot,iot,bir fincan kahveye ihtiyacım var,tr
+10335,play,play,olly benimle poker oyna,tr
+7741,calendar,calendar,cumartesi için benim takvimimi kaldır,tr
+9116,calendar,calendar,toplantımı yeniden ayarlayabilir misin,tr
+1549,weather,weather,bu hafta yağmur var mı,tr
+2354,music,music,hangi tarz bir müzik bu,tr
+16103,email,email,erkek kardeşime bir email gönder ve evlilik yıldönümü de,tr
+1093,news,news,washington post web sitesine gidin,tr
+4377,weather,weather,şu anki hava durumu nasıl,tr
+2721,general,general,bana komik bir fıkra anlatır misin,tr
+936,play,play,aç ve koşu çalma listemden müzik çal,tr
+14367,general,general,dördüncü dünya savaşı çıkacak mı,tr
+3008,iot,iot,ışıkları benim için arttırır mısın lütfen,tr
+7117,calendar,calendar,on dokuzundaki etkinlikler i benim takvimimden kaldır,tr
+5948,play,play,listemden güzel bir şarkı çal,tr
+13548,iot,iot,senden t. v.' yi açmanı istiyorum,tr
+12343,transport,transport,balıkesir istasyonundan salı günü için on bin sekiz yüz seksen yedi treni saatleri nelerdir,tr
+17098,email,email,son saatte alınan e-postaları bana göster,tr
+7549,calendar,calendar,saat üçe kadar toplantı istiyorum,tr
+15554,social,social,geciken hizmetleri için lütfen dell servisine tweet at,tr
+12908,transport,transport,tren eskişehir'e ne zaman varıyor,tr
+8907,calendar,calendar,takvimde diğerleriyle etkinlikten bahset,tr
+10353,play,play,papa pear saga çal,tr
+2203,news,news,b. b. c. world başlıkları,tr
+10674,lists,lists,mevcut listeyi çöpe at,tr
+7080,calendar,calendar,takvimimdeki her şeyi iptal et,tr
+7912,calendar,calendar,alexa murat ile akşam yemeğini takvimimden kaldır,tr
+9969,cooking,cooking,safran yerine ne kullanılabilir,tr
+4136,play,play,imogen heap açabilir misin lütfen,tr
+10512,lists,lists,sırada bekleyen her şeyi listele,tr
+12261,transport,transport,önümüzde ki çarşamba veya perşembe eskişehire giden bir tren için seçeneklerin neler olduğunu söyle,tr
+17052,email,email,bebek bakıcısı ara,tr
+17135,email,email,hiç şimşek haberleriyle ilgili email var mı,tr
+14001,qa,qa,tembel hayvanlar hakkında bildiğin her şeyi söyle,tr
+14939,qa,qa,cüneyt arkın hakkında bazı ayrıntılara ihtiyacım var lütfen yardım et,tr
+2591,iot,iot,parlaklığı artır,tr
+15448,social,social,sonynin ses sorunları hakkında bir tweet gönder,tr
+13074,qa,qa,şafak sezer neden komik değil,tr
+7209,calendar,calendar,salı günü çöpü çıkarmamı hatırlatabilir misin,tr
+13407,general,general,kemik erimesine ne sebep oluyor,tr
+6127,weather,weather,şemsiye tavsiye eder misin,tr
+4654,alarm,alarm,sabah altı buçuğa alarm kur,tr
+1744,music,music,ne dersin,tr
+4273,play,play,yolla şarkısını çal,tr
+2512,iot,iot,kahve makinemi kahve yapması için nasıl ayarlayabilirim,tr
+612,alarm,alarm,lütfen gelecek cumartesi sabah sekizde uyandırma alarmını çal,tr
+15216,social,social,benim için bir şeyler tweetle,tr
+10538,lists,lists,lütfen alışveriş listemi tekrar et,tr
+13166,qa,qa,salınım yapmayı hecele ve tanımla,tr
+16266,email,email,aileme hepinizi seviyorum diyen bir eposta yaz,tr
+8977,calendar,calendar,bana bekleyen fatura ödemeleri hakkında hatırlatıcılar ayarla,tr
+296,play,play,nirvana çalma listesini çal,tr
+15950,email,email,john doe'dan gelen e-postayı yanıtla,tr
+11778,recommendation,recommendation,yakınımdaki en iyi şarap tatma barı nerededir,tr
+6878,calendar,calendar,cuma öğleden sonra iki buçukta muhasebe departmanıyla bir toplantı planla,tr
+7319,calendar,calendar,bugün öğleden sonra ikiden dörde kadar neler oluyor,tr
+6994,calendar,calendar,bana hatırlat,tr
+2647,music,music,irem derici için bir pandora kanalı oluşturur musun,tr
+7500,calendar,calendar,gelecek etkinliği silebilir misin,tr
+4486,weather,weather,bana bu hafta için hava durumu tahminlerini ver,tr
+14090,qa,qa,netaş güncel hisse senedi oranı,tr
+6411,weather,weather,önümüzdeki çarşamba hava nasıl,tr
+12634,transport,transport,aydın için bir sonraki tren ne zaman,tr
+2351,iot,iot,olly eve koyu renkler yerine açık renkli ışıklar koy,tr
+11470,play,play,benim en sevdiğim podcasti çal lütfen,tr
+5531,music,music,fondaki şarkı güzel,tr
+1870,datetime,datetime,bugün aylardan ne,tr
+13346,general,general,sadece çen çen,tr
+13023,cooking,cooking,bana tarifleri göster,tr
+1575,iot,iot,elektrik süpürgesini başlat,tr
+16446,email,email,bu göndericiden gelen yakın zamanlı email çalışmasını kontrol et lütfen,tr
+14591,qa,qa,bana televizyon devresinin tanımını ver,tr
+16766,email,email,yeni e-postaları kontrol et,tr
+15409,social,social,twitter aç şikayetimi yaz ve tüketici hizmetlerine gönder,tr
+1924,iot,iot,elektrikli süpürgeyi aç,tr
+11133,lists,lists,geçen hafta oluşturduğum konuk listesini kaldır,tr
+14668,qa,qa,xy öğesini tanımla,tr
+16717,email,email,samet'e izinli olduğumu belirten bir e-posta gönderebilir misin,tr
+8925,calendar,calendar,tüm etkinliklerimi benim takvimimden sil,tr
+5330,iot,iot,elektrikli süpürgeyi şimdi aç ve oturma odasını temizle,tr
+7289,calendar,calendar,cem ile tüm etkinlikler i kaldır,tr
+13330,qa,qa,ispermeçet balinası ne kadar büyüktür,tr
+9651,play,play,benim p. s. dört üzerinde netflix aç,tr
+10197,cooking,cooking,bana en iyi spagetti tarifini göster,tr
+5650,weather,weather,bugün akşamki hava durumunu sor,tr
+3077,iot,iot,prizi kapat,tr
+15402,social,social,ürünün berbat olduğunu tweet at,tr
+15556,social,social,bir şikayet tweet'leyelim,tr
+15518,social,social,tweet ile otokoça şikayet gönder,tr
+11650,recommendation,recommendation,hem genç sürücüler ve hem de geçici sürücüler diğer sürücülerden daha çok kaza yaparlar çünkü henüz güvenli sürüş için ihtiyaçları olan yeterli deneyim birikimine sahip değillerdir araştırmalar göstermiştir ki sürücü deneyimi trafik kazalarını azaltmada en önemli faktördür ve genç sürücüler için en güvenli zaman öğrenme sırasında gözetim altında oldukları zamandır,tr
+6431,general,general,bugün ali ile bir toplantı yaptım,tr
+2438,news,news,teknoloji haberlerini gönder,tr
+7762,calendar,calendar,hangi hatırlatıcılarım var,tr
+12381,transport,transport,aydından izmire bir tren bileti al,tr
+5258,music,music,bu şarkıyı çalma listesine ekle,tr
+10045,cooking,cooking,bana ev yapımı terbiyeli erişteli tavuk çorbası tarifi verebilir misin,tr
+2903,iot,iot,lütfen elektrik süpürgesini başlat,tr
+16532,email,email,bir arama yap,tr
+14461,general,general,google pixelin özellikleri,tr
+13135,qa,qa,kıvanç tatlıtuğun doğum tarihi ne zaman,tr
+16710,email,email,kişilerimin kaçı marmaris'te yaşıyor veya çalışıyor,tr
+5365,alarm,alarm,sabah altıya alarm kur,tr
+13215,transport,transport,benim şehir merkezindeki işime trafiğe takılmadan gidilecek en hızlı yol hangisi,tr
+14130,qa,qa,turkcellin güncel fiyatı nedir,tr
+7224,calendar,calendar,tomun evliliğinin gerçekleşeceği mekan nerede,tr
+5103,alarm,alarm,olly tüm futbol antrenmanı alarmlarını iptal et,tr
+6027,play,play,favori şarkıları aç,tr
+11166,lists,lists,google keep,tr
+2160,iot,iot,şimdi uyuyacağım,tr
+8037,calendar,calendar,bana herhangi bir zaman herhangi bir şey hatırlat,tr
+1607,datetime,datetime,istanbulda şu anki saati söyle,tr
+4851,alarm,alarm,alarmım kurulu mu,tr
+5318,play,play,lütfen sadece ece ronayın şarkılarını çal,tr
+15271,social,social,bunu facebook'uma postala,tr
+14553,general,general,küresel ısanma gerçek mi değil mi söyle,tr
+11825,recommendation,recommendation,kadın kıyafetleri için izmirde alışveriş merkezi arayın,tr
+6710,general,general,sen gerçek misin,tr
+11798,recommendation,recommendation,kütüphanedeki bir sonraki etkinlik ne,tr
+6248,general,general,kaç yaşındasın,tr
+13705,qa,qa,elektronik emisyon sistemi nedir,tr
+12213,transport,transport,buraya havaalanına bir taksi getir,tr
+6301,general,general,mumbar ne demek,tr
+290,iot,iot,elektrik süpürgesini çalıştır,tr
+8975,calendar,calendar,bugün için planlanan toplantı nedir,tr
+8004,calendar,calendar,derya benimle boşanma hakkında konuşmak istiyor lütfen ben müsait olur olmaz bir toplantı ayarlar mısın,tr
+15847,email,email,nasıl kredi alabiliriz,tr
+7499,calendar,calendar,yarınki toplantı için yeni program yap,tr
+11270,play,play,sonraki podcast ı çal,tr
+9815,play,play,sesli kitapta bu playbeki çal lütfen,tr
+15296,social,social,bana akışımdan yeni paylaşım oku,tr
+2709,play,play,olly bugün biraz hüzünlü şarkılar dinlemek istiyorum,tr
+15839,email,email,konu,tr
+14592,qa,qa,bana akıllı telefon devresinin tanımını yap,tr
+6643,general,general,bölgemdeki dijital pazarlamada en iyi ücretli işler,tr
+6064,audio,audio,bir saat boyunca konuşma,tr
+13361,qa,qa,dakikliğin tanımı nedir,tr
+10940,lists,lists,yeni bir alışveriş listesi yap,tr
+4831,audio,audio,hoparlör sesini artır,tr
+4463,datetime,datetime,mart ayında kaç cumartesi var,tr
+7542,calendar,calendar,lütfen yarın bunu bana hatırlat,tr
+1360,iot,iot,lütfen ışıkları yükselt bunda rahat değilim,tr
+1474,news,news,bugünkü spor haberleri nelerdir,tr
+14395,qa,qa,dünyanın en derin noktası neresidir,tr
+7073,calendar,calendar,benim bir sonraki etkinliğim için takvimimi araştır ve öncesinde beni bilgilendir,tr
+9700,play,play,şapka 'yı aç,tr
+12851,transport,transport,evime gidebileceğim yolları göster,tr
+10444,lists,lists,öğeyi sil,tr
+1741,music,music,hey olly bana şu anda çalan bu şarkının ismini söyle lütfen,tr
+6050,weather,weather,daha sonra güneş kremine ihtiyacım olacak mı,tr
+437,play,play,dini sohbetler klasörünü aç,tr
+3852,weather,weather,şu anda elmadağ için hava nasl olacak,tr
+10927,lists,lists,listemi duymama izin ver,tr
+6572,general,general,erkek arkadaşın var mı,tr
+11273,play,play,j. k. rowling'in harry potter'ının bir sonraki bölümünü çal,tr
+14963,general,general,internet lütfen,tr
+12409,recommendation,recommendation,en yakın benzin istasyonu nerede,tr
+2959,iot,iot,robot süpürgeyi başlat,tr
+16642,email,email,seda dan gelen herhangi bir şey için epostayı kontrol et,tr
+14770,qa,qa,bana dünyanın en büyük okyanusunu söyle,tr
+9980,cooking,cooking,bugün menü nedir ona haşlanmış sebzeler de ekle,tr
+14926,qa,qa,beko hisse senedi satın almak ne kadara mal olur,tr
+15454,social,social,atlas globale tweet at ve bagajımı kaybettikleri için kızgınım de,tr
+9545,play,play,haber galeri programını,tr
+9015,calendar,calendar,takvimimdeki tüm etkinlikleri temizle,tr
+3562,play,play,kedi gibi yi çal,tr
+4710,datetime,datetime,bu yıl cadılar bayramı hangi gün,tr
+14000,qa,qa,tembel hayvanı tarif et,tr
+16583,email,email,şirket çalışanımın ev telefonu numarası var mı,tr
+8762,calendar,calendar,bu öğleden sonra için benim programımı söyle,tr
+4671,music,music,bu şarkıdan gerçekten zevk alıyorum,tr
+10770,lists,lists,alışveriş listemden mısır gevreğini çıkar,tr
+5006,alarm,alarm,alarmlarım hangi saatlere kurulu,tr
+7539,calendar,calendar,şu anda devam etmekte olan bir şeyim var mı,tr
+12951,qa,qa,dünyanın en yüksek binası hangisidir,tr
+16048,email,email,son emailleri göster,tr
+10832,calendar,calendar,olly sonrası için ne planladım,tr
+15358,social,social,olly iphoneum çalışmıyor diye applea tweet at,tr
+10260,play,play,benimle tavla oyna,tr
+12511,transport,transport,seyahat tren bileti ayırt,tr
+5427,datetime,datetime,şu an türkiye de saat kaç,tr
+2322,weather,weather,hava yarın nasıl,tr
+12835,transport,transport,bu yere tren saat kaçta kalkıyor,tr
+14498,qa,qa,akıllı telefonun tanımını ver,tr
+4871,weather,weather,hava dışarıda nasıl,tr
+2373,music,music,şarkı bilgisi,tr
+11665,recommendation,recommendation,olly birkaç defile arıyorum bir kaç kilometre yakında giyim mağazaları bulabilir misin,tr
+10853,lists,lists,şunu oradan çıkar,tr
+832,weather,weather,merhaba yarın için hava tahmini ne olacak,tr
+17042,email,email,john at gmail nokta com'a bir e-posta yaz,tr
+7232,calendar,calendar,gelecek haftaki etkinlikler neler,tr
+11915,iot,iot,bana içecek lazım,tr
+2542,iot,iot,yatak odası ışıklarını kırmızı ve salon ışıklarını normal renk yap lütfen,tr
+10023,cooking,cooking,kuzu külbastı yapmak için neye ihtiyacım var,tr
+15231,social,social,goa fotoğraf gezim instagramda yayınla,tr
+5433,weather,weather,daha sonra yağmur yağacak mı,tr
+63,alarm,alarm,alarmlarımı söyle,tr
+10792,lists,lists,bir liste yapmam gerek,tr
+6683,news,news,ekonomik işler,tr
+456,iot,iot,yatak odası ışıklarını yeşile çevir,tr
+13927,qa,qa,lebron james in değeri ne,tr
+14701,qa,qa,heartstone kâğıt oyununu tanımla,tr
+6761,calendar,calendar,takvimimden sabah dokuzdaki toplantıyı kaldır,tr
+7863,calendar,calendar,bana bu öğleden sonra beşte akşam yemeğine başlamam gerektiğini hatırlat,tr
+6385,general,general,gelecekte hangi özellikleri yayınlamayı planlıyorsun,tr
+6850,calendar,calendar,bugünkü programımı listele,tr
+14792,recommendation,recommendation,bana yakın bir yürüyüş yolu nerededir,tr
+7291,calendar,calendar,yarın sabah ondan bir saat sonrasını engelle,tr
+14315,general,general,bu olay tarihteki en önemsiz mi yoksa en önemli bir durum mu,tr
+7258,calendar,calendar,bana bir saat sonra patrona e-posta göndermeyi hatırlat,tr
+6077,news,news,bugünün en son dünya haberlerini duymakistiyorum,tr
+13741,qa,qa,türkiye için döviz takas oranları nedir,tr
+13370,qa,qa,dört ve altı sayılarının toplamı kaç,tr
+5812,audio,audio,varsayılan ses ayarı yap,tr
+8856,calendar,calendar,tüm etkinlikleri takvimden sil,tr
+4896,iot,iot,tepe lambalarını azalt,tr
+4361,play,play,bana birkaç iyi ses ver,tr
+11437,play,play,lütfen benim için podcast çal,tr
+14096,qa,qa,toros dağları nerede,tr
+9095,calendar,calendar,bu akşamki canan ile yemeği kaldır,tr
+8294,calendar,calendar,takvime ekle ve tekrarla,tr
+11180,calendar,calendar,parti planlamam,tr
+13491,general,general,bu hafta sonu kazanan piyango sayılarını ver lütfen,tr
+5640,datetime,datetime,tarihi göster,tr
+11172,lists,lists,bana tüm mevcut listeleri ver,tr
+931,music,music,bu şarkıyı beğeniyorum lütfen kaydet,tr
+14170,qa,qa,şeyma subaşı converse giyiyor mu,tr
+7000,calendar,calendar,yeni etkinlik,tr
+13115,qa,qa,nijeryanın başkenti neresidir,tr
+9384,play,play,trt radyoyu aç,tr
+14859,qa,qa,bir ingiliz sterlini ile döviz kuru nedir,tr
+6034,iot,iot,kahve,tr
+15802,email,email,jason'a bu gece gelmeyeceğime dair bir e-postayı yanıtla,tr
+14958,general,general,bak,tr
+6682,news,news,seçimler yaklaşıyor,tr
+5134,play,play,arabesk çalma listemden şarkılar bul,tr
+13101,qa,qa,bir artı bir nedir,tr
+13858,qa,qa,bana şu anda apple hisse senetlerini listele,tr
+2717,play,play,sarı odaları dinlemek istiyorum,tr
+391,play,play,benim playlist ten bir rastgele şarkı aç,tr
+9237,play,play,radyoyu aç ve yüz altı nokta dokuz kanalını çal,tr
+8939,calendar,calendar,aylanın kızının hediye partisi,tr
+14023,qa,qa,cehennemi tarif et,tr
+8880,calendar,calendar,yarınki toplantı için sabah dokuzda bir hatırlatıcı ayarla,tr
+9202,play,play,benim radyo istasyonumu aç,tr
+16880,email,email,toplantı ile ilgili mehmete email gönder,tr
+14283,qa,qa,bana ankaradan bahset,tr
+5966,takeaway,takeaway,lütfen bana biraz yiyecek sipariş et,tr
+15208,social,social,merhaba facebooktaki herkes diye paylaşım yap,tr
+8674,calendar,calendar,sabah dokuzdaki toplantım nerede,tr
+2983,alarm,alarm,kurulu alarmı kaldır,tr
+1904,news,news,bana maçın önemli anlarını getir,tr
+448,iot,iot,kahve makinesini çalıştır,tr
+4985,music,music,şu anda çalmakta olan şarkı ile ilgili fikri ve bu şarkıyı hangi oynatıcın tarafından desteklendiğini kaydetmek istiyorum,tr
+16559,email,email,melihe bu sabah gönderdiği emailden dört yüz otuz cevabı ile bir yanıt gönder,tr
+5930,news,news,huffington post'dan herhangi bir son dakika haberi,tr
+7847,calendar,calendar,kayıtlar açıldığında beni uyar,tr
+4881,datetime,datetime,mevcut yerel zamanı ve zaman dililmini ara,tr
+16357,email,email,tugay bana mühimmat hakkında eposta gönderdi mi,tr
+8100,email,email,yeniden planlamak için randevularımı epostayla gönder,tr
+3338,weather,weather,niğde için hava durumunu ver,tr
+11903,recommendation,recommendation,yerel mağazalar ara,tr
+2198,datetime,datetime,dört aralık bin dokuz yüz seksen iki haftanın hangi günüydü,tr
+15815,email,email,emilia'nın iş telefonu numarası kaç,tr
+2605,play,play,benim favori şarkımı çal,tr
+3714,play,play,benim çalma listemi en sondan başlayarak çal,tr
+7981,calendar,calendar,toplantı öncesi bir uyarı gönder,tr
+3761,alarm,alarm,beni sabah sekizde kaldır,tr
+10851,lists,lists,benim mevcut listelerim neler,tr
+14339,general,general,çin e karşı hindistan ile ilgili bana ekonomi ve g.d.p bilgisi ver,tr
+14508,qa,qa,lütfen en sonki george r. r. martin ice and fire kitabını özetle,tr
+407,play,play,bir saat sonra rock müzik çalabilir misin,tr
+17005,email,email,lütfen yeni epostaları kontrol et,tr
+4772,datetime,datetime,bana bu zaman dilimi ni söyle,tr
+2560,play,play,rastgele müzik çal,tr
+7993,calendar,calendar,tüm etkinlikleri benim takvimimden sil,tr
+13717,qa,qa,rusyayı gerçekten alaska dan görebiliyor musun,tr
+2679,weather,weather,sıcaklık aynı mı kalacak yoksa soğuyacak mı,tr
+9291,play,play,çal,tr
+9035,calendar,calendar,raci nikah hatırlatıcı,tr
+4186,datetime,datetime,hey olly saat kaç,tr
+12383,transport,transport,rezerve etmek için bir taksi bul,tr
+6515,general,general,bugün gününüz nasıl geçti,tr
+8129,calendar,calendar,hala hangi hatırlatıcılarım var,tr
+17148,email,email,alexa aşağıdaki içerikle postayı yanıtla merhaba,tr
+3162,alarm,alarm,kurduğum alarmlarımı göster,tr
+16162,email,email,cevap gönder,tr
+8058,calendar,calendar,bugün satış toplantım var mı,tr
+512,weather,weather,gündoğarken tarafından,tr
+13467,general,general,hukuk danışmanlığı verebilseydin harika olurdu,tr
+7890,calendar,calendar,bugünkü saç kesimini temizle,tr
+16648,email,email,lütfen benim için emaillerimi kontrol et,tr
+5600,takeaway,takeaway,yemek fiyatını ve hepsini kontrol et,tr
+16603,email,email,yarım saat önce annemden gelen emailde ne diyor,tr
+11920,recommendation,recommendation,bu hafta hangi filmler çıkıyor,tr
+2035,takeaway,takeaway,olly yemek nerede,tr
+5529,weather,weather,saat kaçta yürüyüşe çıkmalıyım,tr
+3117,play,play,grup seksendörtün akıyor zaman albümünden bir şey çal,tr
+12999,qa,qa,nükhet duru kaç yaşında,tr
+4236,datetime,datetime,halen öğleden sonra mı,tr
+8681,calendar,calendar,herhangi birinin doğum günü mü,tr
+27,iot,iot,burası çok pis biraz gürültü yap,tr
+9341,play,play,alexa radyo istasyonunu değiştir,tr
+2611,weather,weather,şu anki hava durumu,tr
+7768,calendar,calendar,lütfen dört şubatta öğleden sonra ikide merkez parkta antrenman ekle,tr
+4982,general,general,gelmiş geçmiş en komik fıkra hangisi,tr
+8073,calendar,calendar,çarşamba için saat öğleden önce on birde bir satış toplantısı planla,tr
+7778,calendar,calendar,bana pazar öğleden sonra ne yapacağımı hatırlat,tr
+7946,calendar,calendar,mersin de yaklaşan konserler neler,tr
+8846,calendar,calendar,bu yıl yirmi dokuz ekim için herhangi bir planım var mı,tr
+7569,calendar,calendar,yarını planla,tr
+6737,general,general,olly yarın izinliyim,tr
+4933,weather,weather,şimdi yağmur yağacak mı,tr
+1774,alarm,alarm,alarmı kapa,tr
+9362,play,play,radyo kanalları,tr
+9977,cooking,cooking,lütfen internet araması yapıp italyan yemekleri pişirmek için uygun youtube videoları göster,tr
+10355,play,play,satranç aç,tr
+11616,recommendation,recommendation,bu akşam şehir merkezinde bir etkinlik var mı,tr
+329,play,play,yaz dostum,tr
+8867,alarm,alarm,olly anımsatıcı için alarm kur,tr
+4177,news,news,bana dünyadaki son politik haber başlıklarını ver,tr
+9353,play,play,biraz müzik başlat radyo çal,tr
+7026,recommendation,recommendation,bu hafta ilçemde hangi etkinlikler oluyor,tr
+5707,play,play,benim favorilerimi dinle,tr
+11384,play,play,lütfen internetteki podcast dosyamı indirip bir kez oynatabilir misin,tr
+15736,social,social,bir şirket hakkında olumsuz bir değerlendirme yükle,tr
+8651,calendar,calendar,beni takvimimdeki bir etkinlik için uyar,tr
+8694,calendar,calendar,etkinlik volkan ve gamzeyi içerecek,tr
+13819,qa,qa,bugün dow jonesa ne oldu,tr
+1653,weather,weather,bir sonraki yağmur ne zaman,tr
+1640,audio,audio,sesi aç olly,tr
+2108,play,play,sırada suspus u çal,tr
+11490,play,play,podcastteki sonraki programı çal,tr
+17019,email,email,son e-postaya bir yanıt yaz,tr
+6856,calendar,calendar,yarın sabah ondaki toplantı için bana bir hatırlatma bildirimi ver,tr
+334,weather,weather,izmir'deki hava durumunu öğrenmek istiyorum,tr
+279,weather,weather,adana için bugünkü hava nasıl,tr
+2414,takeaway,takeaway,michael's pizzadan bir pizza sipariş etmek istiyorum,tr
+4043,iot,iot,elektrik süpürgesini çalıştır,tr
+9617,play,play,bana sabahları yayınlanan ekonomi ekoloji şovları çal,tr
+12905,transport,transport,sabah dokuzda bir taksi rezerve et lütfen,tr
+3167,iot,iot,yatak odamın ışığını söndür,tr
+12452,transport,transport,beni havaalanına uberle götür,tr
+14071,general,general,dün ne giydiğimi söyle,tr
+15598,social,social,şirket ismini aç ve şikayetler bul,tr
+16672,email,email,ben irtibata girdi mi,tr
+3907,play,play,geçen yılın hitleri ni çal bana,tr
+12127,transport,transport,pazar günü sabah saat beşte trenle aksaray'a gitmem gerekiyor,tr
+4244,iot,iot,olly bana kahve yapmak için kahve makinesini aç,tr
+8822,recommendation,recommendation,gelecek etkinlikler için bilgi,tr
+219,weather,weather,yarın şemsiye getireyim mi,tr
+9592,play,play,erkek sorunları ele alan podcastler ara,tr
+962,iot,iot,ışıkların parlaklığını artır,tr
+16613,email,email,patrona geç kalacağımı söyleyen eposta gönder,tr
+13734,qa,qa,boyner hissesi kaça gidiyor,tr
+13639,qa,qa,geçen hafta turkcell hisse senedi değerindeki artış nedir,tr
+8825,calendar,calendar,bana gelecek cuma erdal ile olan görüşmemin bir hatırlatıcısını kur,tr
+2921,news,news,bloomberg web sitesindeki haberler neler,tr
+15124,qa,qa,bir dolara kaç avro alabilirim,tr
+3750,news,news,olly sel ile ilgili yeni bir haber çıkarsa hemen haber verir misin,tr
+1710,music,music,rock modunu değiştir,tr
+15553,social,social,lütfen daikin servisine olumsuz yanıt tweeti,tr
+11353,play,play,bana podcastleri göster,tr
+16427,email,email,bugün kaç yeni eposta aldım,tr
+13150,general,general,benle karım için özel bir şeyler pişirir misin,tr
+3305,weather,weather,bu hafta miami için hava nasıl,tr
+6093,weather,weather,arabanın üstünü açmalı mıyım,tr
+15841,email,email,oğuz'a yeni bir e-posta oluştur,tr
+13744,general,general,lütfen cam üfleme ile ilgili vikipedi makalesini getir,tr
+6213,general,general,hey bana bugünkü toplantılarımdan daha fazla bahset,tr
+10399,play,play,lütfen satranç aç ve benimle oyna,tr
+3174,play,play,müzik çalma listesi çal,tr
+11189,lists,lists,listeyi bul,tr
+7355,calendar,calendar,bana saat altıda yemeği kontrol etmem gerektiğini hatırlat,tr
+6024,weather,weather,bugün işe mont veya hırka götürmem gerekir mi,tr
+14417,qa,qa,kıtamıza hangi okyanus bitişiktir,tr
+8828,calendar,calendar,takvim deki etkinlik doğru mu,tr
+4813,datetime,datetime,başka bir şehir de saat kaç,tr
+15560,social,social,facebooka yaz acıktım,tr
+6582,general,general,selam sana,tr
+9955,cooking,cooking,bana bir kızarmış tavuk hazırlama videosu göster,tr
+13592,qa,qa,türkiye haritada nerededir,tr
+14505,qa,qa,rusyanın şu anki başbakanı kim,tr
+5856,iot,iot,akıllı prizi kapat,tr
+3127,general,general,bu ay kaç kere kasırga çıktı,tr
+13683,qa,qa,ali ağaoğlu hangi marka saç spreyi kullanıyor,tr
+4312,weather,weather,paris'te hava on dereceden az mı olacak,tr
+15561,general,general,lütfen konuyla ilgilen,tr
+5691,music,music,atiye,tr
+6902,calendar,calendar,gelecek ay yağ değişimim için bir hatırlatıcı ayarla,tr
+11905,recommendation,recommendation,olly bana bu hafta sonu olduğum yerdeki aktivitelerden bahset,tr
+1683,weather,weather,yarınki hava sıcak olacak evet mi hayır mı,tr
+1830,takeaway,takeaway,baharatlı bir şeyler almak istiyorum,tr
+11417,play,play,sıradaki bölüm ü başlat,tr
+1994,play,play,benim itunes 'ümü açabilir misin,tr
+1061,news,news,beni spor haberlerinden haberdar et,tr
+11990,recommendation,recommendation,sinemalarda kötü olmayan bir film,tr
+12367,transport,transport,söke ye en iyi yol hangisi,tr
+4031,play,play,doksanlar dans müzikleri çal,tr
+216,weather,weather,bugün hava nasıl,tr
+1636,news,news,bana hürriyetten en son haberleri göster,tr
+3967,play,play,rap,tr
+10640,lists,lists,satın almam gerekenler listesine deterjan ekle,tr
+6473,general,general,bugün hava kötüydü,tr
+4299,iot,iot,ışığı burada daha kırmızı yap,tr
+5219,audio,audio,lütfen hoparlörün sesini azalt,tr
+2588,news,news,en son halk tv haberleri nedir,tr
+2927,datetime,datetime,artvin de saat kaç,tr
+8967,calendar,calendar,eşimin doğum gününden iki gün önce bana hatırlat,tr
+12675,transport,transport,trafik az mı,tr
+4132,weather,weather,bugün için niğde aksaray da yağmur ihtimali oranını bildir bana,tr
+9088,calendar,calendar,takvimimdeki her şeyi sil,tr
+9406,play,play,benim power turk radyo kanalımı başlat,tr
+9674,play,play,benim favori tarzan sesli kitabımı çalabilir misin,tr
