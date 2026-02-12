@@ -1,12 +1,12 @@
 from datasets import load_dataset
 
-
 # English (en), Spanish (es), Italian (it), Afrikaans (af), Portuguese (pt), French (fr), Dutch (nl), German (de), Turkish (tr), Indonesian (id), Swedish (sv), and Tagalog (tl).
 languages = ["en", "es", "it", "af", "pt", "fr", "nl", "de", "tr", "id", "sv", "tl"]
 splits = ["train", "validation", "test"]
 
 # Load the dataset
 for language in languages:
+    # Load the dataset from the Hugging Face Hub
     dataset = load_dataset("mteb/amazon_massive_scenario", language)
     
     for split in splits:
