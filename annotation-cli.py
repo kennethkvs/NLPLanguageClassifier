@@ -1,9 +1,22 @@
 import csv
 import os
 import platform
-import time
 from datetime import datetime
 
+languages = {
+    "en": "English", 
+    "es": "Spanish", 
+    "it": "Italian", 
+    "af": "Afrikaans", 
+    "pt": "Portuguese", 
+    "fr": "French", 
+    "nl": "Dutch", 
+    "de": "German", 
+    "tr": "Turkish", 
+    "id": "Indonesian", 
+    "sv": "Swedish", 
+    "tl": "Tagalog"
+}
 annotators = {0:'Elite', 1:'Ishpreet', 2:'Kenneth', 3:'Tania'}
 
 def clear_console():
@@ -21,19 +34,18 @@ def clear_console():
 def get_annotator():
     print(
     '''
-        Welcome to the annotation CLI!
+    Welcome to the annotation CLI!
 
-        Please select an annotator from the following List (0-3):
-        0: Elite
-        1: Ishpreet
-        2: Kenneth
-        3: Tania
-        ''')
+    Please select an annotator from the following List (0-3):
+    0: Elite
+    1: Ishpreet
+    2: Kenneth
+    3: Tania
+    ''')
 
     annotator_id = int(input("Enter the annotator ID: "))
 
-    print("Are you working on the multiple annotator task? (y/n)")
-    is_multiple_annotator_task = input().lower() == 'y'
+    is_multiple_annotator_task = input("Are you working on the multiple annotator task? (y/n) ").lower() == 'y'
 
     return annotator_id, annotators[annotator_id], is_multiple_annotator_task
 
@@ -46,10 +58,27 @@ def get_data(annotator_name):
     return data
 
 def annotate_data(item, annotator_id):
-    print(f"Text: {item['text']}")
-    label = input("Enter the label for this text: ")
-    item[f'a{annotator_id}'] = label
-    return item
+    print(f'''
+    Please read the following text and provide a label for it based on the language it is written in.
+          
+    Type 's' or 'stop' to end the annotation session. The possible labels are:
+    en: English          af: Afrikaans          nl: Dutch              id: Indonesian
+    es: Spanish          pt: Portuguese         de: German             sv: Swedish
+    it: Italian          fr: French             tr: Turkish            tl: Tagalog
+
+    Text: {item['text']}\n
+    ''')
+
+    while True:
+        label = input("Enter the label for this text: ")
+        if label.lower() in ['s', 'stop']:
+            print("Ending the annotation session. Thank you for your work!")
+            exit()
+        if label in languages:
+            item[f'a{annotator_id}'] = label
+            return item
+        else:
+            print("Invalid label. Please enter a valid label from the list.")
 
 def write_annotated_data(item, current_datetime, writefile_path):
     # Get the current local date and time as a datetime object
@@ -61,8 +90,7 @@ def main():
     print(f"Annotator ID: {annotator_id}, Annotator Name: {annotator_name}")
 
     data_to_annotate = get_data(annotator_name)
-    print(f'Are you ready to start annotating? (y/n)')
-    ready = input().lower()
+    ready = input('Are you ready to start annotating? (y/n) ').lower()
 
     if is_multiple_annotator_task:
         writefile_path = f'data-annotation/Multiple/sessions/'
@@ -78,8 +106,7 @@ def main():
         # Annotate each item and write to a separate file
         for item in data_to_annotate:
             clear_console()
-            print()
-            print()
+            print('\n\n') # Add an extra line break for better readability in the console
 
             annotated_item = annotate_data(item, annotator_id)
             write_annotated_data(annotated_item, current_datetime, writefile_path)
