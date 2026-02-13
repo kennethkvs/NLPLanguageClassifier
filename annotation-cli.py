@@ -102,7 +102,7 @@ def main():
         # Create file & write header
         current_datetime = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
         with open(f'{writefile_path}{current_datetime}.csv', 'a', encoding='utf-8') as f:
-                f.write(f"id,text,a0,a1,a2,a3\n")
+            f.write(f"id,text,a0,a1,a2,a3\n")
 
         # Annotate each item and write to a separate file
         for item in data_to_annotate:
