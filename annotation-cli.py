@@ -87,15 +87,16 @@ def write_annotated_data(item, current_datetime, writefile_path):
 
 def main():
     annotator_id, annotator_name, is_multiple_annotator_task = get_annotator()
-    print(f"Annotator ID: {annotator_id}, Annotator Name: {annotator_name}")
-
-    data_to_annotate = get_data(annotator_name)
-    ready = input('Are you ready to start annotating? (y/n) ').lower()
+    print(f"Annotator ID: {annotator_id}, Annotator Name: {annotator_name}, Multiple Annotator Task: {is_multiple_annotator_task}\n")  
 
     if is_multiple_annotator_task:
         writefile_path = f'data-annotation/Multiple/sessions/'
+        data_to_annotate = get_data('Multiple')
     else:
         writefile_path = f'data-annotation/{annotator_name}/sessions/'
+        data_to_annotate = get_data(annotator_name)
+
+    ready = input('Are you ready to start annotating? (y/n) ').lower()
 
     if ready == 'y':
         # Create file & write header
