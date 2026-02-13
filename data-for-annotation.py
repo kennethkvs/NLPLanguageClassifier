@@ -15,7 +15,7 @@ for language in languages:
 
 for annotator_id, annotator_name in annotators.items():
     with open(f'data-annotation/{annotator_name}/annotation_data.csv', 'w', encoding='utf-8') as f:
-        f.write("id,text,a0,a1,a2,a3,a4\n")
+        f.write("id,text,a0,a1,a2,a3\n")
         all_data = []
 
         # For each language, get the corresponding data for the annotator
@@ -27,4 +27,4 @@ for annotator_id, annotator_name in annotators.items():
 
         # Write the data into the csv file
         for item in all_data:
-            f.write(f"{item},,,,,\n")
+            f.write(f"{item},,,,\n")
