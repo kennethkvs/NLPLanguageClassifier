@@ -72,11 +72,10 @@ def annotate_data(item, annotator_id):
     while True:
         label = input("Enter the label for this text: ")
         if label.lower() in ['s', 'stop']:
-            print("Ending the annotation session. Thank you for your work!")
-            exit()
+            return item, True
         if label in languages:
             item[f'a{annotator_id}'] = label
-            return item
+            return item, False
         else:
             print("Invalid label. Please enter a valid label from the list.")
 
@@ -84,6 +83,20 @@ def write_annotated_data(item, current_datetime, writefile_path):
     # Get the current local date and time as a datetime object
     with open(f'{writefile_path}{current_datetime}.csv', 'a', encoding='utf-8') as f:
         f.write(f"{item['id']},{item['text']},{item['a0']},{item['a1']},{item['a2']},{item['a3']}\n")
+
+def save_session_data(writefile_path, current_datetime, initial_data, annotator_name):
+    with open(f'{writefile_path}{current_datetime}.csv', 'r', encoding='utf-8') as session_file:
+        reader = csv.DictReader(session_file)
+        annotated_data = list(reader)
+        with open(f'data-annotation/{annotator_name}/annotation_data.csv', 'w', encoding='utf-8') as original_file:
+            fieldnames = ['id', 'text', 'a0', 'a1', 'a2', 'a3']
+            writer = csv.DictWriter(original_file, fieldnames=fieldnames)
+            writer.writeheader()
+            for item in initial_data:
+                for annotated_item in annotated_data:
+                    if item['id'] == annotated_item['id']:
+                        item.update(annotated_item)
+                writer.writerow(item)
 
 def main():
     annotator_id, annotator_name, is_multiple_annotator_task = get_annotator()
@@ -106,11 +119,24 @@ def main():
 
         # Annotate each item and write to a separate file
         for item in data_to_annotate:
+            if item[f'a{annotator_id}'] != '':
+                continue
+
             clear_console()
             print('\n\n') # Add an extra line break for better readability in the console
 
-            annotated_item = annotate_data(item, annotator_id)
+            annotated_item, is_stopping = annotate_data(item, annotator_id)
             write_annotated_data(annotated_item, current_datetime, writefile_path)
+
+            if is_stopping:
+                print("Stopping the annotation session...")
+                save_session_data(writefile_path, current_datetime, data_to_annotate, annotator_name)
+
+                print("Session data saved successfully!")
+                exit()
+
+        print("Annotation session completed for all items. Saving the session data...")
+        save_session_data(writefile_path, current_datetime, data_to_annotate, annotator_name)
 
         print("Annotation completed and saved successfully!")
         exit()

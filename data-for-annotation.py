@@ -11,8 +11,9 @@ for language in languages:
     with open(f'dataset/train/{language}_train.csv', 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
-            data[language].append(f'{row["id"]},{row["text"]}')
+            data[language].append(f'{row["text"]}')
 
+unique_id = 0
 for annotator_id, annotator_name in annotators.items():
     with open(f'data-annotation/{annotator_name}/annotation_data.csv', 'w', encoding='utf-8') as f:
         f.write("id,text,a0,a1,a2,a3\n")
@@ -27,4 +28,5 @@ for annotator_id, annotator_name in annotators.items():
 
         # Write the data into the csv file
         for item in all_data:
-            f.write(f"{item},,,,\n")
+            f.write(f"{unique_id},{item},,,,\n")
+            unique_id += 1
