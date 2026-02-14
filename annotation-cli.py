@@ -43,9 +43,20 @@ def get_annotator():
     3: Tania
     ''')
 
-    annotator_id = int(input("Enter the annotator ID: "))
+    while True:
+        annotator_id = int(input("Enter the annotator ID: "))
+        if annotator_id in range(4):
+            break
+        else:
+            print("Invalid annotator ID. Please enter a valid ID from the list.")
 
-    is_multiple_annotator_task = input("Are you working on the multiple annotator task? (y/n) ").lower() == 'y'
+    while True:
+        is_multiple_annotator_task = input("Are you working on the multiple annotator task? (y/n) ").lower()
+        if is_multiple_annotator_task in ['y', 'n']:
+            is_multiple_annotator_task = (is_multiple_annotator_task == 'y')
+            break
+        else:
+            print("Invalid value. Please enter 'y' for yes or 'n' for no.")
 
     return annotator_id, annotators[annotator_id], is_multiple_annotator_task
 
@@ -63,7 +74,7 @@ def annotate_data(item, annotator_id):
 
     Please read the following text and provide a label for it based on the language it is written in.
         
-    The possible labels are:
+    The possible labels are (label: language):
     en: English          af: Afrikaans          nl: Dutch              id: Indonesian
     es: Spanish          pt: Portuguese         de: German             sv: Swedish
     it: Italian          fr: French             tr: Turkish            tl: Tagalog
@@ -110,7 +121,12 @@ def main():
         base_path = f'data-annotation/{annotator_name}'
 
     data_to_annotate = get_data(base_path)
-    ready = input('Are you ready to start annotating? (y/n) ').lower()
+    while True:
+        ready = input('Are you ready to start annotating? (y/n) ').lower()
+        if ready in ['y', 'n']:
+            break
+        else:
+            print("Invalid value. Please enter 'y' for yes or 'n' for no.")
 
     if ready == 'y':
         # Create file & write header
