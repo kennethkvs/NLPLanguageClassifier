@@ -2,7 +2,7 @@ import csv
 import random
 
 languages = ["en", "es", "it", "af", "pt", "fr", "nl", "de", "tr", "id", "sv", "tl"]
-annotators = {0:'Elite', 1:'Ishpreet', 2:'Kenneth', 3:'Tania', 4:'Multiple'}
+annotators = {0:'Elite', 1:'Ishpreet', 2:'Kenneth', 3:'Tania'}
 
 data = {}
 for language in languages:

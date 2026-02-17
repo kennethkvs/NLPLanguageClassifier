@@ -120,7 +120,7 @@ def main():
     print(f"Annotator ID: {annotator_id}, Annotator Name: {annotator_name}, Multiple Annotator Task: {is_multiple_annotator_task}\n")  
 
     if is_multiple_annotator_task:
-        base_path = os.path.join('data-annotation', 'Multiple')
+        base_path = os.path.join('data-annotation', annotators[(annotator_id + 1) % 4])
     else:
         base_path = os.path.join('data-annotation', annotator_name)
 
