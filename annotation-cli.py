@@ -62,7 +62,8 @@ def get_annotator():
 
 def get_data(base_path):
     data = []
-    with open(f'{base_path}/annotation_data.csv', 'r', encoding='utf-8') as f:
+    path = os.path.join(base_path, "annotation_data.csv")
+    with open(path, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         for row in reader:
             data.append(row)
@@ -94,14 +95,17 @@ def annotate_data(item, annotator_id):
 
 def write_annotated_data(item, current_datetime, base_path):
     # Get the current local date and time as a datetime object
-    with open(f'{base_path}/sessions/{current_datetime}.csv', 'a', encoding='utf-8') as f:
+    path = os.path.join(base_path, "sessions", f"{current_datetime}.csv")
+    with open(path, 'a', encoding='utf-8') as f:
         f.write(f"{item['id']},{item['text']},{item['a0']},{item['a1']},{item['a2']},{item['a3']}\n")
 
 def save_session_data(base_path, current_datetime, initial_data):
-    with open(f'{base_path}/sessions/{current_datetime}.csv', 'r', encoding='utf-8') as session_file:
+    path1 = os.path.join(base_path, "sessions", f"{current_datetime}.csv")
+    path2 = os.path.join(base_path, "annotation_data.csv")
+    with open(path1, 'r', encoding='utf-8') as session_file:
         reader = csv.DictReader(session_file)
         annotated_data = list(reader)
-        with open(f'{base_path}/annotation_data.csv', 'w', encoding='utf-8') as original_file:
+        with open(path2, 'w', encoding='utf-8') as original_file:
             fieldnames = ['id', 'text', 'a0', 'a1', 'a2', 'a3']
             writer = csv.DictWriter(original_file, fieldnames=fieldnames)
             writer.writeheader()
@@ -116,9 +120,9 @@ def main():
     print(f"Annotator ID: {annotator_id}, Annotator Name: {annotator_name}, Multiple Annotator Task: {is_multiple_annotator_task}\n")  
 
     if is_multiple_annotator_task:
-        base_path = f'data-annotation/{annotators[(annotator_id + 1) % 4]}'
+        base_path = os.path.join('data-annotation', annotators[(annotator_id + 1) % 4])
     else:
-        base_path = f'data-annotation/{annotator_name}'
+        base_path = os.path.join('data-annotation', annotator_name)
 
     data_to_annotate = get_data(base_path)
     while True:
@@ -131,8 +135,9 @@ def main():
     if ready == 'y':
         # Create file & write header
         data_annotated_counter = 0
-        current_datetime = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
-        with open(f'{base_path}/sessions/{current_datetime}.csv', 'a', encoding='utf-8') as f:
+        current_datetime = datetime.now().strftime("%Y-%m-%d_%H_%M_%S")
+        path = os.path.join(base_path, "sessions", f"{current_datetime}.csv")
+        with open(path, 'a', encoding='utf-8') as f:
             f.write(f"id,text,a0,a1,a2,a3\n")
 
         # Annotate each item and write to a separate file
