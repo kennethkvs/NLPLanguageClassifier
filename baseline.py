@@ -22,7 +22,7 @@ def gen_test_data(languages):
                 test_data.append(row)
 
     random.shuffle(test_data)
-    test_data = [{'text': item['text'], 'label': item['lang']} for item in test_data]
+    test_data = [{'text': item['text'], 'lang': item['lang']} for item in test_data]
     return test_data
 
 def evaluate(predictions, test_data):
@@ -30,7 +30,7 @@ def evaluate(predictions, test_data):
     total = len(test_data)
 
     for pred, item in zip(predictions, test_data):
-        if pred == item['label']:
+        if pred == item['lang']:
             correct += 1
 
     accuracy = correct / total if total > 0 else 0
