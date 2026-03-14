@@ -19,7 +19,7 @@ def load_data(reference_dir, prediction_dir):
         reference_data = [row for row in reader]
 
     # Load predictions
-    pred_path = os.path.join(prediction_dir, 'prediction.csv')
+    pred_path = os.path.join(prediction_dir, 'prediction_results.csv')
     with open(pred_path, 'r', encoding='utf-8') as f:
         reader = csv.DictReader(f)
         prediction_data = [row for row in reader]
@@ -46,7 +46,10 @@ def evaluate(reference_data, prediction_data):
     return accuracy, f1, precision, recall
 
 def main():
+    print("Loading data...")
     reference_data, prediction_data = load_data(reference_dir, prediction_dir)
+
+    print("Evaluating predictions...")
     accuracy, f1, precision, recall = evaluate(reference_data, prediction_data)
 
     scores = {
@@ -56,8 +59,12 @@ def main():
         'recall': recall
     }
 
+    print("Saving scores...")
     with open(score_file, 'w') as f:
         json.dump(scores, f)
+
+
+    print("Evaluation complete")
 
 if __name__ == "__main__":
     main()
