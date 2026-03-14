@@ -1,0 +1,32 @@
+import random
+import csv
+
+languages = ['af', 'de', 'en', 'es', 'fr', 'id', 'it', 'nl', 'pt', 'sv', 'tl', 'tr']
+splits = ['train', 'validation', 'test']
+
+for split in splits:
+    dataset = []
+    for language in languages:
+        data_path = f'dataset/{split}/{language}_{split}.csv'
+        with open(data_path, 'r') as f:
+          reader = csv.DictReader(f)
+          for row in reader:
+              dataset.append(row)
+            
+    random.shuffle(dataset, seed=42)
+    if split == 'test':
+        dataset = [{'id': data['id'], 'text': data['text']} for data in dataset]
+    else:
+        dataset = [{'id': data['id'], 'text': data['text'], 'lang': data['lang']} for data in dataset]
+    
+    with open(f'codabench-starter-kit/dataset/{split}.csv', 'w') as writer:
+        writer.write('id,text\n' if split == 'test' else 'id,text,lang\n')
+        for data in dataset:
+            writer.writelines(f"{data['id']},{data['text']}\n" if split == 'test' else f"{data['id']},{data['text']},{data['lang']}\n")
+
+    if split == 'test':
+        with open(f'codabench-scoring-program/labels.csv', 'w') as writer:
+            writer.write('id,lang\n')
+            for data in dataset:
+                writer.writelines(f"{data['id']},{data['lang']}\n")
+            
