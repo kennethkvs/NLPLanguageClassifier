@@ -63,7 +63,6 @@ def main():
     with open(score_file, 'w') as f:
         json.dump(scores, f)
 
-
     print("Evaluation complete")
 
 if __name__ == "__main__":
