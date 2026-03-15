@@ -1,1 +1,1 @@
-command: python3 /app/program/scoring-program.py
+command: python3 scoring.py
