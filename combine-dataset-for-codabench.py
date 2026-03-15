@@ -18,12 +18,16 @@ for split in splits:
 
     with open(f'codabench-starter-kit/dataset/{split}.csv', 'w') as writer:
         writer.write('id,text\n' if split == 'test' else 'id,text,lang\n')
+        id_counter = 0
         for data in dataset:
-            writer.writelines(f"{data['id']},{data['text']}\n" if split == 'test' else f"{data['id']},{data['text']},{data['lang']}\n")
+            writer.writelines(f"{id_counter},{data['text']}\n" if split == 'test' else f"{id_counter},{data['text']},{data['lang']}\n")
+            id_counter += 1
 
     if split == 'test':
         with open(f'codabench-reference-data/reference.csv', 'w') as writer:
             writer.write('id,lang\n')
+            id_counter = 0
             for data in dataset:
-                writer.writelines(f"{data['id']},{data['lang']}\n")
+                writer.writelines(f"{id_counter},{data['lang']}\n")
+                id_counter += 1
             
